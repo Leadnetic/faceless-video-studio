@@ -1,0 +1,164 @@
+{
+  "id": "psychology-video-016",
+  "title": "If someone stares at you",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.05,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "cast": {
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.03,
+      "lang": "en-gb"
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    },
+    "suspect": {
+      "voice": "am_fenrir",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "reader",
+      "text": "Someone's staring at you. Hard. Waiting for you to look away.",
+      "pause": 0.35,
+      "emphasis": [
+        "staring"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Most people do one of two things. Stare back. Or stare at the floor.",
+      "pause": 0.3,
+      "emphasis": [
+        "back.",
+        "floor."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Both tell him he's winning.",
+      "pause": 0.5,
+      "emphasis": [
+        "winning."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "In 1972, researchers stood at intersections and stared at drivers waiting at red lights.",
+      "pause": 0.25,
+      "emphasis": [
+        "stared"
+      ],
+      "say": "In nineteen seventy-two, researchers stood at intersections and stared at drivers waiting at red lights."
+    },
+    {
+      "speaker": "narrator",
+      "text": "When the light turned green, the drivers who were stared at sped away faster.",
+      "pause": 0.3,
+      "emphasis": [
+        "faster."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Your brain reads a long stare as a challenge, or a threat. It wants you to move.",
+      "pause": 0.3,
+      "emphasis": [
+        "threat."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "A stare puts your body on alert. That's the whole trick.",
+      "pause": 0.4,
+      "emphasis": [
+        "alert."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "So don't play his game. Here's what I do.",
+      "pause": 0.35,
+      "emphasis": [
+        "don't"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "One. Breathe out slowly and relax your face. Calm reads as confident.",
+      "pause": 0.3,
+      "emphasis": [
+        "One.",
+        "confident."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Two. Meet his eyes for one second, with a small nod. Like you just noticed him.",
+      "pause": 0.3,
+      "emphasis": [
+        "Two.",
+        "nod."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Three. Look away slowly. Not down. To the side, like he's not that interesting.",
+      "pause": 0.35,
+      "emphasis": [
+        "Three.",
+        "side,"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Still staring? Ask him, friendly and out loud: can I help you?",
+      "pause": 0.4,
+      "emphasis": [
+        "help"
+      ]
+    },
+    {
+      "speaker": "suspect",
+      "text": "Uh... no. Sorry.",
+      "pause": 0.45,
+      "emphasis": [
+        "Sorry."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Stares only work in silence. And if it ever feels dangerous, skip all of this and leave.",
+      "pause": 0.3,
+      "emphasis": [
+        "silence.",
+        "leave."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Comment the weirdest stare you've ever gotten. I'll read them.",
+      "pause": 0.3,
+      "emphasis": [
+        "Comment"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Tomorrow: what to do when someone stands too close.",
+      "pause": 0.2,
+      "emphasis": [
+        "Tomorrow:"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "psychology-video-011",
+  "title": "Tell it backwards",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.06,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.6,
+  "cast": {
+    "suspect": {
+      "voice": "am_fenrir",
+      "speed": 1.08
+    },
+    "detective": {
+      "voice": "af_bella",
+      "speed": 1.06
+    },
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.02,
+      "lang": "en-gb",
+      "gain": 1.0
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "suspect",
+      "text": "I left work at six, grabbed dinner, and I was home by eight.",
+      "pause": 0.25,
+      "emphasis": [
+        "six,",
+        "eight."
+      ]
+    },
+    {
+      "speaker": "detective",
+      "text": "Smooth. Too smooth.",
+      "pause": 0.3,
+      "emphasis": [
+        "Too"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Okay. Now tell it backwards.",
+      "pause": 0.4,
+      "emphasis": [
+        "backwards."
+      ]
+    },
+    {
+      "speaker": "suspect",
+      "text": "Backwards? I was home by eight, and before that I... uh...",
+      "pause": 0.45,
+      "emphasis": [
+        "uh..."
+      ],
+      "say": "Backwards? I was home by eight... and before that, I... uh..."
+    },
+    {
+      "speaker": "reader",
+      "text": "There it is.",
+      "pause": 0.6,
+      "emphasis": [
+        "There"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lying is hard work. You invent the story, remember it, and watch the other person.",
+      "pause": 0.25,
+      "emphasis": [
+        "hard"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Reverse order adds even more load. Truth-tellers just remember. Liars run out of room.",
+      "pause": 0.3,
+      "emphasis": [
+        "remember.",
+        "room."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "In a 2008 study, observers caught more lies when people told their story backwards.",
+      "pause": 0.35,
+      "emphasis": [
+        "backwards."
+      ]
+    },
+    {
+      "speaker": "detective",
+      "text": "What about the eyes? Liars look to the left.",
+      "pause": 0.3,
+      "emphasis": [
+        "left."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "A myth. Researchers tested it in 2012. Eye direction tells you nothing.",
+      "pause": 0.35,
+      "emphasis": [
+        "myth.",
+        "nothing."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Want the truth? Make the story work harder.",
+      "pause": 0.2,
+      "emphasis": [
+        "harder."
+      ]
+    }
+  ]
+}

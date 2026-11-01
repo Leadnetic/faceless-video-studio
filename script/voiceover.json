@@ -1,0 +1,21 @@
+{
+  "id": "psychology-video-001",
+  "title": "One Word Changes Everything.",
+  "voice": { "engine": "kokoro-onnx v1.0 (local)", "voice": "am_michael", "speed": 0.86, "pitchShift": 0.955 },
+  "leadIn": 0.45,
+  "tail": 3.3,
+  "lines": [
+    { "text": "One word can change the way someone treats you.", "pause": 0.7, "emphasis": ["One word", "change"] },
+    { "text": "No.", "pause": 1.1, "emphasis": ["No."] },
+    { "text": "You were easy to reach.", "pause": 0.3, "emphasis": ["easy"] },
+    { "text": "Easy to convince.", "pause": 0.3, "emphasis": ["convince."] },
+    { "text": "Always available.", "pause": 0.8, "emphasis": ["Always"] },
+    { "text": "Then, for once, you choose yourself.", "pause": 1.0, "emphasis": ["yourself."] },
+    { "text": "The messages get colder.", "pause": 0.4, "emphasis": ["colder."] },
+    { "text": "The silence gets longer.", "pause": 1.1, "emphasis": ["silence", "longer."] },
+    { "text": "One reaction doesn't tell the whole story.", "pause": 0.45, "emphasis": ["One reaction"] },
+    { "text": "But a repeated pattern does.", "pause": 1.1, "emphasis": ["repeated pattern"] },
+    { "text": "Respect isn't just how someone responds to your yes.", "pause": 0.4, "emphasis": ["Respect", "yes."] },
+    { "text": "It's what happens when you say no.", "pause": 0, "emphasis": ["no."] }
+  ]
+}

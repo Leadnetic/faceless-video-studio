@@ -1,0 +1,123 @@
+{
+  "id": "psychology-video-012",
+  "title": "I read your pen",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.06,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.6,
+  "cast": {
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.02,
+      "lang": "en-gb",
+      "gain": 1.0
+    },
+    "detective": {
+      "voice": "af_bella",
+      "speed": 1.06
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "reader",
+      "text": "Write a name. Any name. I won't look at the paper.",
+      "pause": 0.3,
+      "emphasis": [
+        "name."
+      ]
+    },
+    {
+      "speaker": "detective",
+      "text": "Fine. Done.",
+      "pause": 0.4,
+      "emphasis": [
+        "Done."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Short name. Three letters.",
+      "pause": 0.3,
+      "emphasis": [
+        "Three"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Starts with two mountains. Then a peak. Then a cross.",
+      "pause": 0.5,
+      "emphasis": [
+        "mountains.",
+        "peak.",
+        "cross."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Max.",
+      "pause": 0.7,
+      "emphasis": [
+        "Max."
+      ]
+    },
+    {
+      "speaker": "detective",
+      "text": "You looked!",
+      "pause": 0.3,
+      "emphasis": [
+        "looked!"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "I watched the pen. Not the paper.",
+      "pause": 0.4,
+      "emphasis": [
+        "pen."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "The top of a pen moves more than the tip. Every capital letter has its own shape in the air.",
+      "pause": 0.25,
+      "emphasis": [
+        "shape"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "An M goes up, down, up, down. An A is one sharp peak. An X is two slashes that cross.",
+      "pause": 0.3,
+      "emphasis": [
+        "M",
+        "A",
+        "X"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mentalists call it pencil reading. It's practice, not magic.",
+      "pause": 0.35,
+      "emphasis": [
+        "practice,"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Try it on a friend. Make them write in capitals.",
+      "pause": 0.2,
+      "emphasis": [
+        "capitals."
+      ]
+    }
+  ]
+}

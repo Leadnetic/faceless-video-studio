@@ -1,0 +1,595 @@
+{
+  "id": "psychology-video-009",
+  "title": "Think of a number",
+  "duration": 38.236,
+  "lines": [
+    {
+      "index": 0,
+      "text": "Think of a number between one and ten. Got it?",
+      "start": 0.1,
+      "end": 3.228,
+      "emphasis": [
+        "number"
+      ],
+      "words": [
+        {
+          "word": "Think",
+          "start": 0.1,
+          "end": 0.348
+        },
+        {
+          "word": "of",
+          "start": 0.348,
+          "end": 0.597
+        },
+        {
+          "word": "a",
+          "start": 0.597,
+          "end": 0.845
+        },
+        {
+          "word": "number",
+          "start": 0.845,
+          "end": 1.278
+        },
+        {
+          "word": "between",
+          "start": 1.278,
+          "end": 1.71
+        },
+        {
+          "word": "one",
+          "start": 1.71,
+          "end": 2.142
+        },
+        {
+          "word": "and",
+          "start": 2.142,
+          "end": 2.391
+        },
+        {
+          "word": "ten.",
+          "start": 2.391,
+          "end": 2.685
+        },
+        {
+          "word": "Got",
+          "start": 2.685,
+          "end": 2.933
+        },
+        {
+          "word": "it?",
+          "start": 2.933,
+          "end": 3.228
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 1,
+      "text": "Don't say it. Just hold it.",
+      "start": 3.578,
+      "end": 5.412,
+      "emphasis": [
+        "hold"
+      ],
+      "words": [
+        {
+          "word": "Don't",
+          "start": 3.578,
+          "end": 3.866
+        },
+        {
+          "word": "say",
+          "start": 3.866,
+          "end": 4.154
+        },
+        {
+          "word": "it.",
+          "start": 4.154,
+          "end": 4.495
+        },
+        {
+          "word": "Just",
+          "start": 4.495,
+          "end": 4.783
+        },
+        {
+          "word": "hold",
+          "start": 4.783,
+          "end": 5.071
+        },
+        {
+          "word": "it.",
+          "start": 5.071,
+          "end": 5.412
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 2,
+      "text": "You can't possibly know that.",
+      "start": 5.712,
+      "end": 7.064,
+      "emphasis": [
+        "can't"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 5.712,
+          "end": 5.915
+        },
+        {
+          "word": "can't",
+          "start": 5.915,
+          "end": 6.118
+        },
+        {
+          "word": "possibly",
+          "start": 6.118,
+          "end": 6.621
+        },
+        {
+          "word": "know",
+          "start": 6.621,
+          "end": 6.824
+        },
+        {
+          "word": "that.",
+          "start": 6.824,
+          "end": 7.064
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 3,
+      "text": "It's not too small. Not too big. Not the boring middle.",
+      "start": 7.364,
+      "end": 10.901,
+      "emphasis": [
+        "small.",
+        "big.",
+        "middle."
+      ],
+      "words": [
+        {
+          "word": "It's",
+          "start": 7.364,
+          "end": 7.635
+        },
+        {
+          "word": "not",
+          "start": 7.635,
+          "end": 7.907
+        },
+        {
+          "word": "too",
+          "start": 7.907,
+          "end": 8.178
+        },
+        {
+          "word": "small.",
+          "start": 8.178,
+          "end": 8.5
+        },
+        {
+          "word": "Not",
+          "start": 8.5,
+          "end": 8.771
+        },
+        {
+          "word": "too",
+          "start": 8.771,
+          "end": 9.042
+        },
+        {
+          "word": "big.",
+          "start": 9.042,
+          "end": 9.364
+        },
+        {
+          "word": "Not",
+          "start": 9.364,
+          "end": 9.635
+        },
+        {
+          "word": "the",
+          "start": 9.635,
+          "end": 9.906
+        },
+        {
+          "word": "boring",
+          "start": 9.906,
+          "end": 10.378
+        },
+        {
+          "word": "middle.",
+          "start": 10.378,
+          "end": 10.901
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 4,
+      "text": "It's seven.",
+      "start": 11.351,
+      "end": 12.217,
+      "emphasis": [
+        "seven."
+      ],
+      "words": [
+        {
+          "word": "It's",
+          "start": 11.351,
+          "end": 11.647
+        },
+        {
+          "word": "seven.",
+          "start": 11.647,
+          "end": 12.217
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 5,
+      "text": "How?",
+      "start": 12.917,
+      "end": 13.311,
+      "emphasis": [
+        "How?"
+      ],
+      "words": [
+        {
+          "word": "How?",
+          "start": 12.917,
+          "end": 13.311
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 6,
+      "text": "In 1976, two psychologists asked 558 people to pick a single digit.",
+      "start": 13.661,
+      "end": 19.662,
+      "emphasis": [
+        "558"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 13.661,
+          "end": 14.002
+        },
+        {
+          "word": "1976,",
+          "start": 14.002,
+          "end": 14.408
+        },
+        {
+          "word": "two",
+          "start": 14.408,
+          "end": 14.749
+        },
+        {
+          "word": "psychologists",
+          "start": 14.749,
+          "end": 15.851
+        },
+        {
+          "word": "asked",
+          "start": 15.851,
+          "end": 16.446
+        },
+        {
+          "word": "558",
+          "start": 16.446,
+          "end": 16.788
+        },
+        {
+          "word": "people",
+          "start": 16.788,
+          "end": 17.383
+        },
+        {
+          "word": "to",
+          "start": 17.383,
+          "end": 17.725
+        },
+        {
+          "word": "pick",
+          "start": 17.725,
+          "end": 18.067
+        },
+        {
+          "word": "a",
+          "start": 18.067,
+          "end": 18.409
+        },
+        {
+          "word": "single",
+          "start": 18.409,
+          "end": 19.004
+        },
+        {
+          "word": "digit.",
+          "start": 19.004,
+          "end": 19.662
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 7,
+      "text": "Seven won. By a lot. Almost three times more often than chance.",
+      "start": 19.912,
+      "end": 23.616,
+      "emphasis": [
+        "Seven",
+        "three"
+      ],
+      "words": [
+        {
+          "word": "Seven",
+          "start": 19.912,
+          "end": 20.291
+        },
+        {
+          "word": "won.",
+          "start": 20.291,
+          "end": 20.55
+        },
+        {
+          "word": "By",
+          "start": 20.55,
+          "end": 20.767
+        },
+        {
+          "word": "a",
+          "start": 20.767,
+          "end": 20.985
+        },
+        {
+          "word": "lot.",
+          "start": 20.985,
+          "end": 21.244
+        },
+        {
+          "word": "Almost",
+          "start": 21.244,
+          "end": 21.623
+        },
+        {
+          "word": "three",
+          "start": 21.623,
+          "end": 21.841
+        },
+        {
+          "word": "times",
+          "start": 21.841,
+          "end": 22.22
+        },
+        {
+          "word": "more",
+          "start": 22.22,
+          "end": 22.599
+        },
+        {
+          "word": "often",
+          "start": 22.599,
+          "end": 22.979
+        },
+        {
+          "word": "than",
+          "start": 22.979,
+          "end": 23.196
+        },
+        {
+          "word": "chance.",
+          "start": 23.196,
+          "end": 23.616
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "One and ten feel like edges. Five is the middle. Even numbers feel too neat.",
+      "start": 23.966,
+      "end": 28.996,
+      "emphasis": [
+        "edges.",
+        "middle.",
+        "neat."
+      ],
+      "words": [
+        {
+          "word": "One",
+          "start": 23.966,
+          "end": 24.388
+        },
+        {
+          "word": "and",
+          "start": 24.388,
+          "end": 24.631
+        },
+        {
+          "word": "ten",
+          "start": 24.631,
+          "end": 24.873
+        },
+        {
+          "word": "feel",
+          "start": 24.873,
+          "end": 25.116
+        },
+        {
+          "word": "like",
+          "start": 25.116,
+          "end": 25.538
+        },
+        {
+          "word": "edges.",
+          "start": 25.538,
+          "end": 26.005
+        },
+        {
+          "word": "Five",
+          "start": 26.005,
+          "end": 26.427
+        },
+        {
+          "word": "is",
+          "start": 26.427,
+          "end": 26.669
+        },
+        {
+          "word": "the",
+          "start": 26.669,
+          "end": 26.912
+        },
+        {
+          "word": "middle.",
+          "start": 26.912,
+          "end": 27.379
+        },
+        {
+          "word": "Even",
+          "start": 27.379,
+          "end": 27.801
+        },
+        {
+          "word": "numbers",
+          "start": 27.801,
+          "end": 28.223
+        },
+        {
+          "word": "feel",
+          "start": 28.223,
+          "end": 28.466
+        },
+        {
+          "word": "too",
+          "start": 28.466,
+          "end": 28.708
+        },
+        {
+          "word": "neat.",
+          "start": 28.708,
+          "end": 28.996
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 9,
+      "text": "Seven feels random. That's exactly why everyone picks it.",
+      "start": 29.296,
+      "end": 33.196,
+      "emphasis": [
+        "random.",
+        "everyone"
+      ],
+      "words": [
+        {
+          "word": "Seven",
+          "start": 29.296,
+          "end": 29.762
+        },
+        {
+          "word": "feels",
+          "start": 29.762,
+          "end": 30.03
+        },
+        {
+          "word": "random.",
+          "start": 30.03,
+          "end": 30.546
+        },
+        {
+          "word": "That's",
+          "start": 30.546,
+          "end": 30.814
+        },
+        {
+          "word": "exactly",
+          "start": 30.814,
+          "end": 31.479
+        },
+        {
+          "word": "why",
+          "start": 31.479,
+          "end": 31.747
+        },
+        {
+          "word": "everyone",
+          "start": 31.747,
+          "end": 32.611
+        },
+        {
+          "word": "picks",
+          "start": 32.611,
+          "end": 32.879
+        },
+        {
+          "word": "it.",
+          "start": 32.879,
+          "end": 33.196
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 10,
+      "text": "Wasn't seven? Comment your number. I'll wait.",
+      "start": 33.596,
+      "end": 36.436,
+      "emphasis": [
+        "Comment"
+      ],
+      "words": [
+        {
+          "word": "Wasn't",
+          "start": 33.596,
+          "end": 33.887
+        },
+        {
+          "word": "seven?",
+          "start": 33.887,
+          "end": 34.446
+        },
+        {
+          "word": "Comment",
+          "start": 34.446,
+          "end": 34.951
+        },
+        {
+          "word": "your",
+          "start": 34.951,
+          "end": 35.242
+        },
+        {
+          "word": "number.",
+          "start": 35.242,
+          "end": 35.801
+        },
+        {
+          "word": "I'll",
+          "start": 35.801,
+          "end": 36.091
+        },
+        {
+          "word": "wait.",
+          "start": 36.091,
+          "end": 36.436
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

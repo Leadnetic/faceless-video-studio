@@ -1,0 +1,122 @@
+{
+  "id": "psychology-video-002",
+  "title": "The Conversation Ended. Your Mind Didn't.",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "am_michael",
+    "speed": 0.96,
+    "pitchShift": 0.955
+  },
+  "leadIn": 0.3,
+  "tail": 2.1,
+  "lines": [
+    {
+      "text": "The conversation ended hours ago.",
+      "pause": 0.4,
+      "emphasis": [
+        "ended"
+      ]
+    },
+    {
+      "text": "So why are you still thinking about it?",
+      "pause": 0.6,
+      "emphasis": [
+        "still thinking"
+      ]
+    },
+    {
+      "text": "That one word.",
+      "pause": 0.25,
+      "emphasis": [
+        "one word."
+      ]
+    },
+    {
+      "text": "That awkward pause.",
+      "pause": 0.25,
+      "emphasis": [
+        "awkward pause."
+      ]
+    },
+    {
+      "text": "The look on their face.",
+      "pause": 0.45,
+      "emphasis": [
+        "look"
+      ]
+    },
+    {
+      "text": "You replay everything, searching for something you might have done wrong.",
+      "pause": 0.5,
+      "emphasis": [
+        "replay",
+        "wrong."
+      ]
+    },
+    {
+      "text": "Sometimes, this becomes rumination.",
+      "pause": 0.45,
+      "emphasis": [
+        "rumination."
+      ]
+    },
+    {
+      "text": "The same thoughts.",
+      "pause": 0.15,
+      "emphasis": [
+        "same"
+      ]
+    },
+    {
+      "text": "The same worries.",
+      "pause": 0.15,
+      "emphasis": [
+        "same"
+      ]
+    },
+    {
+      "text": "Over and over.",
+      "pause": 0.6,
+      "emphasis": [
+        "Over",
+        "over."
+      ]
+    },
+    {
+      "text": "And the strange part?",
+      "pause": 0.3,
+      "emphasis": [
+        "strange"
+      ]
+    },
+    {
+      "text": "It feels like you're solving something.",
+      "pause": 0.55,
+      "emphasis": [
+        "solving"
+      ]
+    },
+    {
+      "text": "But replaying a moment doesn't change what happened.",
+      "pause": 1.0,
+      "emphasis": [
+        "doesn't change"
+      ]
+    },
+    {
+      "text": "Sometimes, the next step...",
+      "pause": 0.55,
+      "emphasis": [
+        "next step..."
+      ]
+    },
+    {
+      "text": "is to stop pressing rewind.",
+      "pause": 0,
+      "emphasis": [
+        "stop",
+        "rewind."
+      ]
+    }
+  ]
+}

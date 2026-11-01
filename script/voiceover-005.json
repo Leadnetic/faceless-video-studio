@@ -1,0 +1,78 @@
+{
+  "id": "psychology-video-005",
+  "title": "Why you forget why you walked into a room",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.12,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.3,
+  "lines": [
+    {
+      "text": "You walk into the kitchen\u2026 and just stand there.",
+      "pause": 0.35,
+      "emphasis": [
+        "stand"
+      ]
+    },
+    {
+      "text": "Why did you come in here?",
+      "pause": 0.3,
+      "emphasis": [
+        "here?"
+      ]
+    },
+    {
+      "text": "Blame the door.",
+      "pause": 0.3,
+      "emphasis": [
+        "door."
+      ]
+    },
+    {
+      "text": "Your brain stores memories in scenes, like chapters in a video game.",
+      "pause": 0.15,
+      "emphasis": [
+        "chapters"
+      ]
+    },
+    {
+      "text": "Walk through a doorway, and your brain goes: new room, new chapter. Save and close.",
+      "pause": 0.2,
+      "emphasis": [
+        "chapter."
+      ]
+    },
+    {
+      "text": "Your reason for coming in? It stayed in the old chapter.",
+      "pause": 0.3,
+      "emphasis": [
+        "old"
+      ]
+    },
+    {
+      "text": "Researchers tested it in 2011. A doorway made people forget more than the same walk inside one room.",
+      "pause": 0.3,
+      "emphasis": [
+        "doorway"
+      ]
+    },
+    {
+      "text": "Quick fix: go back to where you had the thought.",
+      "pause": 0.25,
+      "emphasis": [
+        "back"
+      ]
+    },
+    {
+      "text": "Or do what everyone does. Open the fridge, and act like that was the plan.",
+      "pause": 0,
+      "emphasis": [
+        "fridge,"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "id": "psychology-video-005",
+  "title": "Why you forget why you walked into a room",
+  "duration": 30.155,
+  "lines": [
+    {
+      "index": 0,
+      "text": "You walk into the kitchen\u2026 and just stand there.",
+      "start": 0.1,
+      "end": 2.158,
+      "emphasis": [
+        "stand"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 0.1,
+          "end": 0.28
+        },
+        {
+          "word": "walk",
+          "start": 0.28,
+          "end": 0.461
+        },
+        {
+          "word": "into",
+          "start": 0.461,
+          "end": 0.775
+        },
+        {
+          "word": "the",
+          "start": 0.775,
+          "end": 0.955
+        },
+        {
+          "word": "kitchen\u2026",
+          "start": 0.955,
+          "end": 1.269
+        },
+        {
+          "word": "and",
+          "start": 1.269,
+          "end": 1.45
+        },
+        {
+          "word": "just",
+          "start": 1.45,
+          "end": 1.63
+        },
+        {
+          "word": "stand",
+          "start": 1.63,
+          "end": 1.811
+        },
+        {
+          "word": "there.",
+          "start": 1.811,
+          "end": 2.158
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "Why did you come in here?",
+      "start": 2.508,
+      "end": 3.596,
+      "emphasis": [
+        "here?"
+      ],
+      "words": [
+        {
+          "word": "Why",
+          "start": 2.508,
+          "end": 2.65
+        },
+        {
+          "word": "did",
+          "start": 2.65,
+          "end": 2.792
+        },
+        {
+          "word": "you",
+          "start": 2.792,
+          "end": 2.934
+        },
+        {
+          "word": "come",
+          "start": 2.934,
+          "end": 3.181
+        },
+        {
+          "word": "in",
+          "start": 3.181,
+          "end": 3.323
+        },
+        {
+          "word": "here?",
+          "start": 3.323,
+          "end": 3.596
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "Blame the door.",
+      "start": 3.896,
+      "end": 4.669,
+      "emphasis": [
+        "door."
+      ],
+      "words": [
+        {
+          "word": "Blame",
+          "start": 3.896,
+          "end": 4.238
+        },
+        {
+          "word": "the",
+          "start": 4.238,
+          "end": 4.435
+        },
+        {
+          "word": "door.",
+          "start": 4.435,
+          "end": 4.669
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Your brain stores memories in scenes, like chapters in a video game.",
+      "start": 4.969,
+      "end": 8.509,
+      "emphasis": [
+        "chapters"
+      ],
+      "words": [
+        {
+          "word": "Your",
+          "start": 4.969,
+          "end": 5.162
+        },
+        {
+          "word": "brain",
+          "start": 5.162,
+          "end": 5.356
+        },
+        {
+          "word": "stores",
+          "start": 5.356,
+          "end": 5.692
+        },
+        {
+          "word": "memories",
+          "start": 5.692,
+          "end": 6.172
+        },
+        {
+          "word": "in",
+          "start": 6.172,
+          "end": 6.366
+        },
+        {
+          "word": "scenes,",
+          "start": 6.366,
+          "end": 6.739
+        },
+        {
+          "word": "like",
+          "start": 6.739,
+          "end": 7.075
+        },
+        {
+          "word": "chapters",
+          "start": 7.075,
+          "end": 7.412
+        },
+        {
+          "word": "in",
+          "start": 7.412,
+          "end": 7.606
+        },
+        {
+          "word": "a",
+          "start": 7.606,
+          "end": 7.799
+        },
+        {
+          "word": "video",
+          "start": 7.799,
+          "end": 8.136
+        },
+        {
+          "word": "game.",
+          "start": 8.136,
+          "end": 8.509
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Walk through a doorway, and your brain goes: new room, new chapter. Save and close.",
+      "start": 8.659,
+      "end": 12.896,
+      "emphasis": [
+        "chapter."
+      ],
+      "words": [
+        {
+          "word": "Walk",
+          "start": 8.659,
+          "end": 8.885
+        },
+        {
+          "word": "through",
+          "start": 8.885,
+          "end": 9.112
+        },
+        {
+          "word": "a",
+          "start": 9.112,
+          "end": 9.338
+        },
+        {
+          "word": "doorway,",
+          "start": 9.338,
+          "end": 9.775
+        },
+        {
+          "word": "and",
+          "start": 9.775,
+          "end": 10.001
+        },
+        {
+          "word": "your",
+          "start": 10.001,
+          "end": 10.228
+        },
+        {
+          "word": "brain",
+          "start": 10.228,
+          "end": 10.454
+        },
+        {
+          "word": "goes:",
+          "start": 10.454,
+          "end": 10.681
+        },
+        {
+          "word": "new",
+          "start": 10.681,
+          "end": 10.907
+        },
+        {
+          "word": "room,",
+          "start": 10.907,
+          "end": 11.176
+        },
+        {
+          "word": "new",
+          "start": 11.176,
+          "end": 11.403
+        },
+        {
+          "word": "chapter.",
+          "start": 11.403,
+          "end": 11.839
+        },
+        {
+          "word": "Save",
+          "start": 11.839,
+          "end": 12.233
+        },
+        {
+          "word": "and",
+          "start": 12.233,
+          "end": 12.46
+        },
+        {
+          "word": "close.",
+          "start": 12.46,
+          "end": 12.896
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Your reason for coming in? It stayed in the old chapter.",
+      "start": 13.096,
+      "end": 15.824,
+      "emphasis": [
+        "old"
+      ],
+      "words": [
+        {
+          "word": "Your",
+          "start": 13.096,
+          "end": 13.297
+        },
+        {
+          "word": "reason",
+          "start": 13.297,
+          "end": 13.646
+        },
+        {
+          "word": "for",
+          "start": 13.646,
+          "end": 13.847
+        },
+        {
+          "word": "coming",
+          "start": 13.847,
+          "end": 14.196
+        },
+        {
+          "word": "in?",
+          "start": 14.196,
+          "end": 14.434
+        },
+        {
+          "word": "It",
+          "start": 14.434,
+          "end": 14.635
+        },
+        {
+          "word": "stayed",
+          "start": 14.635,
+          "end": 14.836
+        },
+        {
+          "word": "in",
+          "start": 14.836,
+          "end": 15.036
+        },
+        {
+          "word": "the",
+          "start": 15.036,
+          "end": 15.237
+        },
+        {
+          "word": "old",
+          "start": 15.237,
+          "end": 15.438
+        },
+        {
+          "word": "chapter.",
+          "start": 15.438,
+          "end": 15.824
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "Researchers tested it in 2011. A doorway made people forget more than the same walk inside one room.",
+      "start": 16.124,
+      "end": 22.624,
+      "emphasis": [
+        "doorway"
+      ],
+      "words": [
+        {
+          "word": "Researchers",
+          "start": 16.124,
+          "end": 16.716
+        },
+        {
+          "word": "tested",
+          "start": 16.716,
+          "end": 17.131
+        },
+        {
+          "word": "it",
+          "start": 17.131,
+          "end": 17.37
+        },
+        {
+          "word": "in",
+          "start": 17.37,
+          "end": 17.608
+        },
+        {
+          "word": "2011.",
+          "start": 17.608,
+          "end": 17.891
+        },
+        {
+          "word": "A",
+          "start": 17.891,
+          "end": 18.129
+        },
+        {
+          "word": "doorway",
+          "start": 18.129,
+          "end": 18.544
+        },
+        {
+          "word": "made",
+          "start": 18.544,
+          "end": 18.959
+        },
+        {
+          "word": "people",
+          "start": 18.959,
+          "end": 19.374
+        },
+        {
+          "word": "forget",
+          "start": 19.374,
+          "end": 19.789
+        },
+        {
+          "word": "more",
+          "start": 19.789,
+          "end": 20.204
+        },
+        {
+          "word": "than",
+          "start": 20.204,
+          "end": 20.443
+        },
+        {
+          "word": "the",
+          "start": 20.443,
+          "end": 20.681
+        },
+        {
+          "word": "same",
+          "start": 20.681,
+          "end": 21.096
+        },
+        {
+          "word": "walk",
+          "start": 21.096,
+          "end": 21.335
+        },
+        {
+          "word": "inside",
+          "start": 21.335,
+          "end": 21.926
+        },
+        {
+          "word": "one",
+          "start": 21.926,
+          "end": 22.341
+        },
+        {
+          "word": "room.",
+          "start": 22.341,
+          "end": 22.624
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Quick fix: go back to where you had the thought.",
+      "start": 22.924,
+      "end": 24.89,
+      "emphasis": [
+        "back"
+      ],
+      "words": [
+        {
+          "word": "Quick",
+          "start": 22.924,
+          "end": 23.104
+        },
+        {
+          "word": "fix:",
+          "start": 23.104,
+          "end": 23.284
+        },
+        {
+          "word": "go",
+          "start": 23.284,
+          "end": 23.464
+        },
+        {
+          "word": "back",
+          "start": 23.464,
+          "end": 23.644
+        },
+        {
+          "word": "to",
+          "start": 23.644,
+          "end": 23.824
+        },
+        {
+          "word": "where",
+          "start": 23.824,
+          "end": 24.137
+        },
+        {
+          "word": "you",
+          "start": 24.137,
+          "end": 24.317
+        },
+        {
+          "word": "had",
+          "start": 24.317,
+          "end": 24.497
+        },
+        {
+          "word": "the",
+          "start": 24.497,
+          "end": 24.677
+        },
+        {
+          "word": "thought.",
+          "start": 24.677,
+          "end": 24.89
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Or do what everyone does. Open the fridge, and act like that was the plan.",
+      "start": 25.14,
+      "end": 28.855,
+      "emphasis": [
+        "fridge,"
+      ],
+      "words": [
+        {
+          "word": "Or",
+          "start": 25.14,
+          "end": 25.326
+        },
+        {
+          "word": "do",
+          "start": 25.326,
+          "end": 25.511
+        },
+        {
+          "word": "what",
+          "start": 25.511,
+          "end": 25.697
+        },
+        {
+          "word": "everyone",
+          "start": 25.697,
+          "end": 26.296
+        },
+        {
+          "word": "does.",
+          "start": 26.296,
+          "end": 26.516
+        },
+        {
+          "word": "Open",
+          "start": 26.516,
+          "end": 26.839
+        },
+        {
+          "word": "the",
+          "start": 26.839,
+          "end": 27.025
+        },
+        {
+          "word": "fridge,",
+          "start": 27.025,
+          "end": 27.383
+        },
+        {
+          "word": "and",
+          "start": 27.383,
+          "end": 27.568
+        },
+        {
+          "word": "act",
+          "start": 27.568,
+          "end": 27.754
+        },
+        {
+          "word": "like",
+          "start": 27.754,
+          "end": 28.077
+        },
+        {
+          "word": "that",
+          "start": 28.077,
+          "end": 28.263
+        },
+        {
+          "word": "was",
+          "start": 28.263,
+          "end": 28.449
+        },
+        {
+          "word": "the",
+          "start": 28.449,
+          "end": 28.635
+        },
+        {
+          "word": "plan.",
+          "start": 28.635,
+          "end": 28.855
+        }
+      ]
+    }
+  ]
+}

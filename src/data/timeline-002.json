@@ -1,0 +1,550 @@
+{
+  "id": "psychology-video-002",
+  "title": "The Conversation Ended. Your Mind Didn't.",
+  "duration": 33.814,
+  "lines": [
+    {
+      "index": 0,
+      "text": "The conversation ended hours ago.",
+      "start": 0.3,
+      "end": 2.416,
+      "emphasis": [
+        "ended"
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 0.3,
+          "end": 0.538
+        },
+        {
+          "word": "conversation",
+          "start": 0.538,
+          "end": 1.305
+        },
+        {
+          "word": "ended",
+          "start": 1.305,
+          "end": 1.72
+        },
+        {
+          "word": "hours",
+          "start": 1.72,
+          "end": 1.958
+        },
+        {
+          "word": "ago.",
+          "start": 1.958,
+          "end": 2.416
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "So why are you still thinking about it?",
+      "start": 2.816,
+      "end": 4.814,
+      "emphasis": [
+        "still thinking"
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 2.816,
+          "end": 3.008
+        },
+        {
+          "word": "why",
+          "start": 3.008,
+          "end": 3.2
+        },
+        {
+          "word": "are",
+          "start": 3.2,
+          "end": 3.534
+        },
+        {
+          "word": "you",
+          "start": 3.534,
+          "end": 3.726
+        },
+        {
+          "word": "still",
+          "start": 3.726,
+          "end": 3.918
+        },
+        {
+          "word": "thinking",
+          "start": 3.918,
+          "end": 4.252
+        },
+        {
+          "word": "about",
+          "start": 4.252,
+          "end": 4.586
+        },
+        {
+          "word": "it?",
+          "start": 4.586,
+          "end": 4.814
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "That one word.",
+      "start": 5.414,
+      "end": 6.414,
+      "emphasis": [
+        "one word."
+      ],
+      "words": [
+        {
+          "word": "That",
+          "start": 5.414,
+          "end": 5.669
+        },
+        {
+          "word": "one",
+          "start": 5.669,
+          "end": 6.112
+        },
+        {
+          "word": "word.",
+          "start": 6.112,
+          "end": 6.414
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "That awkward pause.",
+      "start": 6.664,
+      "end": 7.906,
+      "emphasis": [
+        "awkward pause."
+      ],
+      "words": [
+        {
+          "word": "That",
+          "start": 6.664,
+          "end": 6.93
+        },
+        {
+          "word": "awkward",
+          "start": 6.93,
+          "end": 7.394
+        },
+        {
+          "word": "pause.",
+          "start": 7.394,
+          "end": 7.906
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "The look on their face.",
+      "start": 8.156,
+      "end": 9.392,
+      "emphasis": [
+        "look"
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 8.156,
+          "end": 8.365
+        },
+        {
+          "word": "look",
+          "start": 8.365,
+          "end": 8.573
+        },
+        {
+          "word": "on",
+          "start": 8.573,
+          "end": 8.782
+        },
+        {
+          "word": "their",
+          "start": 8.782,
+          "end": 8.99
+        },
+        {
+          "word": "face.",
+          "start": 8.99,
+          "end": 9.392
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "You replay everything, searching for something you might have done wrong.",
+      "start": 9.842,
+      "end": 13.57,
+      "emphasis": [
+        "replay",
+        "wrong."
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 9.842,
+          "end": 10.049
+        },
+        {
+          "word": "replay",
+          "start": 10.049,
+          "end": 10.408
+        },
+        {
+          "word": "everything,",
+          "start": 10.408,
+          "end": 11.113
+        },
+        {
+          "word": "searching",
+          "start": 11.113,
+          "end": 11.473
+        },
+        {
+          "word": "for",
+          "start": 11.473,
+          "end": 11.679
+        },
+        {
+          "word": "something",
+          "start": 11.679,
+          "end": 12.192
+        },
+        {
+          "word": "you",
+          "start": 12.192,
+          "end": 12.399
+        },
+        {
+          "word": "might",
+          "start": 12.399,
+          "end": 12.606
+        },
+        {
+          "word": "have",
+          "start": 12.606,
+          "end": 12.966
+        },
+        {
+          "word": "done",
+          "start": 12.966,
+          "end": 13.325
+        },
+        {
+          "word": "wrong.",
+          "start": 13.325,
+          "end": 13.57
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "Sometimes, this becomes rumination.",
+      "start": 14.07,
+      "end": 16.126,
+      "emphasis": [
+        "rumination."
+      ],
+      "words": [
+        {
+          "word": "Sometimes,",
+          "start": 14.07,
+          "end": 14.751
+        },
+        {
+          "word": "this",
+          "start": 14.751,
+          "end": 14.95
+        },
+        {
+          "word": "becomes",
+          "start": 14.95,
+          "end": 15.446
+        },
+        {
+          "word": "rumination.",
+          "start": 15.446,
+          "end": 16.126
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "The same thoughts.",
+      "start": 16.576,
+      "end": 17.688,
+      "emphasis": [
+        "same"
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 16.576,
+          "end": 16.86
+        },
+        {
+          "word": "same",
+          "start": 16.86,
+          "end": 17.352
+        },
+        {
+          "word": "thoughts.",
+          "start": 17.352,
+          "end": 17.688
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "The same worries.",
+      "start": 17.838,
+      "end": 18.865,
+      "emphasis": [
+        "same"
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 17.838,
+          "end": 18.058
+        },
+        {
+          "word": "same",
+          "start": 18.058,
+          "end": 18.441
+        },
+        {
+          "word": "worries.",
+          "start": 18.441,
+          "end": 18.865
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "Over and over.",
+      "start": 19.015,
+      "end": 19.914,
+      "emphasis": [
+        "Over",
+        "over."
+      ],
+      "words": [
+        {
+          "word": "Over",
+          "start": 19.015,
+          "end": 19.35
+        },
+        {
+          "word": "and",
+          "start": 19.35,
+          "end": 19.543
+        },
+        {
+          "word": "over.",
+          "start": 19.543,
+          "end": 19.914
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "And the strange part?",
+      "start": 20.514,
+      "end": 21.651,
+      "emphasis": [
+        "strange"
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 20.514,
+          "end": 20.745
+        },
+        {
+          "word": "the",
+          "start": 20.745,
+          "end": 20.975
+        },
+        {
+          "word": "strange",
+          "start": 20.975,
+          "end": 21.377
+        },
+        {
+          "word": "part?",
+          "start": 21.377,
+          "end": 21.651
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "It feels like you're solving something.",
+      "start": 21.951,
+      "end": 23.846,
+      "emphasis": [
+        "solving"
+      ],
+      "words": [
+        {
+          "word": "It",
+          "start": 21.951,
+          "end": 22.143
+        },
+        {
+          "word": "feels",
+          "start": 22.143,
+          "end": 22.334
+        },
+        {
+          "word": "like",
+          "start": 22.334,
+          "end": 22.668
+        },
+        {
+          "word": "you're",
+          "start": 22.668,
+          "end": 23.001
+        },
+        {
+          "word": "solving",
+          "start": 23.001,
+          "end": 23.335
+        },
+        {
+          "word": "something.",
+          "start": 23.335,
+          "end": 23.846
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "But replaying a moment doesn't change what happened.",
+      "start": 24.396,
+      "end": 27.149,
+      "emphasis": [
+        "doesn't change"
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 24.396,
+          "end": 24.627
+        },
+        {
+          "word": "replaying",
+          "start": 24.627,
+          "end": 25.03
+        },
+        {
+          "word": "a",
+          "start": 25.03,
+          "end": 25.262
+        },
+        {
+          "word": "moment",
+          "start": 25.262,
+          "end": 25.665
+        },
+        {
+          "word": "doesn't",
+          "start": 25.665,
+          "end": 25.897
+        },
+        {
+          "word": "change",
+          "start": 25.897,
+          "end": 26.3
+        },
+        {
+          "word": "what",
+          "start": 26.3,
+          "end": 26.531
+        },
+        {
+          "word": "happened.",
+          "start": 26.531,
+          "end": 27.149
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "Sometimes, the next step...",
+      "start": 28.149,
+      "end": 29.539,
+      "emphasis": [
+        "next step..."
+      ],
+      "words": [
+        {
+          "word": "Sometimes,",
+          "start": 28.149,
+          "end": 28.867
+        },
+        {
+          "word": "the",
+          "start": 28.867,
+          "end": 29.078
+        },
+        {
+          "word": "next",
+          "start": 29.078,
+          "end": 29.289
+        },
+        {
+          "word": "step...",
+          "start": 29.289,
+          "end": 29.539
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "text": "is to stop pressing rewind.",
+      "start": 30.089,
+      "end": 31.714,
+      "emphasis": [
+        "stop",
+        "rewind."
+      ],
+      "words": [
+        {
+          "word": "is",
+          "start": 30.089,
+          "end": 30.333
+        },
+        {
+          "word": "to",
+          "start": 30.333,
+          "end": 30.576
+        },
+        {
+          "word": "stop",
+          "start": 30.576,
+          "end": 30.82
+        },
+        {
+          "word": "pressing",
+          "start": 30.82,
+          "end": 31.245
+        },
+        {
+          "word": "rewind.",
+          "start": 31.245,
+          "end": 31.714
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+node_modules/
+renders/*
+!renders/*.sh
+previews/
+output/*.mp4
+output/*.jpg
+tools/tts/venv/
+tools/tts/*.onnx
+tools/tts/*.bin
+tools/__pycache__/
+public/audio/*
+!public/audio/v017/
+!public/audio/v018/
+*.log
+.DS_Store

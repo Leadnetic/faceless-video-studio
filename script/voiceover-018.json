@@ -1,0 +1,158 @@
+{
+  "id": "psychology-video-018",
+  "title": "38 witnesses",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.02,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "eleven": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "model": "eleven_v3",
+    "stability": 0.35,
+    "similarity": 0.8,
+    "style": 0.5
+  },
+  "leadIn": 0.1,
+  "tail": 2.0,
+  "lines": [
+    {
+      "text": "In 1964, a newspaper reported that thirty-eight people watched a woman being attacked in New York. And not one of them helped.",
+      "pause": 0.5,
+      "emphasis": [
+        "thirty-eight",
+        "not"
+      ],
+      "speed": 1.0,
+      "say": "In nineteen sixty-four, a newspaper reported that thirty-eight people watched a woman being attacked in New York... And not one of them helped.",
+      "say11": "[serious] In 1964, a newspaper reported that thirty-eight people watched a woman being attacked in New York. [pause] And not one of them helped."
+    },
+    {
+      "text": "Her name was Kitty Genovese. The story shocked the country.",
+      "pause": 0.45,
+      "emphasis": [
+        "Kitty"
+      ],
+      "speed": 0.95,
+      "say11": "[softly] Her name was Kitty Genovese. The story shocked the country."
+    },
+    {
+      "text": "Psychologists built a whole theory on it. The bystander effect. The more people watch, the less anyone helps.",
+      "pause": 0.35,
+      "emphasis": [
+        "bystander",
+        "less"
+      ],
+      "speed": 1.06
+    },
+    {
+      "text": "In a famous lab test, people heard someone having a seizure. Alone, eighty-five percent ran to help. In a group of five, only thirty-one percent did.",
+      "pause": 0.5,
+      "emphasis": [
+        "eighty-five",
+        "thirty-one"
+      ],
+      "speed": 1.06
+    },
+    {
+      "text": "But the thirty-eight witnesses? That number didn't hold up.",
+      "pause": 0.55,
+      "emphasis": [
+        "But",
+        "didn't"
+      ],
+      "speed": 0.97,
+      "say": "But... the thirty-eight witnesses? That number didn't hold up.",
+      "say11": "[dramatic pause] But... the thirty-eight witnesses? [beat] That number didn't hold up."
+    },
+    {
+      "text": "Most neighbors only heard noises, late at night. Very few actually saw anything.",
+      "pause": 0.35,
+      "emphasis": [
+        "heard",
+        "saw"
+      ],
+      "speed": 1.04
+    },
+    {
+      "text": "At least one person called the police. And a neighbor, Sophia Farrar, ran outside and held Kitty in her arms.",
+      "pause": 0.6,
+      "emphasis": [
+        "called",
+        "held"
+      ],
+      "speed": 0.98,
+      "say11": "At least one person called the police. [softly] And a neighbor, Sophia Farrar, ran outside... and held Kitty in her arms."
+    },
+    {
+      "text": "Decades later, the newspaper itself admitted the story was badly exaggerated.",
+      "pause": 0.5,
+      "emphasis": [
+        "exaggerated."
+      ],
+      "speed": 1.03
+    },
+    {
+      "text": "So is the bystander effect fake? Not quite. In the lab, it's real.",
+      "pause": 0.45,
+      "emphasis": [
+        "Not",
+        "real."
+      ],
+      "speed": 1.02,
+      "say": "So is the bystander effect fake? ... Not quite. In the lab, it's real.",
+      "say11": "[thoughtful] So is the bystander effect fake? [short pause] Not quite. In the lab, it's real."
+    },
+    {
+      "text": "But in 2019, researchers studied real security camera footage of more than two hundred public fights in three countries.",
+      "pause": 0.35,
+      "emphasis": [
+        "real",
+        "two"
+      ],
+      "speed": 1.06,
+      "say": "But in twenty nineteen, researchers studied real security camera footage of more than two hundred public fights in three countries."
+    },
+    {
+      "text": "In nine out of ten, at least one stranger stepped in. And the more people were around, the more likely someone helped.",
+      "pause": 0.55,
+      "emphasis": [
+        "nine",
+        "more"
+      ],
+      "speed": 1.0,
+      "say11": "[surprised] In nine out of ten, at least one stranger stepped in. And the more people were around... the more likely someone helped."
+    },
+    {
+      "text": "So the lesson flips. Crowds aren't cold. The danger is the first few seconds, when everyone waits for someone else to move.",
+      "pause": 0.45,
+      "emphasis": [
+        "flips.",
+        "seconds,"
+      ],
+      "speed": 1.02
+    },
+    {
+      "text": "So be the first one. Others will follow.",
+      "pause": 0.6,
+      "emphasis": [
+        "first",
+        "follow."
+      ],
+      "speed": 0.94,
+      "say11": "[warm] So be the first one. [pause] Others will follow."
+    },
+    {
+      "text": "Next file: the experiment that made obedience look easy. Some of the people in it didn't believe it was real.",
+      "pause": 0.2,
+      "emphasis": [
+        "obedience",
+        "real."
+      ],
+      "speed": 1.0,
+      "say11": "[mysterious] Next file: the experiment that made obedience look easy. [whispers] Some of the people in it didn't believe it was real."
+    }
+  ]
+}

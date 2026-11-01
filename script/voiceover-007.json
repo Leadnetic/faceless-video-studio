@@ -1,0 +1,120 @@
+{
+  "id": "psychology-video-007",
+  "title": "Why you procrastinate (you're not lazy)",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.08,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "lines": [
+    {
+      "text": "You have one small task. It takes ten minutes.",
+      "pause": 0.25,
+      "emphasis": [
+        "ten"
+      ]
+    },
+    {
+      "text": "Three hours later, you've cleaned your room, watched six videos, and learned how penguins sleep.",
+      "pause": 0.25,
+      "emphasis": [
+        "penguins"
+      ]
+    },
+    {
+      "text": "And the task? Still waiting.",
+      "pause": 0.4,
+      "emphasis": [
+        "waiting."
+      ]
+    },
+    {
+      "text": "Here's what most people get wrong.",
+      "pause": 0.2,
+      "emphasis": [
+        "wrong."
+      ]
+    },
+    {
+      "text": "Procrastination is a mood problem.",
+      "pause": 0.35,
+      "emphasis": [
+        "mood"
+      ]
+    },
+    {
+      "text": "When a task makes you feel bored, anxious, or not good enough, your brain treats that feeling like a threat.",
+      "pause": 0.2,
+      "emphasis": [
+        "threat."
+      ]
+    },
+    {
+      "text": "So it reaches for something that feels better right now. Your phone. A snack. Anything else.",
+      "pause": 0.25,
+      "emphasis": [
+        "better"
+      ]
+    },
+    {
+      "text": "Researchers call this short term mood repair. You buy relief today, and pay for it with stress tomorrow.",
+      "pause": 0.3,
+      "emphasis": [
+        "relief"
+      ]
+    },
+    {
+      "text": "And every time you dodge the task, it feels a little scarier the next time.",
+      "pause": 0.4,
+      "emphasis": [
+        "scarier"
+      ]
+    },
+    {
+      "text": "So how do you break the cycle?",
+      "pause": 0.3,
+      "emphasis": [
+        "break"
+      ]
+    },
+    {
+      "text": "One. Shrink the task until it feels silly. Don't write the essay. Just open the document.",
+      "pause": 0.25,
+      "emphasis": [
+        "Shrink"
+      ]
+    },
+    {
+      "text": "Two. Set a timer for five minutes. Your brain can handle almost anything for five minutes.",
+      "pause": 0.25,
+      "emphasis": [
+        "five"
+      ]
+    },
+    {
+      "text": "Three. Forgive yourself for last time. In one study, students who forgave themselves procrastinated less before the next exam.",
+      "pause": 0.35,
+      "emphasis": [
+        "Forgive"
+      ]
+    },
+    {
+      "text": "Starting is the hardest part.",
+      "pause": 0.4,
+      "emphasis": [
+        "Starting"
+      ]
+    },
+    {
+      "text": "So. What are you avoiding right now?",
+      "pause": 0,
+      "emphasis": [
+        "avoiding"
+      ]
+    }
+  ]
+}

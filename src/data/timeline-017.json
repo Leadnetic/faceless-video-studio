@@ -1,0 +1,1221 @@
+{
+  "id": "psychology-video-017",
+  "title": "The experiment that lied",
+  "duration": 77.205,
+  "lines": [
+    {
+      "index": 0,
+      "text": "In 1971, two dozen students were locked in a basement at Stanford. It became the most famous experiment in psychology.",
+      "start": 0.1,
+      "end": 8.04,
+      "emphasis": [
+        "1971,",
+        "famous"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 0.1,
+          "end": 0.345
+        },
+        {
+          "word": "1971,",
+          "start": 0.345,
+          "end": 0.635
+        },
+        {
+          "word": "two",
+          "start": 0.635,
+          "end": 0.88
+        },
+        {
+          "word": "dozen",
+          "start": 0.88,
+          "end": 1.307
+        },
+        {
+          "word": "students",
+          "start": 1.307,
+          "end": 1.733
+        },
+        {
+          "word": "were",
+          "start": 1.733,
+          "end": 2.16
+        },
+        {
+          "word": "locked",
+          "start": 2.16,
+          "end": 2.586
+        },
+        {
+          "word": "in",
+          "start": 2.586,
+          "end": 2.832
+        },
+        {
+          "word": "a",
+          "start": 2.832,
+          "end": 3.077
+        },
+        {
+          "word": "basement",
+          "start": 3.077,
+          "end": 3.685
+        },
+        {
+          "word": "at",
+          "start": 3.685,
+          "end": 3.93
+        },
+        {
+          "word": "Stanford.",
+          "start": 3.93,
+          "end": 4.401
+        },
+        {
+          "word": "It",
+          "start": 4.401,
+          "end": 4.646
+        },
+        {
+          "word": "became",
+          "start": 4.646,
+          "end": 5.254
+        },
+        {
+          "word": "the",
+          "start": 5.254,
+          "end": 5.5
+        },
+        {
+          "word": "most",
+          "start": 5.5,
+          "end": 5.745
+        },
+        {
+          "word": "famous",
+          "start": 5.745,
+          "end": 6.171
+        },
+        {
+          "word": "experiment",
+          "start": 6.171,
+          "end": 6.961
+        },
+        {
+          "word": "in",
+          "start": 6.961,
+          "end": 7.206
+        },
+        {
+          "word": "psychology.",
+          "start": 7.206,
+          "end": 8.04
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "You know the ending. Within days, ordinary students playing guards turned cruel. The study was shut down after six days.",
+      "start": 8.49,
+      "end": 15.885,
+      "emphasis": [
+        "cruel.",
+        "six"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 8.49,
+          "end": 8.76
+        },
+        {
+          "word": "know",
+          "start": 8.76,
+          "end": 9.03
+        },
+        {
+          "word": "the",
+          "start": 9.03,
+          "end": 9.3
+        },
+        {
+          "word": "ending.",
+          "start": 9.3,
+          "end": 9.819
+        },
+        {
+          "word": "Within",
+          "start": 9.819,
+          "end": 10.289
+        },
+        {
+          "word": "days,",
+          "start": 10.289,
+          "end": 10.609
+        },
+        {
+          "word": "ordinary",
+          "start": 10.609,
+          "end": 11.478
+        },
+        {
+          "word": "students",
+          "start": 11.478,
+          "end": 11.948
+        },
+        {
+          "word": "playing",
+          "start": 11.948,
+          "end": 12.218
+        },
+        {
+          "word": "guards",
+          "start": 12.218,
+          "end": 12.487
+        },
+        {
+          "word": "turned",
+          "start": 12.487,
+          "end": 12.957
+        },
+        {
+          "word": "cruel.",
+          "start": 12.957,
+          "end": 13.277
+        },
+        {
+          "word": "The",
+          "start": 13.277,
+          "end": 13.546
+        },
+        {
+          "word": "study",
+          "start": 13.546,
+          "end": 14.016
+        },
+        {
+          "word": "was",
+          "start": 14.016,
+          "end": 14.286
+        },
+        {
+          "word": "shut",
+          "start": 14.286,
+          "end": 14.556
+        },
+        {
+          "word": "down",
+          "start": 14.556,
+          "end": 14.825
+        },
+        {
+          "word": "after",
+          "start": 14.825,
+          "end": 15.295
+        },
+        {
+          "word": "six",
+          "start": 15.295,
+          "end": 15.565
+        },
+        {
+          "word": "days.",
+          "start": 15.565,
+          "end": 15.885
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "The lesson seemed obvious. Put good people in a bad system, and they become monsters.",
+      "start": 16.235,
+      "end": 21.162,
+      "emphasis": [
+        "monsters."
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 16.235,
+          "end": 16.464
+        },
+        {
+          "word": "lesson",
+          "start": 16.464,
+          "end": 16.863
+        },
+        {
+          "word": "seemed",
+          "start": 16.863,
+          "end": 17.263
+        },
+        {
+          "word": "obvious.",
+          "start": 17.263,
+          "end": 17.704
+        },
+        {
+          "word": "Put",
+          "start": 17.704,
+          "end": 17.934
+        },
+        {
+          "word": "good",
+          "start": 17.934,
+          "end": 18.163
+        },
+        {
+          "word": "people",
+          "start": 18.163,
+          "end": 18.563
+        },
+        {
+          "word": "in",
+          "start": 18.563,
+          "end": 18.792
+        },
+        {
+          "word": "a",
+          "start": 18.792,
+          "end": 19.021
+        },
+        {
+          "word": "bad",
+          "start": 19.021,
+          "end": 19.251
+        },
+        {
+          "word": "system,",
+          "start": 19.251,
+          "end": 19.692
+        },
+        {
+          "word": "and",
+          "start": 19.692,
+          "end": 19.922
+        },
+        {
+          "word": "they",
+          "start": 19.922,
+          "end": 20.151
+        },
+        {
+          "word": "become",
+          "start": 20.151,
+          "end": 20.72
+        },
+        {
+          "word": "monsters.",
+          "start": 20.72,
+          "end": 21.162
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "For almost fifty years, textbooks taught exactly that.",
+      "start": 21.562,
+      "end": 24.467,
+      "emphasis": [
+        "fifty"
+      ],
+      "words": [
+        {
+          "word": "For",
+          "start": 21.562,
+          "end": 21.803
+        },
+        {
+          "word": "almost",
+          "start": 21.803,
+          "end": 22.222
+        },
+        {
+          "word": "fifty",
+          "start": 22.222,
+          "end": 22.64
+        },
+        {
+          "word": "years,",
+          "start": 22.64,
+          "end": 22.925
+        },
+        {
+          "word": "textbooks",
+          "start": 22.925,
+          "end": 23.344
+        },
+        {
+          "word": "taught",
+          "start": 23.344,
+          "end": 23.585
+        },
+        {
+          "word": "exactly",
+          "start": 23.585,
+          "end": 24.182
+        },
+        {
+          "word": "that.",
+          "start": 24.182,
+          "end": 24.467
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "But in 2018, a French researcher went back into the archives. The tapes. The notes. The interviews.",
+      "start": 25.067,
+      "end": 31.241,
+      "emphasis": [
+        "But",
+        "archives."
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 25.067,
+          "end": 25.318
+        },
+        {
+          "word": "in",
+          "start": 25.318,
+          "end": 25.569
+        },
+        {
+          "word": "2018,",
+          "start": 25.569,
+          "end": 25.866
+        },
+        {
+          "word": "a",
+          "start": 25.866,
+          "end": 26.117
+        },
+        {
+          "word": "French",
+          "start": 26.117,
+          "end": 26.369
+        },
+        {
+          "word": "researcher",
+          "start": 26.369,
+          "end": 26.992
+        },
+        {
+          "word": "went",
+          "start": 26.992,
+          "end": 27.243
+        },
+        {
+          "word": "back",
+          "start": 27.243,
+          "end": 27.494
+        },
+        {
+          "word": "into",
+          "start": 27.494,
+          "end": 27.931
+        },
+        {
+          "word": "the",
+          "start": 27.931,
+          "end": 28.182
+        },
+        {
+          "word": "archives.",
+          "start": 28.182,
+          "end": 28.852
+        },
+        {
+          "word": "The",
+          "start": 28.852,
+          "end": 29.103
+        },
+        {
+          "word": "tapes.",
+          "start": 29.103,
+          "end": 29.586
+        },
+        {
+          "word": "The",
+          "start": 29.586,
+          "end": 29.837
+        },
+        {
+          "word": "notes.",
+          "start": 29.837,
+          "end": 30.321
+        },
+        {
+          "word": "The",
+          "start": 30.321,
+          "end": 30.572
+        },
+        {
+          "word": "interviews.",
+          "start": 30.572,
+          "end": 31.242
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "And the story started to crack.",
+      "start": 31.591,
+      "end": 32.871,
+      "emphasis": [
+        "crack."
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 31.591,
+          "end": 31.758
+        },
+        {
+          "word": "the",
+          "start": 31.758,
+          "end": 31.925
+        },
+        {
+          "word": "story",
+          "start": 31.925,
+          "end": 32.216
+        },
+        {
+          "word": "started",
+          "start": 32.216,
+          "end": 32.506
+        },
+        {
+          "word": "to",
+          "start": 32.506,
+          "end": 32.673
+        },
+        {
+          "word": "crack.",
+          "start": 32.673,
+          "end": 32.871
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "On one recording, a staff member pushes a guard to be tougher. The guards weren't left alone. They were coached.",
+      "start": 33.571,
+      "end": 39.537,
+      "emphasis": [
+        "coached."
+      ],
+      "words": [
+        {
+          "word": "On",
+          "start": 33.571,
+          "end": 33.777
+        },
+        {
+          "word": "one",
+          "start": 33.777,
+          "end": 34.137
+        },
+        {
+          "word": "recording,",
+          "start": 34.137,
+          "end": 34.687
+        },
+        {
+          "word": "a",
+          "start": 34.687,
+          "end": 34.894
+        },
+        {
+          "word": "staff",
+          "start": 34.894,
+          "end": 35.1
+        },
+        {
+          "word": "member",
+          "start": 35.1,
+          "end": 35.46
+        },
+        {
+          "word": "pushes",
+          "start": 35.46,
+          "end": 35.819
+        },
+        {
+          "word": "a",
+          "start": 35.819,
+          "end": 36.026
+        },
+        {
+          "word": "guard",
+          "start": 36.026,
+          "end": 36.232
+        },
+        {
+          "word": "to",
+          "start": 36.232,
+          "end": 36.439
+        },
+        {
+          "word": "be",
+          "start": 36.439,
+          "end": 36.645
+        },
+        {
+          "word": "tougher.",
+          "start": 36.645,
+          "end": 37.043
+        },
+        {
+          "word": "The",
+          "start": 37.043,
+          "end": 37.25
+        },
+        {
+          "word": "guards",
+          "start": 37.25,
+          "end": 37.456
+        },
+        {
+          "word": "weren't",
+          "start": 37.456,
+          "end": 37.816
+        },
+        {
+          "word": "left",
+          "start": 37.816,
+          "end": 38.022
+        },
+        {
+          "word": "alone.",
+          "start": 38.022,
+          "end": 38.573
+        },
+        {
+          "word": "They",
+          "start": 38.573,
+          "end": 38.779
+        },
+        {
+          "word": "were",
+          "start": 38.779,
+          "end": 39.139
+        },
+        {
+          "word": "coached.",
+          "start": 39.139,
+          "end": 39.537
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Then the prisoner whose breakdown made the study famous said something nobody expected.",
+      "start": 39.987,
+      "end": 44.603,
+      "emphasis": [
+        "breakdown"
+      ],
+      "words": [
+        {
+          "word": "Then",
+          "start": 39.987,
+          "end": 40.189
+        },
+        {
+          "word": "the",
+          "start": 40.189,
+          "end": 40.391
+        },
+        {
+          "word": "prisoner",
+          "start": 40.391,
+          "end": 40.893
+        },
+        {
+          "word": "whose",
+          "start": 40.893,
+          "end": 41.246
+        },
+        {
+          "word": "breakdown",
+          "start": 41.246,
+          "end": 41.598
+        },
+        {
+          "word": "made",
+          "start": 41.598,
+          "end": 41.95
+        },
+        {
+          "word": "the",
+          "start": 41.95,
+          "end": 42.152
+        },
+        {
+          "word": "study",
+          "start": 42.152,
+          "end": 42.505
+        },
+        {
+          "word": "famous",
+          "start": 42.505,
+          "end": 42.857
+        },
+        {
+          "word": "said",
+          "start": 42.857,
+          "end": 43.059
+        },
+        {
+          "word": "something",
+          "start": 43.059,
+          "end": 43.561
+        },
+        {
+          "word": "nobody",
+          "start": 43.561,
+          "end": 44.064
+        },
+        {
+          "word": "expected.",
+          "start": 44.064,
+          "end": 44.603
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "He said he was faking. He wanted out, so he could study for his exams.",
+      "start": 45.003,
+      "end": 48.916,
+      "emphasis": [
+        "faking."
+      ],
+      "words": [
+        {
+          "word": "He",
+          "start": 45.003,
+          "end": 45.214
+        },
+        {
+          "word": "said",
+          "start": 45.214,
+          "end": 45.426
+        },
+        {
+          "word": "he",
+          "start": 45.426,
+          "end": 45.637
+        },
+        {
+          "word": "was",
+          "start": 45.637,
+          "end": 45.848
+        },
+        {
+          "word": "faking.",
+          "start": 45.848,
+          "end": 46.255
+        },
+        {
+          "word": "He",
+          "start": 46.255,
+          "end": 46.466
+        },
+        {
+          "word": "wanted",
+          "start": 46.466,
+          "end": 46.834
+        },
+        {
+          "word": "out,",
+          "start": 46.834,
+          "end": 47.085
+        },
+        {
+          "word": "so",
+          "start": 47.085,
+          "end": 47.296
+        },
+        {
+          "word": "he",
+          "start": 47.296,
+          "end": 47.507
+        },
+        {
+          "word": "could",
+          "start": 47.507,
+          "end": 47.718
+        },
+        {
+          "word": "study",
+          "start": 47.718,
+          "end": 48.086
+        },
+        {
+          "word": "for",
+          "start": 48.086,
+          "end": 48.298
+        },
+        {
+          "word": "his",
+          "start": 48.298,
+          "end": 48.509
+        },
+        {
+          "word": "exams.",
+          "start": 48.509,
+          "end": 48.916
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "So was it all fake? Not quite. Some guards really did turn harsh. And the man who ran it defended it until he died.",
+      "start": 49.616,
+      "end": 56.409,
+      "emphasis": [
+        "Not",
+        "harsh."
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 49.616,
+          "end": 49.843
+        },
+        {
+          "word": "was",
+          "start": 49.843,
+          "end": 50.07
+        },
+        {
+          "word": "it",
+          "start": 50.07,
+          "end": 50.297
+        },
+        {
+          "word": "all",
+          "start": 50.297,
+          "end": 50.524
+        },
+        {
+          "word": "fake?",
+          "start": 50.524,
+          "end": 50.961
+        },
+        {
+          "word": "Not",
+          "start": 50.961,
+          "end": 51.188
+        },
+        {
+          "word": "quite.",
+          "start": 51.188,
+          "end": 51.625
+        },
+        {
+          "word": "Some",
+          "start": 51.625,
+          "end": 52.02
+        },
+        {
+          "word": "guards",
+          "start": 52.02,
+          "end": 52.247
+        },
+        {
+          "word": "really",
+          "start": 52.247,
+          "end": 52.642
+        },
+        {
+          "word": "did",
+          "start": 52.642,
+          "end": 52.869
+        },
+        {
+          "word": "turn",
+          "start": 52.869,
+          "end": 53.096
+        },
+        {
+          "word": "harsh.",
+          "start": 53.096,
+          "end": 53.365
+        },
+        {
+          "word": "And",
+          "start": 53.365,
+          "end": 53.592
+        },
+        {
+          "word": "the",
+          "start": 53.592,
+          "end": 53.819
+        },
+        {
+          "word": "man",
+          "start": 53.819,
+          "end": 54.046
+        },
+        {
+          "word": "who",
+          "start": 54.046,
+          "end": 54.273
+        },
+        {
+          "word": "ran",
+          "start": 54.273,
+          "end": 54.5
+        },
+        {
+          "word": "it",
+          "start": 54.5,
+          "end": 54.727
+        },
+        {
+          "word": "defended",
+          "start": 54.727,
+          "end": 55.29
+        },
+        {
+          "word": "it",
+          "start": 55.29,
+          "end": 55.517
+        },
+        {
+          "word": "until",
+          "start": 55.517,
+          "end": 55.913
+        },
+        {
+          "word": "he",
+          "start": 55.913,
+          "end": 56.14
+        },
+        {
+          "word": "died.",
+          "start": 56.14,
+          "end": 56.409
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "The real lesson might be darker. People don't just become cruel on their own. They do it when someone in charge makes it clear that's what is expected.",
+      "start": 56.809,
+      "end": 64.978,
+      "emphasis": [
+        "darker.",
+        "expected."
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 56.809,
+          "end": 57.031
+        },
+        {
+          "word": "real",
+          "start": 57.031,
+          "end": 57.254
+        },
+        {
+          "word": "lesson",
+          "start": 57.254,
+          "end": 57.641
+        },
+        {
+          "word": "might",
+          "start": 57.641,
+          "end": 57.864
+        },
+        {
+          "word": "be",
+          "start": 57.864,
+          "end": 58.086
+        },
+        {
+          "word": "darker.",
+          "start": 58.086,
+          "end": 58.515
+        },
+        {
+          "word": "People",
+          "start": 58.515,
+          "end": 58.902
+        },
+        {
+          "word": "don't",
+          "start": 58.902,
+          "end": 59.125
+        },
+        {
+          "word": "just",
+          "start": 59.125,
+          "end": 59.348
+        },
+        {
+          "word": "become",
+          "start": 59.348,
+          "end": 59.9
+        },
+        {
+          "word": "cruel",
+          "start": 59.9,
+          "end": 60.122
+        },
+        {
+          "word": "on",
+          "start": 60.122,
+          "end": 60.345
+        },
+        {
+          "word": "their",
+          "start": 60.345,
+          "end": 60.568
+        },
+        {
+          "word": "own.",
+          "start": 60.568,
+          "end": 60.831
+        },
+        {
+          "word": "They",
+          "start": 60.831,
+          "end": 61.054
+        },
+        {
+          "word": "do",
+          "start": 61.054,
+          "end": 61.277
+        },
+        {
+          "word": "it",
+          "start": 61.277,
+          "end": 61.499
+        },
+        {
+          "word": "when",
+          "start": 61.499,
+          "end": 61.722
+        },
+        {
+          "word": "someone",
+          "start": 61.722,
+          "end": 62.274
+        },
+        {
+          "word": "in",
+          "start": 62.274,
+          "end": 62.497
+        },
+        {
+          "word": "charge",
+          "start": 62.497,
+          "end": 62.884
+        },
+        {
+          "word": "makes",
+          "start": 62.884,
+          "end": 63.271
+        },
+        {
+          "word": "it",
+          "start": 63.271,
+          "end": 63.494
+        },
+        {
+          "word": "clear",
+          "start": 63.494,
+          "end": 63.717
+        },
+        {
+          "word": "that's",
+          "start": 63.717,
+          "end": 63.939
+        },
+        {
+          "word": "what",
+          "start": 63.939,
+          "end": 64.162
+        },
+        {
+          "word": "is",
+          "start": 64.162,
+          "end": 64.384
+        },
+        {
+          "word": "expected.",
+          "start": 64.384,
+          "end": 64.978
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "Which raises a question about every famous experiment you were ever taught.",
+      "start": 65.428,
+      "end": 69.521,
+      "emphasis": [
+        "every"
+      ],
+      "words": [
+        {
+          "word": "Which",
+          "start": 65.428,
+          "end": 65.629
+        },
+        {
+          "word": "raises",
+          "start": 65.629,
+          "end": 65.98
+        },
+        {
+          "word": "a",
+          "start": 65.98,
+          "end": 66.181
+        },
+        {
+          "word": "question",
+          "start": 66.181,
+          "end": 66.531
+        },
+        {
+          "word": "about",
+          "start": 66.531,
+          "end": 66.882
+        },
+        {
+          "word": "every",
+          "start": 66.882,
+          "end": 67.381
+        },
+        {
+          "word": "famous",
+          "start": 67.381,
+          "end": 67.732
+        },
+        {
+          "word": "experiment",
+          "start": 67.732,
+          "end": 68.38
+        },
+        {
+          "word": "you",
+          "start": 68.38,
+          "end": 68.582
+        },
+        {
+          "word": "were",
+          "start": 68.582,
+          "end": 68.932
+        },
+        {
+          "word": "ever",
+          "start": 68.932,
+          "end": 69.283
+        },
+        {
+          "word": "taught.",
+          "start": 69.283,
+          "end": 69.521
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "Next file: thirty-eight witnesses watched a crime and did nothing. That story isn't true either.",
+      "start": 69.921,
+      "end": 75.005,
+      "emphasis": [
+        "thirty-eight",
+        "either."
+      ],
+      "words": [
+        {
+          "word": "Next",
+          "start": 69.921,
+          "end": 70.152
+        },
+        {
+          "word": "file:",
+          "start": 70.152,
+          "end": 70.553
+        },
+        {
+          "word": "thirty-eight",
+          "start": 70.553,
+          "end": 70.955
+        },
+        {
+          "word": "witnesses",
+          "start": 70.955,
+          "end": 71.528
+        },
+        {
+          "word": "watched",
+          "start": 71.528,
+          "end": 71.929
+        },
+        {
+          "word": "a",
+          "start": 71.929,
+          "end": 72.16
+        },
+        {
+          "word": "crime",
+          "start": 72.16,
+          "end": 72.562
+        },
+        {
+          "word": "and",
+          "start": 72.562,
+          "end": 72.792
+        },
+        {
+          "word": "did",
+          "start": 72.792,
+          "end": 73.023
+        },
+        {
+          "word": "nothing.",
+          "start": 73.023,
+          "end": 73.467
+        },
+        {
+          "word": "That",
+          "start": 73.467,
+          "end": 73.698
+        },
+        {
+          "word": "story",
+          "start": 73.698,
+          "end": 74.1
+        },
+        {
+          "word": "isn't",
+          "start": 74.1,
+          "end": 74.33
+        },
+        {
+          "word": "true",
+          "start": 74.33,
+          "end": 74.561
+        },
+        {
+          "word": "either.",
+          "start": 74.561,
+          "end": 75.005
+        }
+      ]
+    }
+  ]
+}

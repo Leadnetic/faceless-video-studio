@@ -1,0 +1,122 @@
+{
+  "id": "psychology-video-014",
+  "title": "The Bunker (Part 2)",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.05,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "cast": {
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.04,
+      "lang": "en-gb"
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "reader",
+      "text": "You picked one thing. Let me read you.",
+      "pause": 0.35,
+      "emphasis": [
+        "read"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "A. The first-aid kit. You plan for damage before it happens.",
+      "pause": 0.2,
+      "emphasis": [
+        "A.",
+        "damage"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Under stress, you go protector mode. Fix it first. Feel it later.",
+      "pause": 0.35,
+      "emphasis": [
+        "protector",
+        "later."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "B. Food and water. Pure problem-solver. Your brain turns fear into a checklist.",
+      "pause": 0.35,
+      "emphasis": [
+        "B.",
+        "checklist."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "C. The radio. You don't survive alone. When you're scared, you reach for people.",
+      "pause": 0.25,
+      "emphasis": [
+        "C.",
+        "people."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Psychologists call it tend and befriend. Under stress, many of us look for connection, not escape.",
+      "pause": 0.35,
+      "emphasis": [
+        "befriend.",
+        "connection,"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "D. The photo. You protect meaning. You'd rather lose comfort than lose the reason.",
+      "pause": 0.35,
+      "emphasis": [
+        "D.",
+        "meaning.",
+        "reason."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "These are coping styles. Fix the problem, or protect the feeling. Both keep people going.",
+      "pause": 0.3,
+      "emphasis": [
+        "problem,",
+        "feeling."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "None of them is wrong. It's just your first instinct.",
+      "pause": 0.35,
+      "emphasis": [
+        "wrong."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "But some of you didn't pick at all. You froze.",
+      "pause": 0.6,
+      "emphasis": [
+        "froze."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "That's part three.",
+      "pause": 0.2,
+      "emphasis": [
+        "three."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "psychology-video-010",
+  "title": "The psychic trick",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.06,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.6,
+  "cast": {
+    "psychic": {
+      "voice": "af_nicole",
+      "speed": 0.98,
+      "gain": 1.1
+    },
+    "client": {
+      "voice": "am_puck",
+      "speed": 1.04
+    },
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.02,
+      "lang": "en-gb",
+      "gain": 1.0
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "psychic",
+      "text": "You have a great deal of potential you haven't used yet.",
+      "pause": 0.3,
+      "emphasis": [
+        "potential"
+      ]
+    },
+    {
+      "speaker": "client",
+      "text": "That's exactly me.",
+      "pause": 0.25,
+      "emphasis": [
+        "exactly"
+      ],
+      "say": "That's... exactly me."
+    },
+    {
+      "speaker": "reader",
+      "text": "That's everyone.",
+      "pause": 0.6,
+      "emphasis": [
+        "everyone."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "In 1948, a psychologist named Bertram Forer gave his students a personality test.",
+      "pause": 0.25,
+      "emphasis": [
+        "Forer"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "A week later, each one got a personal profile. They rated it 4.3 out of 5 for accuracy.",
+      "pause": 0.3,
+      "emphasis": [
+        "4.3"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Then he revealed the catch. Every student got the exact same text.",
+      "pause": 0.3,
+      "emphasis": [
+        "same"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "He'd copied most of it from a horoscope book.",
+      "pause": 0.45,
+      "emphasis": [
+        "horoscope"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Vague. Flattering. And it covers both sides.",
+      "pause": 0.3,
+      "emphasis": [
+        "Vague.",
+        "Flattering.",
+        "both"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Watch. Sometimes you're outgoing, but other times you need to be alone.",
+      "pause": 0.5,
+      "emphasis": [
+        "outgoing,",
+        "alone."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Felt personal, didn't it?",
+      "pause": 0.35,
+      "emphasis": [
+        "personal,"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "It's called the Barnum effect. Now you can't unsee it.",
+      "pause": 0.2,
+      "emphasis": [
+        "Barnum",
+        "unsee"
+      ]
+    }
+  ]
+}

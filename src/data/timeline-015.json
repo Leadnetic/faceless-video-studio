@@ -1,0 +1,1026 @@
+{
+  "id": "psychology-video-015",
+  "title": "He guessed his PIN",
+  "duration": 64.059,
+  "lines": [
+    {
+      "index": 0,
+      "text": "His phone. Four digits. Three tries, then it locks for good.",
+      "start": 0.1,
+      "end": 3.536,
+      "emphasis": [
+        "Three"
+      ],
+      "words": [
+        {
+          "word": "His",
+          "start": 0.1,
+          "end": 0.36
+        },
+        {
+          "word": "phone.",
+          "start": 0.36,
+          "end": 0.86
+        },
+        {
+          "word": "Four",
+          "start": 0.86,
+          "end": 1.12
+        },
+        {
+          "word": "digits.",
+          "start": 1.12,
+          "end": 1.621
+        },
+        {
+          "word": "Three",
+          "start": 1.621,
+          "end": 1.88
+        },
+        {
+          "word": "tries,",
+          "start": 1.88,
+          "end": 2.188
+        },
+        {
+          "word": "then",
+          "start": 2.188,
+          "end": 2.448
+        },
+        {
+          "word": "it",
+          "start": 2.448,
+          "end": 2.708
+        },
+        {
+          "word": "locks",
+          "start": 2.708,
+          "end": 2.968
+        },
+        {
+          "word": "for",
+          "start": 2.968,
+          "end": 3.228
+        },
+        {
+          "word": "good.",
+          "start": 3.228,
+          "end": 3.536
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 1,
+      "text": "Go ahead. You'll never guess it.",
+      "start": 3.836,
+      "end": 5.118,
+      "emphasis": [
+        "never"
+      ],
+      "words": [
+        {
+          "word": "Go",
+          "start": 3.836,
+          "end": 3.999
+        },
+        {
+          "word": "ahead.",
+          "start": 3.999,
+          "end": 4.314
+        },
+        {
+          "word": "You'll",
+          "start": 4.314,
+          "end": 4.477
+        },
+        {
+          "word": "never",
+          "start": 4.477,
+          "end": 4.761
+        },
+        {
+          "word": "guess",
+          "start": 4.761,
+          "end": 4.925
+        },
+        {
+          "word": "it.",
+          "start": 4.925,
+          "end": 5.118
+        }
+      ],
+      "speaker": "suspect"
+    },
+    {
+      "index": 2,
+      "text": "It's not one two three four. You want people to think you're careful.",
+      "start": 5.518,
+      "end": 9.566,
+      "emphasis": [
+        "careful."
+      ],
+      "words": [
+        {
+          "word": "It's",
+          "start": 5.518,
+          "end": 5.755
+        },
+        {
+          "word": "not",
+          "start": 5.755,
+          "end": 5.993
+        },
+        {
+          "word": "one",
+          "start": 5.993,
+          "end": 6.405
+        },
+        {
+          "word": "two",
+          "start": 6.405,
+          "end": 6.642
+        },
+        {
+          "word": "three",
+          "start": 6.642,
+          "end": 6.879
+        },
+        {
+          "word": "four.",
+          "start": 6.879,
+          "end": 7.16
+        },
+        {
+          "word": "You",
+          "start": 7.16,
+          "end": 7.397
+        },
+        {
+          "word": "want",
+          "start": 7.397,
+          "end": 7.634
+        },
+        {
+          "word": "people",
+          "start": 7.634,
+          "end": 8.047
+        },
+        {
+          "word": "to",
+          "start": 8.047,
+          "end": 8.284
+        },
+        {
+          "word": "think",
+          "start": 8.284,
+          "end": 8.521
+        },
+        {
+          "word": "you're",
+          "start": 8.521,
+          "end": 8.934
+        },
+        {
+          "word": "careful.",
+          "start": 8.934,
+          "end": 9.566
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 3,
+      "text": "It's a date. People pick numbers they can't forget.",
+      "start": 9.916,
+      "end": 12.921,
+      "emphasis": [
+        "date.",
+        "forget."
+      ],
+      "words": [
+        {
+          "word": "It's",
+          "start": 9.916,
+          "end": 10.16
+        },
+        {
+          "word": "a",
+          "start": 10.16,
+          "end": 10.403
+        },
+        {
+          "word": "date.",
+          "start": 10.403,
+          "end": 10.873
+        },
+        {
+          "word": "People",
+          "start": 10.873,
+          "end": 11.297
+        },
+        {
+          "word": "pick",
+          "start": 11.297,
+          "end": 11.54
+        },
+        {
+          "word": "numbers",
+          "start": 11.54,
+          "end": 11.964
+        },
+        {
+          "word": "they",
+          "start": 11.964,
+          "end": 12.208
+        },
+        {
+          "word": "can't",
+          "start": 12.208,
+          "end": 12.451
+        },
+        {
+          "word": "forget.",
+          "start": 12.451,
+          "end": 12.921
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 4,
+      "text": "Your ring. Engraved. Zero six, one four. Your wedding day.",
+      "start": 13.271,
+      "end": 17.307,
+      "emphasis": [
+        "ring.",
+        "wedding"
+      ],
+      "words": [
+        {
+          "word": "Your",
+          "start": 13.271,
+          "end": 13.547
+        },
+        {
+          "word": "ring.",
+          "start": 13.547,
+          "end": 13.874
+        },
+        {
+          "word": "Engraved.",
+          "start": 13.874,
+          "end": 14.609
+        },
+        {
+          "word": "Zero",
+          "start": 14.609,
+          "end": 15.089
+        },
+        {
+          "word": "six,",
+          "start": 15.089,
+          "end": 15.416
+        },
+        {
+          "word": "one",
+          "start": 15.416,
+          "end": 15.897
+        },
+        {
+          "word": "four.",
+          "start": 15.897,
+          "end": 16.224
+        },
+        {
+          "word": "Your",
+          "start": 16.224,
+          "end": 16.5
+        },
+        {
+          "word": "wedding",
+          "start": 16.5,
+          "end": 16.98
+        },
+        {
+          "word": "day.",
+          "start": 16.98,
+          "end": 17.307
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 5,
+      "text": "That's not... how did you...",
+      "start": 17.907,
+      "end": 19.193,
+      "emphasis": [
+        "how"
+      ],
+      "words": [
+        {
+          "word": "That's",
+          "start": 17.907,
+          "end": 18.146
+        },
+        {
+          "word": "not...",
+          "start": 18.146,
+          "end": 18.43
+        },
+        {
+          "word": "how",
+          "start": 18.43,
+          "end": 18.67
+        },
+        {
+          "word": "did",
+          "start": 18.67,
+          "end": 18.909
+        },
+        {
+          "word": "you...",
+          "start": 18.909,
+          "end": 19.193
+        }
+      ],
+      "speaker": "suspect"
+    },
+    {
+      "index": 6,
+      "text": "We're in.",
+      "start": 19.543,
+      "end": 20.058,
+      "emphasis": [
+        "in."
+      ],
+      "words": [
+        {
+          "word": "We're",
+          "start": 19.543,
+          "end": 19.849
+        },
+        {
+          "word": "in.",
+          "start": 19.849,
+          "end": 20.058
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 7,
+      "text": "In 2012, a data analyst studied 3.4 million four-digit codes from leaked password lists.",
+      "start": 20.658,
+      "end": 27.189,
+      "emphasis": [
+        "3.4"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 20.658,
+          "end": 20.957
+        },
+        {
+          "word": "2012,",
+          "start": 20.957,
+          "end": 21.313
+        },
+        {
+          "word": "a",
+          "start": 21.313,
+          "end": 21.613
+        },
+        {
+          "word": "data",
+          "start": 21.613,
+          "end": 22.135
+        },
+        {
+          "word": "analyst",
+          "start": 22.135,
+          "end": 22.879
+        },
+        {
+          "word": "studied",
+          "start": 22.879,
+          "end": 23.401
+        },
+        {
+          "word": "3.4",
+          "start": 23.401,
+          "end": 23.701
+        },
+        {
+          "word": "million",
+          "start": 23.701,
+          "end": 24.223
+        },
+        {
+          "word": "four-digit",
+          "start": 24.223,
+          "end": 24.967
+        },
+        {
+          "word": "codes",
+          "start": 24.967,
+          "end": 25.489
+        },
+        {
+          "word": "from",
+          "start": 25.489,
+          "end": 25.789
+        },
+        {
+          "word": "leaked",
+          "start": 25.789,
+          "end": 26.311
+        },
+        {
+          "word": "password",
+          "start": 26.311,
+          "end": 26.833
+        },
+        {
+          "word": "lists.",
+          "start": 26.833,
+          "end": 27.189
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "The most common one, 1234, was almost eleven percent of all of them. The top twenty codes covered about a quarter.",
+      "start": 27.489,
+      "end": 34.835,
+      "emphasis": [
+        "eleven",
+        "quarter."
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 27.489,
+          "end": 27.729
+        },
+        {
+          "word": "most",
+          "start": 27.729,
+          "end": 27.968
+        },
+        {
+          "word": "common",
+          "start": 27.968,
+          "end": 28.386
+        },
+        {
+          "word": "one,",
+          "start": 28.386,
+          "end": 28.848
+        },
+        {
+          "word": "1234,",
+          "start": 28.848,
+          "end": 29.132
+        },
+        {
+          "word": "was",
+          "start": 29.132,
+          "end": 29.372
+        },
+        {
+          "word": "almost",
+          "start": 29.372,
+          "end": 29.789
+        },
+        {
+          "word": "eleven",
+          "start": 29.789,
+          "end": 30.385
+        },
+        {
+          "word": "percent",
+          "start": 30.385,
+          "end": 30.802
+        },
+        {
+          "word": "of",
+          "start": 30.802,
+          "end": 31.042
+        },
+        {
+          "word": "all",
+          "start": 31.042,
+          "end": 31.282
+        },
+        {
+          "word": "of",
+          "start": 31.282,
+          "end": 31.522
+        },
+        {
+          "word": "them.",
+          "start": 31.522,
+          "end": 31.806
+        },
+        {
+          "word": "The",
+          "start": 31.806,
+          "end": 32.046
+        },
+        {
+          "word": "top",
+          "start": 32.046,
+          "end": 32.286
+        },
+        {
+          "word": "twenty",
+          "start": 32.286,
+          "end": 32.703
+        },
+        {
+          "word": "codes",
+          "start": 32.703,
+          "end": 33.121
+        },
+        {
+          "word": "covered",
+          "start": 33.121,
+          "end": 33.716
+        },
+        {
+          "word": "about",
+          "start": 33.716,
+          "end": 34.133
+        },
+        {
+          "word": "a",
+          "start": 34.133,
+          "end": 34.373
+        },
+        {
+          "word": "quarter.",
+          "start": 34.373,
+          "end": 34.835
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 9,
+      "text": "Right after the patterns come the dates. Birth years. Birthdays. Anniversaries.",
+      "start": 35.135,
+      "end": 39.704,
+      "emphasis": [
+        "dates."
+      ],
+      "words": [
+        {
+          "word": "Right",
+          "start": 35.135,
+          "end": 35.383
+        },
+        {
+          "word": "after",
+          "start": 35.383,
+          "end": 35.815
+        },
+        {
+          "word": "the",
+          "start": 35.815,
+          "end": 36.063
+        },
+        {
+          "word": "patterns",
+          "start": 36.063,
+          "end": 36.496
+        },
+        {
+          "word": "come",
+          "start": 36.496,
+          "end": 36.928
+        },
+        {
+          "word": "the",
+          "start": 36.928,
+          "end": 37.176
+        },
+        {
+          "word": "dates.",
+          "start": 37.176,
+          "end": 37.654
+        },
+        {
+          "word": "Birth",
+          "start": 37.654,
+          "end": 37.902
+        },
+        {
+          "word": "years.",
+          "start": 37.902,
+          "end": 38.196
+        },
+        {
+          "word": "Birthdays.",
+          "start": 38.196,
+          "end": 38.674
+        },
+        {
+          "word": "Anniversaries.",
+          "start": 38.674,
+          "end": 39.704
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 10,
+      "text": "And many of us reuse that same code for the phone, the bank card and the front door.",
+      "start": 40.054,
+      "end": 44.468,
+      "emphasis": [
+        "reuse"
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 40.054,
+          "end": 40.254
+        },
+        {
+          "word": "many",
+          "start": 40.254,
+          "end": 40.602
+        },
+        {
+          "word": "of",
+          "start": 40.602,
+          "end": 40.802
+        },
+        {
+          "word": "us",
+          "start": 40.802,
+          "end": 41.002
+        },
+        {
+          "word": "reuse",
+          "start": 41.002,
+          "end": 41.35
+        },
+        {
+          "word": "that",
+          "start": 41.35,
+          "end": 41.55
+        },
+        {
+          "word": "same",
+          "start": 41.55,
+          "end": 41.898
+        },
+        {
+          "word": "code",
+          "start": 41.898,
+          "end": 42.246
+        },
+        {
+          "word": "for",
+          "start": 42.246,
+          "end": 42.446
+        },
+        {
+          "word": "the",
+          "start": 42.446,
+          "end": 42.646
+        },
+        {
+          "word": "phone,",
+          "start": 42.646,
+          "end": 43.031
+        },
+        {
+          "word": "the",
+          "start": 43.031,
+          "end": 43.231
+        },
+        {
+          "word": "bank",
+          "start": 43.231,
+          "end": 43.431
+        },
+        {
+          "word": "card",
+          "start": 43.431,
+          "end": 43.631
+        },
+        {
+          "word": "and",
+          "start": 43.631,
+          "end": 43.831
+        },
+        {
+          "word": "the",
+          "start": 43.831,
+          "end": 44.031
+        },
+        {
+          "word": "front",
+          "start": 44.031,
+          "end": 44.231
+        },
+        {
+          "word": "door.",
+          "start": 44.231,
+          "end": 44.468
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 11,
+      "text": "We pick what's easy to remember. And what's easy to remember is easy to guess.",
+      "start": 44.818,
+      "end": 49.526,
+      "emphasis": [
+        "guess."
+      ],
+      "words": [
+        {
+          "word": "We",
+          "start": 44.818,
+          "end": 45.047
+        },
+        {
+          "word": "pick",
+          "start": 45.047,
+          "end": 45.276
+        },
+        {
+          "word": "what's",
+          "start": 45.276,
+          "end": 45.505
+        },
+        {
+          "word": "easy",
+          "start": 45.505,
+          "end": 45.904
+        },
+        {
+          "word": "to",
+          "start": 45.904,
+          "end": 46.133
+        },
+        {
+          "word": "remember.",
+          "start": 46.133,
+          "end": 46.744
+        },
+        {
+          "word": "And",
+          "start": 46.744,
+          "end": 46.973
+        },
+        {
+          "word": "what's",
+          "start": 46.973,
+          "end": 47.202
+        },
+        {
+          "word": "easy",
+          "start": 47.202,
+          "end": 47.601
+        },
+        {
+          "word": "to",
+          "start": 47.601,
+          "end": 47.83
+        },
+        {
+          "word": "remember",
+          "start": 47.83,
+          "end": 48.398
+        },
+        {
+          "word": "is",
+          "start": 48.398,
+          "end": 48.627
+        },
+        {
+          "word": "easy",
+          "start": 48.627,
+          "end": 49.026
+        },
+        {
+          "word": "to",
+          "start": 49.026,
+          "end": 49.255
+        },
+        {
+          "word": "guess.",
+          "start": 49.255,
+          "end": 49.526
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 12,
+      "text": "So if your code is a date, a pattern, or a repeat, change it tonight.",
+      "start": 49.876,
+      "end": 54.371,
+      "emphasis": [
+        "tonight."
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 49.876,
+          "end": 50.099
+        },
+        {
+          "word": "if",
+          "start": 50.099,
+          "end": 50.322
+        },
+        {
+          "word": "your",
+          "start": 50.322,
+          "end": 50.544
+        },
+        {
+          "word": "code",
+          "start": 50.544,
+          "end": 50.932
+        },
+        {
+          "word": "is",
+          "start": 50.932,
+          "end": 51.155
+        },
+        {
+          "word": "a",
+          "start": 51.155,
+          "end": 51.377
+        },
+        {
+          "word": "date,",
+          "start": 51.377,
+          "end": 51.806
+        },
+        {
+          "word": "a",
+          "start": 51.806,
+          "end": 52.029
+        },
+        {
+          "word": "pattern,",
+          "start": 52.029,
+          "end": 52.458
+        },
+        {
+          "word": "or",
+          "start": 52.458,
+          "end": 52.68
+        },
+        {
+          "word": "a",
+          "start": 52.68,
+          "end": 52.903
+        },
+        {
+          "word": "repeat,",
+          "start": 52.903,
+          "end": 53.332
+        },
+        {
+          "word": "change",
+          "start": 53.332,
+          "end": 53.719
+        },
+        {
+          "word": "it",
+          "start": 53.719,
+          "end": 53.942
+        },
+        {
+          "word": "tonight.",
+          "start": 53.942,
+          "end": 54.371
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 13,
+      "text": "Six digits beat four. Random beats meaningful.",
+      "start": 54.671,
+      "end": 57.966,
+      "emphasis": [
+        "Six",
+        "Random"
+      ],
+      "words": [
+        {
+          "word": "Six",
+          "start": 54.671,
+          "end": 54.99
+        },
+        {
+          "word": "digits",
+          "start": 54.99,
+          "end": 55.545
+        },
+        {
+          "word": "beat",
+          "start": 55.545,
+          "end": 55.864
+        },
+        {
+          "word": "four.",
+          "start": 55.864,
+          "end": 56.242
+        },
+        {
+          "word": "Random",
+          "start": 56.242,
+          "end": 56.797
+        },
+        {
+          "word": "beats",
+          "start": 56.797,
+          "end": 57.116
+        },
+        {
+          "word": "meaningful.",
+          "start": 57.116,
+          "end": 57.966
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 14,
+      "text": "And send this to the friend whose code is 1234.",
+      "start": 58.266,
+      "end": 62.059,
+      "emphasis": [
+        "send"
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 58.266,
+          "end": 58.591
+        },
+        {
+          "word": "send",
+          "start": 58.591,
+          "end": 58.916
+        },
+        {
+          "word": "this",
+          "start": 58.916,
+          "end": 59.241
+        },
+        {
+          "word": "to",
+          "start": 59.241,
+          "end": 59.566
+        },
+        {
+          "word": "the",
+          "start": 59.566,
+          "end": 59.892
+        },
+        {
+          "word": "friend",
+          "start": 59.892,
+          "end": 60.217
+        },
+        {
+          "word": "whose",
+          "start": 60.217,
+          "end": 60.783
+        },
+        {
+          "word": "code",
+          "start": 60.783,
+          "end": 61.349
+        },
+        {
+          "word": "is",
+          "start": 61.349,
+          "end": 61.674
+        },
+        {
+          "word": "1234.",
+          "start": 61.674,
+          "end": 62.059
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

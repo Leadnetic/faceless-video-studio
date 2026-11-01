@@ -1,0 +1,452 @@
+{
+  "id": "psychology-video-001",
+  "title": "One Word Changes Everything.",
+  "duration": 33.781,
+  "lines": [
+    {
+      "index": 0,
+      "text": "One word can change the way someone treats you.",
+      "start": 0.45,
+      "end": 3.235,
+      "emphasis": [
+        "One word",
+        "change"
+      ],
+      "words": [
+        {
+          "word": "One",
+          "start": 0.45,
+          "end": 0.849
+        },
+        {
+          "word": "word",
+          "start": 0.849,
+          "end": 1.078
+        },
+        {
+          "word": "can",
+          "start": 1.078,
+          "end": 1.307
+        },
+        {
+          "word": "change",
+          "start": 1.307,
+          "end": 1.707
+        },
+        {
+          "word": "the",
+          "start": 1.707,
+          "end": 1.936
+        },
+        {
+          "word": "way",
+          "start": 1.936,
+          "end": 2.165
+        },
+        {
+          "word": "someone",
+          "start": 2.165,
+          "end": 2.734
+        },
+        {
+          "word": "treats",
+          "start": 2.734,
+          "end": 2.963
+        },
+        {
+          "word": "you.",
+          "start": 2.963,
+          "end": 3.235
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "No.",
+      "start": 3.935,
+      "end": 4.542,
+      "emphasis": [
+        "No."
+      ],
+      "words": [
+        {
+          "word": "No.",
+          "start": 3.935,
+          "end": 4.542
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "You were easy to reach.",
+      "start": 5.642,
+      "end": 7.186,
+      "emphasis": [
+        "easy"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 5.642,
+          "end": 5.873
+        },
+        {
+          "word": "were",
+          "start": 5.873,
+          "end": 6.276
+        },
+        {
+          "word": "easy",
+          "start": 6.276,
+          "end": 6.68
+        },
+        {
+          "word": "to",
+          "start": 6.68,
+          "end": 6.911
+        },
+        {
+          "word": "reach.",
+          "start": 6.911,
+          "end": 7.186
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Easy to convince.",
+      "start": 7.486,
+      "end": 8.843,
+      "emphasis": [
+        "convince."
+      ],
+      "words": [
+        {
+          "word": "Easy",
+          "start": 7.486,
+          "end": 7.923
+        },
+        {
+          "word": "to",
+          "start": 7.923,
+          "end": 8.174
+        },
+        {
+          "word": "convince.",
+          "start": 8.174,
+          "end": 8.843
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Always available.",
+      "start": 9.143,
+      "end": 10.272,
+      "emphasis": [
+        "Always"
+      ],
+      "words": [
+        {
+          "word": "Always",
+          "start": 9.143,
+          "end": 9.525
+        },
+        {
+          "word": "available.",
+          "start": 9.525,
+          "end": 10.272
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Then, for once, you choose yourself.",
+      "start": 11.072,
+      "end": 13.151,
+      "emphasis": [
+        "yourself."
+      ],
+      "words": [
+        {
+          "word": "Then,",
+          "start": 11.072,
+          "end": 11.353
+        },
+        {
+          "word": "for",
+          "start": 11.353,
+          "end": 11.59
+        },
+        {
+          "word": "once,",
+          "start": 11.59,
+          "end": 12.046
+        },
+        {
+          "word": "you",
+          "start": 12.046,
+          "end": 12.282
+        },
+        {
+          "word": "choose",
+          "start": 12.282,
+          "end": 12.695
+        },
+        {
+          "word": "yourself.",
+          "start": 12.695,
+          "end": 13.151
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "The messages get colder.",
+      "start": 14.151,
+      "end": 15.803,
+      "emphasis": [
+        "colder."
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 14.151,
+          "end": 14.409
+        },
+        {
+          "word": "messages",
+          "start": 14.409,
+          "end": 15.048
+        },
+        {
+          "word": "get",
+          "start": 15.048,
+          "end": 15.306
+        },
+        {
+          "word": "colder.",
+          "start": 15.306,
+          "end": 15.803
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "The silence gets longer.",
+      "start": 16.203,
+      "end": 17.753,
+      "emphasis": [
+        "silence",
+        "longer."
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 16.203,
+          "end": 16.445
+        },
+        {
+          "word": "silence",
+          "start": 16.445,
+          "end": 17.045
+        },
+        {
+          "word": "gets",
+          "start": 17.045,
+          "end": 17.287
+        },
+        {
+          "word": "longer.",
+          "start": 17.287,
+          "end": 17.753
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "One reaction doesn't tell the whole story.",
+      "start": 18.853,
+      "end": 21.408,
+      "emphasis": [
+        "One reaction"
+      ],
+      "words": [
+        {
+          "word": "One",
+          "start": 18.853,
+          "end": 19.292
+        },
+        {
+          "word": "reaction",
+          "start": 19.292,
+          "end": 19.73
+        },
+        {
+          "word": "doesn't",
+          "start": 19.73,
+          "end": 19.982
+        },
+        {
+          "word": "tell",
+          "start": 19.982,
+          "end": 20.233
+        },
+        {
+          "word": "the",
+          "start": 20.233,
+          "end": 20.485
+        },
+        {
+          "word": "whole",
+          "start": 20.485,
+          "end": 20.923
+        },
+        {
+          "word": "story.",
+          "start": 20.923,
+          "end": 21.408
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "But a repeated pattern does.",
+      "start": 21.858,
+      "end": 23.641,
+      "emphasis": [
+        "repeated pattern"
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 21.858,
+          "end": 22.099
+        },
+        {
+          "word": "a",
+          "start": 22.099,
+          "end": 22.34
+        },
+        {
+          "word": "repeated",
+          "start": 22.34,
+          "end": 22.937
+        },
+        {
+          "word": "pattern",
+          "start": 22.937,
+          "end": 23.356
+        },
+        {
+          "word": "does.",
+          "start": 23.356,
+          "end": 23.641
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Respect isn't just how someone responds to your yes.",
+      "start": 24.741,
+      "end": 28.225,
+      "emphasis": [
+        "Respect",
+        "yes."
+      ],
+      "words": [
+        {
+          "word": "Respect",
+          "start": 24.741,
+          "end": 25.24
+        },
+        {
+          "word": "isn't",
+          "start": 25.24,
+          "end": 25.527
+        },
+        {
+          "word": "just",
+          "start": 25.527,
+          "end": 25.814
+        },
+        {
+          "word": "how",
+          "start": 25.814,
+          "end": 26.101
+        },
+        {
+          "word": "someone",
+          "start": 26.101,
+          "end": 26.812
+        },
+        {
+          "word": "responds",
+          "start": 26.812,
+          "end": 27.311
+        },
+        {
+          "word": "to",
+          "start": 27.311,
+          "end": 27.598
+        },
+        {
+          "word": "your",
+          "start": 27.598,
+          "end": 27.885
+        },
+        {
+          "word": "yes.",
+          "start": 27.885,
+          "end": 28.225
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "It's what happens when you say no.",
+      "start": 28.625,
+      "end": 30.481,
+      "emphasis": [
+        "no."
+      ],
+      "words": [
+        {
+          "word": "It's",
+          "start": 28.625,
+          "end": 28.859
+        },
+        {
+          "word": "what",
+          "start": 28.859,
+          "end": 29.093
+        },
+        {
+          "word": "happens",
+          "start": 29.093,
+          "end": 29.501
+        },
+        {
+          "word": "when",
+          "start": 29.501,
+          "end": 29.735
+        },
+        {
+          "word": "you",
+          "start": 29.735,
+          "end": 29.969
+        },
+        {
+          "word": "say",
+          "start": 29.969,
+          "end": 30.203
+        },
+        {
+          "word": "no.",
+          "start": 30.203,
+          "end": 30.481
+        }
+      ]
+    }
+  ]
+}

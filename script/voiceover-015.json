@@ -1,0 +1,163 @@
+{
+  "id": "psychology-video-015",
+  "title": "He guessed his PIN",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.05,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "cast": {
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.03,
+      "lang": "en-gb"
+    },
+    "detective": {
+      "voice": "af_bella",
+      "speed": 1.06
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    },
+    "suspect": {
+      "voice": "am_fenrir",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "detective",
+      "text": "His phone. Four digits. Three tries, then it locks for good.",
+      "pause": 0.3,
+      "emphasis": [
+        "Three"
+      ]
+    },
+    {
+      "speaker": "suspect",
+      "text": "Go ahead. You'll never guess it.",
+      "pause": 0.4,
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "It's not one two three four. You want people to think you're careful.",
+      "pause": 0.35,
+      "emphasis": [
+        "careful."
+      ],
+      "say": "It's not one, two, three, four. You want people to think you're careful."
+    },
+    {
+      "speaker": "reader",
+      "text": "It's a date. People pick numbers they can't forget.",
+      "pause": 0.35,
+      "emphasis": [
+        "date.",
+        "forget."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Your ring. Engraved. Zero six, one four. Your wedding day.",
+      "pause": 0.6,
+      "emphasis": [
+        "ring.",
+        "wedding"
+      ]
+    },
+    {
+      "speaker": "suspect",
+      "text": "That's not... how did you...",
+      "pause": 0.35,
+      "emphasis": [
+        "how"
+      ],
+      "say": "That's not... how did you..."
+    },
+    {
+      "speaker": "detective",
+      "text": "We're in.",
+      "pause": 0.6,
+      "emphasis": [
+        "in."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "In 2012, a data analyst studied 3.4 million four-digit codes from leaked password lists.",
+      "pause": 0.3,
+      "emphasis": [
+        "3.4"
+      ],
+      "say": "In twenty twelve, a data analyst studied three point four million four-digit codes from leaked password lists."
+    },
+    {
+      "speaker": "narrator",
+      "text": "The most common one, 1234, was almost eleven percent of all of them. The top twenty codes covered about a quarter.",
+      "pause": 0.3,
+      "emphasis": [
+        "eleven",
+        "quarter."
+      ],
+      "say": "The most common one, one two three four, was almost eleven percent of all of them. The top twenty codes covered about a quarter."
+    },
+    {
+      "speaker": "narrator",
+      "text": "Right after the patterns come the dates. Birth years. Birthdays. Anniversaries.",
+      "pause": 0.35,
+      "emphasis": [
+        "dates."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "And many of us reuse that same code for the phone, the bank card and the front door.",
+      "pause": 0.35,
+      "emphasis": [
+        "reuse"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "We pick what's easy to remember. And what's easy to remember is easy to guess.",
+      "pause": 0.35,
+      "emphasis": [
+        "guess."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "So if your code is a date, a pattern, or a repeat, change it tonight.",
+      "pause": 0.3,
+      "emphasis": [
+        "tonight."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Six digits beat four. Random beats meaningful.",
+      "pause": 0.3,
+      "emphasis": [
+        "Six",
+        "Random"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "And send this to the friend whose code is 1234.",
+      "pause": 0.2,
+      "emphasis": [
+        "send"
+      ],
+      "say": "And send this to the friend whose code is one, two, three, four."
+    }
+  ]
+}

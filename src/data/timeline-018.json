@@ -1,0 +1,1338 @@
+{
+  "id": "psychology-video-018",
+  "title": "38 witnesses",
+  "duration": 87.393,
+  "lines": [
+    {
+      "index": 0,
+      "text": "In 1964, a newspaper reported that thirty-eight people watched a woman being attacked in New York. And not one of them helped.",
+      "start": 0.1,
+      "end": 7.85,
+      "emphasis": [
+        "thirty-eight",
+        "not"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 0.1,
+          "end": 0.346
+        },
+        {
+          "word": "1964,",
+          "start": 0.346,
+          "end": 0.639
+        },
+        {
+          "word": "a",
+          "start": 0.639,
+          "end": 0.885
+        },
+        {
+          "word": "newspaper",
+          "start": 0.885,
+          "end": 1.497
+        },
+        {
+          "word": "reported",
+          "start": 1.497,
+          "end": 2.108
+        },
+        {
+          "word": "that",
+          "start": 2.108,
+          "end": 2.355
+        },
+        {
+          "word": "thirty-eight",
+          "start": 2.355,
+          "end": 2.784
+        },
+        {
+          "word": "people",
+          "start": 2.784,
+          "end": 3.213
+        },
+        {
+          "word": "watched",
+          "start": 3.213,
+          "end": 3.642
+        },
+        {
+          "word": "a",
+          "start": 3.642,
+          "end": 3.888
+        },
+        {
+          "word": "woman",
+          "start": 3.888,
+          "end": 4.317
+        },
+        {
+          "word": "being",
+          "start": 4.317,
+          "end": 4.564
+        },
+        {
+          "word": "attacked",
+          "start": 4.564,
+          "end": 5.175
+        },
+        {
+          "word": "in",
+          "start": 5.175,
+          "end": 5.422
+        },
+        {
+          "word": "New",
+          "start": 5.422,
+          "end": 5.668
+        },
+        {
+          "word": "York.",
+          "start": 5.668,
+          "end": 5.96
+        },
+        {
+          "word": "And",
+          "start": 5.96,
+          "end": 6.207
+        },
+        {
+          "word": "not",
+          "start": 6.207,
+          "end": 6.453
+        },
+        {
+          "word": "one",
+          "start": 6.453,
+          "end": 6.882
+        },
+        {
+          "word": "of",
+          "start": 6.882,
+          "end": 7.129
+        },
+        {
+          "word": "them",
+          "start": 7.129,
+          "end": 7.375
+        },
+        {
+          "word": "helped.",
+          "start": 7.375,
+          "end": 7.85
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "Her name was Kitty Genovese. The story shocked the country.",
+      "start": 8.35,
+      "end": 11.759,
+      "emphasis": [
+        "Kitty"
+      ],
+      "words": [
+        {
+          "word": "Her",
+          "start": 8.35,
+          "end": 8.559
+        },
+        {
+          "word": "name",
+          "start": 8.559,
+          "end": 8.923
+        },
+        {
+          "word": "was",
+          "start": 8.923,
+          "end": 9.132
+        },
+        {
+          "word": "Kitty",
+          "start": 9.132,
+          "end": 9.496
+        },
+        {
+          "word": "Genovese.",
+          "start": 9.496,
+          "end": 10.209
+        },
+        {
+          "word": "The",
+          "start": 10.209,
+          "end": 10.418
+        },
+        {
+          "word": "story",
+          "start": 10.418,
+          "end": 10.783
+        },
+        {
+          "word": "shocked",
+          "start": 10.783,
+          "end": 11.147
+        },
+        {
+          "word": "the",
+          "start": 11.147,
+          "end": 11.356
+        },
+        {
+          "word": "country.",
+          "start": 11.356,
+          "end": 11.759
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "Psychologists built a whole theory on it. The bystander effect. The more people watch, the less anyone helps.",
+      "start": 12.209,
+      "end": 18.694,
+      "emphasis": [
+        "bystander",
+        "less"
+      ],
+      "words": [
+        {
+          "word": "Psychologists",
+          "start": 12.209,
+          "end": 12.965
+        },
+        {
+          "word": "built",
+          "start": 12.965,
+          "end": 13.2
+        },
+        {
+          "word": "a",
+          "start": 13.2,
+          "end": 13.434
+        },
+        {
+          "word": "whole",
+          "start": 13.434,
+          "end": 13.843
+        },
+        {
+          "word": "theory",
+          "start": 13.843,
+          "end": 14.252
+        },
+        {
+          "word": "on",
+          "start": 14.252,
+          "end": 14.486
+        },
+        {
+          "word": "it.",
+          "start": 14.486,
+          "end": 14.764
+        },
+        {
+          "word": "The",
+          "start": 14.764,
+          "end": 14.999
+        },
+        {
+          "word": "bystander",
+          "start": 14.999,
+          "end": 15.582
+        },
+        {
+          "word": "effect.",
+          "start": 15.582,
+          "end": 16.034
+        },
+        {
+          "word": "The",
+          "start": 16.034,
+          "end": 16.268
+        },
+        {
+          "word": "more",
+          "start": 16.268,
+          "end": 16.677
+        },
+        {
+          "word": "people",
+          "start": 16.677,
+          "end": 17.085
+        },
+        {
+          "word": "watch,",
+          "start": 17.085,
+          "end": 17.364
+        },
+        {
+          "word": "the",
+          "start": 17.364,
+          "end": 17.598
+        },
+        {
+          "word": "less",
+          "start": 17.598,
+          "end": 17.833
+        },
+        {
+          "word": "anyone",
+          "start": 17.833,
+          "end": 18.415
+        },
+        {
+          "word": "helps.",
+          "start": 18.415,
+          "end": 18.694
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "In a famous lab test, people heard someone having a seizure. Alone, eighty-five percent ran to help. In a group of five, only thirty-one percent did.",
+      "start": 19.044,
+      "end": 28.102,
+      "emphasis": [
+        "eighty-five",
+        "thirty-one"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 19.044,
+          "end": 19.268
+        },
+        {
+          "word": "a",
+          "start": 19.268,
+          "end": 19.492
+        },
+        {
+          "word": "famous",
+          "start": 19.492,
+          "end": 19.881
+        },
+        {
+          "word": "lab",
+          "start": 19.881,
+          "end": 20.105
+        },
+        {
+          "word": "test,",
+          "start": 20.105,
+          "end": 20.371
+        },
+        {
+          "word": "people",
+          "start": 20.371,
+          "end": 20.761
+        },
+        {
+          "word": "heard",
+          "start": 20.761,
+          "end": 20.985
+        },
+        {
+          "word": "someone",
+          "start": 20.985,
+          "end": 21.541
+        },
+        {
+          "word": "having",
+          "start": 21.541,
+          "end": 21.93
+        },
+        {
+          "word": "a",
+          "start": 21.93,
+          "end": 22.154
+        },
+        {
+          "word": "seizure.",
+          "start": 22.154,
+          "end": 22.752
+        },
+        {
+          "word": "Alone,",
+          "start": 22.752,
+          "end": 23.349
+        },
+        {
+          "word": "eighty-five",
+          "start": 23.349,
+          "end": 24.071
+        },
+        {
+          "word": "percent",
+          "start": 24.071,
+          "end": 24.461
+        },
+        {
+          "word": "ran",
+          "start": 24.461,
+          "end": 24.685
+        },
+        {
+          "word": "to",
+          "start": 24.685,
+          "end": 24.909
+        },
+        {
+          "word": "help.",
+          "start": 24.909,
+          "end": 25.174
+        },
+        {
+          "word": "In",
+          "start": 25.174,
+          "end": 25.398
+        },
+        {
+          "word": "a",
+          "start": 25.398,
+          "end": 25.622
+        },
+        {
+          "word": "group",
+          "start": 25.622,
+          "end": 25.846
+        },
+        {
+          "word": "of",
+          "start": 25.846,
+          "end": 26.07
+        },
+        {
+          "word": "five,",
+          "start": 26.07,
+          "end": 26.501
+        },
+        {
+          "word": "only",
+          "start": 26.501,
+          "end": 26.891
+        },
+        {
+          "word": "thirty-one",
+          "start": 26.891,
+          "end": 27.447
+        },
+        {
+          "word": "percent",
+          "start": 27.447,
+          "end": 27.837
+        },
+        {
+          "word": "did.",
+          "start": 27.837,
+          "end": 28.102
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "But the thirty-eight witnesses? That number didn't hold up.",
+      "start": 28.602,
+      "end": 31.751,
+      "emphasis": [
+        "But",
+        "didn't"
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 28.602,
+          "end": 28.858
+        },
+        {
+          "word": "the",
+          "start": 28.858,
+          "end": 29.113
+        },
+        {
+          "word": "thirty-eight",
+          "start": 29.113,
+          "end": 29.557
+        },
+        {
+          "word": "witnesses?",
+          "start": 29.557,
+          "end": 30.238
+        },
+        {
+          "word": "That",
+          "start": 30.238,
+          "end": 30.494
+        },
+        {
+          "word": "number",
+          "start": 30.494,
+          "end": 30.938
+        },
+        {
+          "word": "didn't",
+          "start": 30.938,
+          "end": 31.193
+        },
+        {
+          "word": "hold",
+          "start": 31.193,
+          "end": 31.449
+        },
+        {
+          "word": "up.",
+          "start": 31.449,
+          "end": 31.751
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Most neighbors only heard noises, late at night. Very few actually saw anything.",
+      "start": 32.301,
+      "end": 36.924,
+      "emphasis": [
+        "heard",
+        "saw"
+      ],
+      "words": [
+        {
+          "word": "Most",
+          "start": 32.301,
+          "end": 32.53
+        },
+        {
+          "word": "neighbors",
+          "start": 32.53,
+          "end": 32.928
+        },
+        {
+          "word": "only",
+          "start": 32.928,
+          "end": 33.326
+        },
+        {
+          "word": "heard",
+          "start": 33.326,
+          "end": 33.554
+        },
+        {
+          "word": "noises,",
+          "start": 33.554,
+          "end": 33.995
+        },
+        {
+          "word": "late",
+          "start": 33.995,
+          "end": 34.392
+        },
+        {
+          "word": "at",
+          "start": 34.392,
+          "end": 34.621
+        },
+        {
+          "word": "night.",
+          "start": 34.621,
+          "end": 34.892
+        },
+        {
+          "word": "Very",
+          "start": 34.892,
+          "end": 35.29
+        },
+        {
+          "word": "few",
+          "start": 35.29,
+          "end": 35.518
+        },
+        {
+          "word": "actually",
+          "start": 35.518,
+          "end": 36.086
+        },
+        {
+          "word": "saw",
+          "start": 36.086,
+          "end": 36.314
+        },
+        {
+          "word": "anything.",
+          "start": 36.314,
+          "end": 36.924
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "At least one person called the police. And a neighbor, Sophia Farrar, ran outside and held Kitty in her arms.",
+      "start": 37.274,
+      "end": 43.91,
+      "emphasis": [
+        "called",
+        "held"
+      ],
+      "words": [
+        {
+          "word": "At",
+          "start": 37.274,
+          "end": 37.503
+        },
+        {
+          "word": "least",
+          "start": 37.503,
+          "end": 37.733
+        },
+        {
+          "word": "one",
+          "start": 37.733,
+          "end": 38.133
+        },
+        {
+          "word": "person",
+          "start": 38.133,
+          "end": 38.533
+        },
+        {
+          "word": "called",
+          "start": 38.533,
+          "end": 38.933
+        },
+        {
+          "word": "the",
+          "start": 38.933,
+          "end": 39.162
+        },
+        {
+          "word": "police.",
+          "start": 39.162,
+          "end": 39.775
+        },
+        {
+          "word": "And",
+          "start": 39.775,
+          "end": 40.005
+        },
+        {
+          "word": "a",
+          "start": 40.005,
+          "end": 40.234
+        },
+        {
+          "word": "neighbor,",
+          "start": 40.234,
+          "end": 40.677
+        },
+        {
+          "word": "Sophia",
+          "start": 40.677,
+          "end": 41.077
+        },
+        {
+          "word": "Farrar,",
+          "start": 41.077,
+          "end": 41.519
+        },
+        {
+          "word": "ran",
+          "start": 41.519,
+          "end": 41.749
+        },
+        {
+          "word": "outside",
+          "start": 41.749,
+          "end": 42.319
+        },
+        {
+          "word": "and",
+          "start": 42.319,
+          "end": 42.548
+        },
+        {
+          "word": "held",
+          "start": 42.548,
+          "end": 42.778
+        },
+        {
+          "word": "Kitty",
+          "start": 42.778,
+          "end": 43.178
+        },
+        {
+          "word": "in",
+          "start": 43.178,
+          "end": 43.408
+        },
+        {
+          "word": "her",
+          "start": 43.408,
+          "end": 43.637
+        },
+        {
+          "word": "arms.",
+          "start": 43.637,
+          "end": 43.91
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Decades later, the newspaper itself admitted the story was badly exaggerated.",
+      "start": 44.51,
+      "end": 49.026,
+      "emphasis": [
+        "exaggerated."
+      ],
+      "words": [
+        {
+          "word": "Decades",
+          "start": 44.51,
+          "end": 45.025
+        },
+        {
+          "word": "later,",
+          "start": 45.025,
+          "end": 45.425
+        },
+        {
+          "word": "the",
+          "start": 45.425,
+          "end": 45.633
+        },
+        {
+          "word": "newspaper",
+          "start": 45.633,
+          "end": 46.148
+        },
+        {
+          "word": "itself",
+          "start": 46.148,
+          "end": 46.51
+        },
+        {
+          "word": "admitted",
+          "start": 46.51,
+          "end": 47.025
+        },
+        {
+          "word": "the",
+          "start": 47.025,
+          "end": 47.233
+        },
+        {
+          "word": "story",
+          "start": 47.233,
+          "end": 47.595
+        },
+        {
+          "word": "was",
+          "start": 47.595,
+          "end": 47.803
+        },
+        {
+          "word": "badly",
+          "start": 47.803,
+          "end": 48.164
+        },
+        {
+          "word": "exaggerated.",
+          "start": 48.164,
+          "end": 49.026
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "So is the bystander effect fake? Not quite. In the lab, it's real.",
+      "start": 49.526,
+      "end": 53.564,
+      "emphasis": [
+        "Not",
+        "real."
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 49.526,
+          "end": 49.757
+        },
+        {
+          "word": "is",
+          "start": 49.757,
+          "end": 49.989
+        },
+        {
+          "word": "the",
+          "start": 49.989,
+          "end": 50.22
+        },
+        {
+          "word": "bystander",
+          "start": 50.22,
+          "end": 50.795
+        },
+        {
+          "word": "effect",
+          "start": 50.795,
+          "end": 51.198
+        },
+        {
+          "word": "fake?",
+          "start": 51.198,
+          "end": 51.644
+        },
+        {
+          "word": "Not",
+          "start": 51.644,
+          "end": 51.875
+        },
+        {
+          "word": "quite.",
+          "start": 51.875,
+          "end": 52.321
+        },
+        {
+          "word": "In",
+          "start": 52.321,
+          "end": 52.553
+        },
+        {
+          "word": "the",
+          "start": 52.553,
+          "end": 52.784
+        },
+        {
+          "word": "lab,",
+          "start": 52.784,
+          "end": 53.058
+        },
+        {
+          "word": "it's",
+          "start": 53.058,
+          "end": 53.29
+        },
+        {
+          "word": "real.",
+          "start": 53.29,
+          "end": 53.564
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "But in 2019, researchers studied real security camera footage of more than two hundred public fights in three countries.",
+      "start": 54.014,
+      "end": 61.15,
+      "emphasis": [
+        "real",
+        "two"
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 54.014,
+          "end": 54.254
+        },
+        {
+          "word": "in",
+          "start": 54.254,
+          "end": 54.494
+        },
+        {
+          "word": "2019,",
+          "start": 54.494,
+          "end": 54.779
+        },
+        {
+          "word": "researchers",
+          "start": 54.779,
+          "end": 55.374
+        },
+        {
+          "word": "studied",
+          "start": 55.374,
+          "end": 55.792
+        },
+        {
+          "word": "real",
+          "start": 55.792,
+          "end": 56.032
+        },
+        {
+          "word": "security",
+          "start": 56.032,
+          "end": 56.805
+        },
+        {
+          "word": "camera",
+          "start": 56.805,
+          "end": 57.4
+        },
+        {
+          "word": "footage",
+          "start": 57.4,
+          "end": 57.996
+        },
+        {
+          "word": "of",
+          "start": 57.996,
+          "end": 58.235
+        },
+        {
+          "word": "more",
+          "start": 58.235,
+          "end": 58.653
+        },
+        {
+          "word": "than",
+          "start": 58.653,
+          "end": 58.893
+        },
+        {
+          "word": "two",
+          "start": 58.893,
+          "end": 59.133
+        },
+        {
+          "word": "hundred",
+          "start": 59.133,
+          "end": 59.551
+        },
+        {
+          "word": "public",
+          "start": 59.551,
+          "end": 59.968
+        },
+        {
+          "word": "fights",
+          "start": 59.968,
+          "end": 60.208
+        },
+        {
+          "word": "in",
+          "start": 60.208,
+          "end": 60.448
+        },
+        {
+          "word": "three",
+          "start": 60.448,
+          "end": 60.688
+        },
+        {
+          "word": "countries.",
+          "start": 60.688,
+          "end": 61.15
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "In nine out of ten, at least one stranger stepped in. And the more people were around, the more likely someone helped.",
+      "start": 61.5,
+      "end": 68.052,
+      "emphasis": [
+        "nine",
+        "more"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 61.5,
+          "end": 61.698
+        },
+        {
+          "word": "nine",
+          "start": 61.698,
+          "end": 62.043
+        },
+        {
+          "word": "out",
+          "start": 62.043,
+          "end": 62.24
+        },
+        {
+          "word": "of",
+          "start": 62.24,
+          "end": 62.438
+        },
+        {
+          "word": "ten,",
+          "start": 62.438,
+          "end": 62.673
+        },
+        {
+          "word": "at",
+          "start": 62.673,
+          "end": 62.871
+        },
+        {
+          "word": "least",
+          "start": 62.871,
+          "end": 63.068
+        },
+        {
+          "word": "one",
+          "start": 63.068,
+          "end": 63.413
+        },
+        {
+          "word": "stranger",
+          "start": 63.413,
+          "end": 63.757
+        },
+        {
+          "word": "stepped",
+          "start": 63.757,
+          "end": 64.102
+        },
+        {
+          "word": "in.",
+          "start": 64.102,
+          "end": 64.336
+        },
+        {
+          "word": "And",
+          "start": 64.336,
+          "end": 64.534
+        },
+        {
+          "word": "the",
+          "start": 64.534,
+          "end": 64.732
+        },
+        {
+          "word": "more",
+          "start": 64.732,
+          "end": 65.076
+        },
+        {
+          "word": "people",
+          "start": 65.076,
+          "end": 65.421
+        },
+        {
+          "word": "were",
+          "start": 65.421,
+          "end": 65.765
+        },
+        {
+          "word": "around,",
+          "start": 65.765,
+          "end": 66.146
+        },
+        {
+          "word": "the",
+          "start": 66.146,
+          "end": 66.344
+        },
+        {
+          "word": "more",
+          "start": 66.344,
+          "end": 66.689
+        },
+        {
+          "word": "likely",
+          "start": 66.689,
+          "end": 67.18
+        },
+        {
+          "word": "someone",
+          "start": 67.18,
+          "end": 67.67
+        },
+        {
+          "word": "helped.",
+          "start": 67.67,
+          "end": 68.052
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "So the lesson flips. Crowds aren't cold. The danger is the first few seconds, when everyone waits for someone else to move.",
+      "start": 68.602,
+      "end": 75.71,
+      "emphasis": [
+        "flips.",
+        "seconds,"
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 68.602,
+          "end": 68.832
+        },
+        {
+          "word": "the",
+          "start": 68.832,
+          "end": 69.062
+        },
+        {
+          "word": "lesson",
+          "start": 69.062,
+          "end": 69.462
+        },
+        {
+          "word": "flips.",
+          "start": 69.462,
+          "end": 69.735
+        },
+        {
+          "word": "Crowds",
+          "start": 69.735,
+          "end": 69.965
+        },
+        {
+          "word": "aren't",
+          "start": 69.965,
+          "end": 70.366
+        },
+        {
+          "word": "cold.",
+          "start": 70.366,
+          "end": 70.639
+        },
+        {
+          "word": "The",
+          "start": 70.639,
+          "end": 70.869
+        },
+        {
+          "word": "danger",
+          "start": 70.869,
+          "end": 71.269
+        },
+        {
+          "word": "is",
+          "start": 71.269,
+          "end": 71.499
+        },
+        {
+          "word": "the",
+          "start": 71.499,
+          "end": 71.729
+        },
+        {
+          "word": "first",
+          "start": 71.729,
+          "end": 71.96
+        },
+        {
+          "word": "few",
+          "start": 71.96,
+          "end": 72.19
+        },
+        {
+          "word": "seconds,",
+          "start": 72.19,
+          "end": 72.633
+        },
+        {
+          "word": "when",
+          "start": 72.633,
+          "end": 72.863
+        },
+        {
+          "word": "everyone",
+          "start": 72.863,
+          "end": 73.605
+        },
+        {
+          "word": "waits",
+          "start": 73.605,
+          "end": 73.835
+        },
+        {
+          "word": "for",
+          "start": 73.835,
+          "end": 74.065
+        },
+        {
+          "word": "someone",
+          "start": 74.065,
+          "end": 74.636
+        },
+        {
+          "word": "else",
+          "start": 74.636,
+          "end": 75.036
+        },
+        {
+          "word": "to",
+          "start": 75.036,
+          "end": 75.266
+        },
+        {
+          "word": "move.",
+          "start": 75.266,
+          "end": 75.71
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "So be the first one. Others will follow.",
+      "start": 76.16,
+      "end": 78.409,
+      "emphasis": [
+        "first",
+        "follow."
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 76.16,
+          "end": 76.372
+        },
+        {
+          "word": "be",
+          "start": 76.372,
+          "end": 76.584
+        },
+        {
+          "word": "the",
+          "start": 76.584,
+          "end": 76.797
+        },
+        {
+          "word": "first",
+          "start": 76.797,
+          "end": 77.009
+        },
+        {
+          "word": "one.",
+          "start": 77.009,
+          "end": 77.418
+        },
+        {
+          "word": "Others",
+          "start": 77.418,
+          "end": 77.788
+        },
+        {
+          "word": "will",
+          "start": 77.788,
+          "end": 78.0
+        },
+        {
+          "word": "follow.",
+          "start": 78.0,
+          "end": 78.409
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "Next file: the experiment that made obedience look easy. Some of the people in it didn't believe it was real.",
+      "start": 79.009,
+      "end": 85.193,
+      "emphasis": [
+        "obedience",
+        "real."
+      ],
+      "words": [
+        {
+          "word": "Next",
+          "start": 79.009,
+          "end": 79.215
+        },
+        {
+          "word": "file:",
+          "start": 79.215,
+          "end": 79.574
+        },
+        {
+          "word": "the",
+          "start": 79.574,
+          "end": 79.78
+        },
+        {
+          "word": "experiment",
+          "start": 79.78,
+          "end": 80.444
+        },
+        {
+          "word": "that",
+          "start": 80.444,
+          "end": 80.651
+        },
+        {
+          "word": "made",
+          "start": 80.651,
+          "end": 81.009
+        },
+        {
+          "word": "obedience",
+          "start": 81.009,
+          "end": 81.674
+        },
+        {
+          "word": "look",
+          "start": 81.674,
+          "end": 81.88
+        },
+        {
+          "word": "easy.",
+          "start": 81.88,
+          "end": 82.277
+        },
+        {
+          "word": "Some",
+          "start": 82.277,
+          "end": 82.636
+        },
+        {
+          "word": "of",
+          "start": 82.636,
+          "end": 82.842
+        },
+        {
+          "word": "the",
+          "start": 82.842,
+          "end": 83.048
+        },
+        {
+          "word": "people",
+          "start": 83.048,
+          "end": 83.407
+        },
+        {
+          "word": "in",
+          "start": 83.407,
+          "end": 83.613
+        },
+        {
+          "word": "it",
+          "start": 83.613,
+          "end": 83.819
+        },
+        {
+          "word": "didn't",
+          "start": 83.819,
+          "end": 84.025
+        },
+        {
+          "word": "believe",
+          "start": 84.025,
+          "end": 84.537
+        },
+        {
+          "word": "it",
+          "start": 84.537,
+          "end": 84.743
+        },
+        {
+          "word": "was",
+          "start": 84.743,
+          "end": 84.949
+        },
+        {
+          "word": "real.",
+          "start": 84.949,
+          "end": 85.193
+        }
+      ]
+    }
+  ]
+}

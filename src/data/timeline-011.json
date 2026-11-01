@@ -1,0 +1,677 @@
+{
+  "id": "psychology-video-011",
+  "title": "Tell it backwards",
+  "duration": 41.258,
+  "lines": [
+    {
+      "index": 0,
+      "text": "I left work at six, grabbed dinner, and I was home by eight.",
+      "start": 0.1,
+      "end": 3.033,
+      "emphasis": [
+        "six,",
+        "eight."
+      ],
+      "words": [
+        {
+          "word": "I",
+          "start": 0.1,
+          "end": 0.286
+        },
+        {
+          "word": "left",
+          "start": 0.286,
+          "end": 0.472
+        },
+        {
+          "word": "work",
+          "start": 0.472,
+          "end": 0.658
+        },
+        {
+          "word": "at",
+          "start": 0.658,
+          "end": 0.844
+        },
+        {
+          "word": "six,",
+          "start": 0.844,
+          "end": 1.064
+        },
+        {
+          "word": "grabbed",
+          "start": 1.064,
+          "end": 1.388
+        },
+        {
+          "word": "dinner,",
+          "start": 1.388,
+          "end": 1.746
+        },
+        {
+          "word": "and",
+          "start": 1.746,
+          "end": 1.932
+        },
+        {
+          "word": "I",
+          "start": 1.932,
+          "end": 2.117
+        },
+        {
+          "word": "was",
+          "start": 2.117,
+          "end": 2.303
+        },
+        {
+          "word": "home",
+          "start": 2.303,
+          "end": 2.627
+        },
+        {
+          "word": "by",
+          "start": 2.627,
+          "end": 2.813
+        },
+        {
+          "word": "eight.",
+          "start": 2.813,
+          "end": 3.033
+        }
+      ],
+      "speaker": "suspect"
+    },
+    {
+      "index": 1,
+      "text": "Smooth. Too smooth.",
+      "start": 3.283,
+      "end": 4.552,
+      "emphasis": [
+        "Too"
+      ],
+      "words": [
+        {
+          "word": "Smooth.",
+          "start": 3.283,
+          "end": 3.729
+        },
+        {
+          "word": "Too",
+          "start": 3.729,
+          "end": 4.106
+        },
+        {
+          "word": "smooth.",
+          "start": 4.106,
+          "end": 4.552
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 2,
+      "text": "Okay. Now tell it backwards.",
+      "start": 4.852,
+      "end": 6.755,
+      "emphasis": [
+        "backwards."
+      ],
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 4.852,
+          "end": 5.387
+        },
+        {
+          "word": "Now",
+          "start": 5.387,
+          "end": 5.665
+        },
+        {
+          "word": "tell",
+          "start": 5.665,
+          "end": 5.942
+        },
+        {
+          "word": "it",
+          "start": 5.942,
+          "end": 6.22
+        },
+        {
+          "word": "backwards.",
+          "start": 6.22,
+          "end": 6.755
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 3,
+      "text": "Backwards? I was home by eight, and before that I... uh...",
+      "start": 7.155,
+      "end": 10.244,
+      "emphasis": [
+        "uh..."
+      ],
+      "words": [
+        {
+          "word": "Backwards?",
+          "start": 7.155,
+          "end": 7.56
+        },
+        {
+          "word": "I",
+          "start": 7.56,
+          "end": 7.77
+        },
+        {
+          "word": "was",
+          "start": 7.77,
+          "end": 7.98
+        },
+        {
+          "word": "home",
+          "start": 7.98,
+          "end": 8.345
+        },
+        {
+          "word": "by",
+          "start": 8.345,
+          "end": 8.555
+        },
+        {
+          "word": "eight,",
+          "start": 8.555,
+          "end": 8.804
+        },
+        {
+          "word": "and",
+          "start": 8.804,
+          "end": 9.014
+        },
+        {
+          "word": "before",
+          "start": 9.014,
+          "end": 9.536
+        },
+        {
+          "word": "that",
+          "start": 9.536,
+          "end": 9.746
+        },
+        {
+          "word": "I...",
+          "start": 9.746,
+          "end": 9.995
+        },
+        {
+          "word": "uh...",
+          "start": 9.995,
+          "end": 10.244
+        }
+      ],
+      "speaker": "suspect"
+    },
+    {
+      "index": 4,
+      "text": "There it is.",
+      "start": 10.694,
+      "end": 11.643,
+      "emphasis": [
+        "There"
+      ],
+      "words": [
+        {
+          "word": "There",
+          "start": 10.694,
+          "end": 11.115
+        },
+        {
+          "word": "it",
+          "start": 11.115,
+          "end": 11.357
+        },
+        {
+          "word": "is.",
+          "start": 11.357,
+          "end": 11.643
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 5,
+      "text": "Lying is hard work. You invent the story, remember it, and watch the other person.",
+      "start": 12.243,
+      "end": 16.768,
+      "emphasis": [
+        "hard"
+      ],
+      "words": [
+        {
+          "word": "Lying",
+          "start": 12.243,
+          "end": 12.467
+        },
+        {
+          "word": "is",
+          "start": 12.467,
+          "end": 12.692
+        },
+        {
+          "word": "hard",
+          "start": 12.692,
+          "end": 12.916
+        },
+        {
+          "word": "work.",
+          "start": 12.916,
+          "end": 13.181
+        },
+        {
+          "word": "You",
+          "start": 13.181,
+          "end": 13.405
+        },
+        {
+          "word": "invent",
+          "start": 13.405,
+          "end": 13.796
+        },
+        {
+          "word": "the",
+          "start": 13.796,
+          "end": 14.02
+        },
+        {
+          "word": "story,",
+          "start": 14.02,
+          "end": 14.451
+        },
+        {
+          "word": "remember",
+          "start": 14.451,
+          "end": 15.008
+        },
+        {
+          "word": "it,",
+          "start": 15.008,
+          "end": 15.273
+        },
+        {
+          "word": "and",
+          "start": 15.273,
+          "end": 15.497
+        },
+        {
+          "word": "watch",
+          "start": 15.497,
+          "end": 15.722
+        },
+        {
+          "word": "the",
+          "start": 15.722,
+          "end": 15.946
+        },
+        {
+          "word": "other",
+          "start": 15.946,
+          "end": 16.336
+        },
+        {
+          "word": "person.",
+          "start": 16.336,
+          "end": 16.768
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 6,
+      "text": "Reverse order adds even more load. Truth-tellers just remember. Liars run out of room.",
+      "start": 17.018,
+      "end": 22.254,
+      "emphasis": [
+        "remember.",
+        "room."
+      ],
+      "words": [
+        {
+          "word": "Reverse",
+          "start": 17.018,
+          "end": 17.63
+        },
+        {
+          "word": "order",
+          "start": 17.63,
+          "end": 18.059
+        },
+        {
+          "word": "adds",
+          "start": 18.059,
+          "end": 18.306
+        },
+        {
+          "word": "even",
+          "start": 18.306,
+          "end": 18.736
+        },
+        {
+          "word": "more",
+          "start": 18.736,
+          "end": 19.165
+        },
+        {
+          "word": "load.",
+          "start": 19.165,
+          "end": 19.458
+        },
+        {
+          "word": "Truth-tellers",
+          "start": 19.458,
+          "end": 20.07
+        },
+        {
+          "word": "just",
+          "start": 20.07,
+          "end": 20.317
+        },
+        {
+          "word": "remember.",
+          "start": 20.317,
+          "end": 20.974
+        },
+        {
+          "word": "Liars",
+          "start": 20.974,
+          "end": 21.221
+        },
+        {
+          "word": "run",
+          "start": 21.221,
+          "end": 21.468
+        },
+        {
+          "word": "out",
+          "start": 21.468,
+          "end": 21.715
+        },
+        {
+          "word": "of",
+          "start": 21.715,
+          "end": 21.961
+        },
+        {
+          "word": "room.",
+          "start": 21.961,
+          "end": 22.254
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 7,
+      "text": "In a 2008 study, observers caught more lies when people told their story backwards.",
+      "start": 22.554,
+      "end": 27.725,
+      "emphasis": [
+        "backwards."
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 22.554,
+          "end": 22.818
+        },
+        {
+          "word": "a",
+          "start": 22.818,
+          "end": 23.083
+        },
+        {
+          "word": "2008",
+          "start": 23.083,
+          "end": 23.347
+        },
+        {
+          "word": "study,",
+          "start": 23.347,
+          "end": 23.856
+        },
+        {
+          "word": "observers",
+          "start": 23.856,
+          "end": 24.513
+        },
+        {
+          "word": "caught",
+          "start": 24.513,
+          "end": 24.777
+        },
+        {
+          "word": "more",
+          "start": 24.777,
+          "end": 25.237
+        },
+        {
+          "word": "lies",
+          "start": 25.237,
+          "end": 25.502
+        },
+        {
+          "word": "when",
+          "start": 25.502,
+          "end": 25.766
+        },
+        {
+          "word": "people",
+          "start": 25.766,
+          "end": 26.227
+        },
+        {
+          "word": "told",
+          "start": 26.227,
+          "end": 26.491
+        },
+        {
+          "word": "their",
+          "start": 26.491,
+          "end": 26.755
+        },
+        {
+          "word": "story",
+          "start": 26.755,
+          "end": 27.216
+        },
+        {
+          "word": "backwards.",
+          "start": 27.216,
+          "end": 27.725
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "What about the eyes? Liars look to the left.",
+      "start": 28.075,
+      "end": 30.426,
+      "emphasis": [
+        "left."
+      ],
+      "words": [
+        {
+          "word": "What",
+          "start": 28.075,
+          "end": 28.308
+        },
+        {
+          "word": "about",
+          "start": 28.308,
+          "end": 28.712
+        },
+        {
+          "word": "the",
+          "start": 28.712,
+          "end": 28.945
+        },
+        {
+          "word": "eyes?",
+          "start": 28.945,
+          "end": 29.22
+        },
+        {
+          "word": "Liars",
+          "start": 29.22,
+          "end": 29.453
+        },
+        {
+          "word": "look",
+          "start": 29.453,
+          "end": 29.685
+        },
+        {
+          "word": "to",
+          "start": 29.685,
+          "end": 29.918
+        },
+        {
+          "word": "the",
+          "start": 29.918,
+          "end": 30.151
+        },
+        {
+          "word": "left.",
+          "start": 30.151,
+          "end": 30.426
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 9,
+      "text": "A myth. Researchers tested it in 2012. Eye direction tells you nothing.",
+      "start": 30.726,
+      "end": 36.54,
+      "emphasis": [
+        "myth.",
+        "nothing."
+      ],
+      "words": [
+        {
+          "word": "A",
+          "start": 30.726,
+          "end": 31.068
+        },
+        {
+          "word": "myth.",
+          "start": 31.068,
+          "end": 31.474
+        },
+        {
+          "word": "Researchers",
+          "start": 31.474,
+          "end": 32.322
+        },
+        {
+          "word": "tested",
+          "start": 32.322,
+          "end": 32.918
+        },
+        {
+          "word": "it",
+          "start": 32.918,
+          "end": 33.26
+        },
+        {
+          "word": "in",
+          "start": 33.26,
+          "end": 33.602
+        },
+        {
+          "word": "2012.",
+          "start": 33.602,
+          "end": 34.007
+        },
+        {
+          "word": "Eye",
+          "start": 34.007,
+          "end": 34.349
+        },
+        {
+          "word": "direction",
+          "start": 34.349,
+          "end": 35.198
+        },
+        {
+          "word": "tells",
+          "start": 35.198,
+          "end": 35.54
+        },
+        {
+          "word": "you",
+          "start": 35.54,
+          "end": 35.882
+        },
+        {
+          "word": "nothing.",
+          "start": 35.882,
+          "end": 36.541
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 10,
+      "text": "Want the truth? Make the story work harder.",
+      "start": 36.89,
+      "end": 39.458,
+      "emphasis": [
+        "harder."
+      ],
+      "words": [
+        {
+          "word": "Want",
+          "start": 36.89,
+          "end": 37.133
+        },
+        {
+          "word": "the",
+          "start": 37.133,
+          "end": 37.375
+        },
+        {
+          "word": "truth?",
+          "start": 37.375,
+          "end": 37.663
+        },
+        {
+          "word": "Make",
+          "start": 37.663,
+          "end": 38.085
+        },
+        {
+          "word": "the",
+          "start": 38.085,
+          "end": 38.327
+        },
+        {
+          "word": "story",
+          "start": 38.327,
+          "end": 38.749
+        },
+        {
+          "word": "work",
+          "start": 38.749,
+          "end": 38.991
+        },
+        {
+          "word": "harder.",
+          "start": 38.991,
+          "end": 39.458
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

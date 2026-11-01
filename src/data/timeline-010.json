@@ -1,0 +1,648 @@
+{
+  "id": "psychology-video-010",
+  "title": "The psychic trick",
+  "duration": 41.433,
+  "lines": [
+    {
+      "index": 0,
+      "text": "You have a great deal of potential you haven't used yet.",
+      "start": 0.1,
+      "end": 4.177,
+      "emphasis": [
+        "potential"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 0.1,
+          "end": 0.374
+        },
+        {
+          "word": "have",
+          "start": 0.374,
+          "end": 0.851
+        },
+        {
+          "word": "a",
+          "start": 0.851,
+          "end": 1.124
+        },
+        {
+          "word": "great",
+          "start": 1.124,
+          "end": 1.398
+        },
+        {
+          "word": "deal",
+          "start": 1.398,
+          "end": 1.672
+        },
+        {
+          "word": "of",
+          "start": 1.672,
+          "end": 1.946
+        },
+        {
+          "word": "potential",
+          "start": 1.946,
+          "end": 2.625
+        },
+        {
+          "word": "you",
+          "start": 2.625,
+          "end": 2.899
+        },
+        {
+          "word": "haven't",
+          "start": 2.899,
+          "end": 3.376
+        },
+        {
+          "word": "used",
+          "start": 3.376,
+          "end": 3.853
+        },
+        {
+          "word": "yet.",
+          "start": 3.853,
+          "end": 4.177
+        }
+      ],
+      "speaker": "psychic"
+    },
+    {
+      "index": 1,
+      "text": "That's exactly me.",
+      "start": 4.477,
+      "end": 5.651,
+      "emphasis": [
+        "exactly"
+      ],
+      "words": [
+        {
+          "word": "That's",
+          "start": 4.477,
+          "end": 4.729
+        },
+        {
+          "word": "exactly",
+          "start": 4.729,
+          "end": 5.353
+        },
+        {
+          "word": "me.",
+          "start": 5.353,
+          "end": 5.651
+        }
+      ],
+      "speaker": "client"
+    },
+    {
+      "index": 2,
+      "text": "That's everyone.",
+      "start": 5.901,
+      "end": 6.985,
+      "emphasis": [
+        "everyone."
+      ],
+      "words": [
+        {
+          "word": "That's",
+          "start": 5.901,
+          "end": 6.147
+        },
+        {
+          "word": "everyone.",
+          "start": 6.147,
+          "end": 6.985
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 3,
+      "text": "In 1948, a psychologist named Bertram Forer gave his students a personality test.",
+      "start": 7.585,
+      "end": 13.571,
+      "emphasis": [
+        "Forer"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 7.585,
+          "end": 7.854
+        },
+        {
+          "word": "1948,",
+          "start": 7.854,
+          "end": 8.173
+        },
+        {
+          "word": "a",
+          "start": 8.173,
+          "end": 8.442
+        },
+        {
+          "word": "psychologist",
+          "start": 8.442,
+          "end": 9.308
+        },
+        {
+          "word": "named",
+          "start": 9.308,
+          "end": 9.776
+        },
+        {
+          "word": "Bertram",
+          "start": 9.776,
+          "end": 10.244
+        },
+        {
+          "word": "Forer",
+          "start": 10.244,
+          "end": 10.713
+        },
+        {
+          "word": "gave",
+          "start": 10.713,
+          "end": 11.181
+        },
+        {
+          "word": "his",
+          "start": 11.181,
+          "end": 11.45
+        },
+        {
+          "word": "students",
+          "start": 11.45,
+          "end": 11.918
+        },
+        {
+          "word": "a",
+          "start": 11.918,
+          "end": 12.187
+        },
+        {
+          "word": "personality",
+          "start": 12.187,
+          "end": 13.252
+        },
+        {
+          "word": "test.",
+          "start": 13.252,
+          "end": 13.571
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 4,
+      "text": "A week later, each one got a personal profile. They rated it 4.3 out of 5 for accuracy.",
+      "start": 13.821,
+      "end": 19.529,
+      "emphasis": [
+        "4.3"
+      ],
+      "words": [
+        {
+          "word": "A",
+          "start": 13.821,
+          "end": 14.041
+        },
+        {
+          "word": "week",
+          "start": 14.041,
+          "end": 14.261
+        },
+        {
+          "word": "later,",
+          "start": 14.261,
+          "end": 14.684
+        },
+        {
+          "word": "each",
+          "start": 14.684,
+          "end": 14.904
+        },
+        {
+          "word": "one",
+          "start": 14.904,
+          "end": 15.287
+        },
+        {
+          "word": "got",
+          "start": 15.287,
+          "end": 15.507
+        },
+        {
+          "word": "a",
+          "start": 15.507,
+          "end": 15.726
+        },
+        {
+          "word": "personal",
+          "start": 15.726,
+          "end": 16.272
+        },
+        {
+          "word": "profile.",
+          "start": 16.272,
+          "end": 16.858
+        },
+        {
+          "word": "They",
+          "start": 16.858,
+          "end": 17.078
+        },
+        {
+          "word": "rated",
+          "start": 17.078,
+          "end": 17.461
+        },
+        {
+          "word": "it",
+          "start": 17.461,
+          "end": 17.681
+        },
+        {
+          "word": "4.3",
+          "start": 17.681,
+          "end": 17.901
+        },
+        {
+          "word": "out",
+          "start": 17.901,
+          "end": 18.121
+        },
+        {
+          "word": "of",
+          "start": 18.121,
+          "end": 18.341
+        },
+        {
+          "word": "5",
+          "start": 18.341,
+          "end": 18.56
+        },
+        {
+          "word": "for",
+          "start": 18.56,
+          "end": 18.78
+        },
+        {
+          "word": "accuracy.",
+          "start": 18.78,
+          "end": 19.529
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 5,
+      "text": "Then he revealed the catch. Every student got the exact same text.",
+      "start": 19.829,
+      "end": 23.58,
+      "emphasis": [
+        "same"
+      ],
+      "words": [
+        {
+          "word": "Then",
+          "start": 19.829,
+          "end": 20.043
+        },
+        {
+          "word": "he",
+          "start": 20.043,
+          "end": 20.257
+        },
+        {
+          "word": "revealed",
+          "start": 20.257,
+          "end": 20.787
+        },
+        {
+          "word": "the",
+          "start": 20.787,
+          "end": 21.001
+        },
+        {
+          "word": "catch.",
+          "start": 21.001,
+          "end": 21.254
+        },
+        {
+          "word": "Every",
+          "start": 21.254,
+          "end": 21.784
+        },
+        {
+          "word": "student",
+          "start": 21.784,
+          "end": 22.156
+        },
+        {
+          "word": "got",
+          "start": 22.156,
+          "end": 22.369
+        },
+        {
+          "word": "the",
+          "start": 22.369,
+          "end": 22.583
+        },
+        {
+          "word": "exact",
+          "start": 22.583,
+          "end": 22.955
+        },
+        {
+          "word": "same",
+          "start": 22.955,
+          "end": 23.327
+        },
+        {
+          "word": "text.",
+          "start": 23.327,
+          "end": 23.58
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 6,
+      "text": "He'd copied most of it from a horoscope book.",
+      "start": 23.88,
+      "end": 26.02,
+      "emphasis": [
+        "horoscope"
+      ],
+      "words": [
+        {
+          "word": "He'd",
+          "start": 23.88,
+          "end": 24.056
+        },
+        {
+          "word": "copied",
+          "start": 24.056,
+          "end": 24.363
+        },
+        {
+          "word": "most",
+          "start": 24.363,
+          "end": 24.539
+        },
+        {
+          "word": "of",
+          "start": 24.539,
+          "end": 24.715
+        },
+        {
+          "word": "it",
+          "start": 24.715,
+          "end": 24.891
+        },
+        {
+          "word": "from",
+          "start": 24.891,
+          "end": 25.067
+        },
+        {
+          "word": "a",
+          "start": 25.067,
+          "end": 25.243
+        },
+        {
+          "word": "horoscope",
+          "start": 25.243,
+          "end": 25.811
+        },
+        {
+          "word": "book.",
+          "start": 25.811,
+          "end": 26.02
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 7,
+      "text": "Vague. Flattering. And it covers both sides.",
+      "start": 26.47,
+      "end": 29.369,
+      "emphasis": [
+        "Vague.",
+        "Flattering.",
+        "both"
+      ],
+      "words": [
+        {
+          "word": "Vague.",
+          "start": 26.47,
+          "end": 26.965
+        },
+        {
+          "word": "Flattering.",
+          "start": 26.965,
+          "end": 27.652
+        },
+        {
+          "word": "And",
+          "start": 27.652,
+          "end": 27.91
+        },
+        {
+          "word": "it",
+          "start": 27.91,
+          "end": 28.167
+        },
+        {
+          "word": "covers",
+          "start": 28.167,
+          "end": 28.616
+        },
+        {
+          "word": "both",
+          "start": 28.616,
+          "end": 28.873
+        },
+        {
+          "word": "sides.",
+          "start": 28.873,
+          "end": 29.369
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 8,
+      "text": "Watch. Sometimes you're outgoing, but other times you need to be alone.",
+      "start": 29.669,
+      "end": 33.83,
+      "emphasis": [
+        "outgoing,",
+        "alone."
+      ],
+      "words": [
+        {
+          "word": "Watch.",
+          "start": 29.669,
+          "end": 29.926
+        },
+        {
+          "word": "Sometimes",
+          "start": 29.926,
+          "end": 30.623
+        },
+        {
+          "word": "you're",
+          "start": 30.623,
+          "end": 31.0
+        },
+        {
+          "word": "outgoing,",
+          "start": 31.0,
+          "end": 31.417
+        },
+        {
+          "word": "but",
+          "start": 31.417,
+          "end": 31.633
+        },
+        {
+          "word": "other",
+          "start": 31.633,
+          "end": 32.01
+        },
+        {
+          "word": "times",
+          "start": 32.01,
+          "end": 32.387
+        },
+        {
+          "word": "you",
+          "start": 32.387,
+          "end": 32.603
+        },
+        {
+          "word": "need",
+          "start": 32.603,
+          "end": 32.82
+        },
+        {
+          "word": "to",
+          "start": 32.82,
+          "end": 33.036
+        },
+        {
+          "word": "be",
+          "start": 33.036,
+          "end": 33.253
+        },
+        {
+          "word": "alone.",
+          "start": 33.253,
+          "end": 33.83
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 9,
+      "text": "Felt personal, didn't it?",
+      "start": 34.33,
+      "end": 35.976,
+      "emphasis": [
+        "personal,"
+      ],
+      "words": [
+        {
+          "word": "Felt",
+          "start": 34.33,
+          "end": 34.611
+        },
+        {
+          "word": "personal,",
+          "start": 34.611,
+          "end": 35.362
+        },
+        {
+          "word": "didn't",
+          "start": 35.362,
+          "end": 35.643
+        },
+        {
+          "word": "it?",
+          "start": 35.643,
+          "end": 35.976
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 10,
+      "text": "It's called the Barnum effect. Now you can't unsee it.",
+      "start": 36.326,
+      "end": 39.633,
+      "emphasis": [
+        "Barnum",
+        "unsee"
+      ],
+      "words": [
+        {
+          "word": "It's",
+          "start": 36.326,
+          "end": 36.574
+        },
+        {
+          "word": "called",
+          "start": 36.574,
+          "end": 37.006
+        },
+        {
+          "word": "the",
+          "start": 37.006,
+          "end": 37.254
+        },
+        {
+          "word": "Barnum",
+          "start": 37.254,
+          "end": 37.686
+        },
+        {
+          "word": "effect.",
+          "start": 37.686,
+          "end": 38.163
+        },
+        {
+          "word": "Now",
+          "start": 38.163,
+          "end": 38.411
+        },
+        {
+          "word": "you",
+          "start": 38.411,
+          "end": 38.659
+        },
+        {
+          "word": "can't",
+          "start": 38.659,
+          "end": 38.907
+        },
+        {
+          "word": "unsee",
+          "start": 38.907,
+          "end": 39.339
+        },
+        {
+          "word": "it.",
+          "start": 39.339,
+          "end": 39.633
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "id": "psychology-video-013",
+  "title": "The Bunker (Part 1)",
+  "duration": 30.65,
+  "lines": [
+    {
+      "index": 0,
+      "text": "Warning. Bunker doors closing in ten seconds.",
+      "start": 0.1,
+      "end": 2.801,
+      "emphasis": [
+        "ten"
+      ],
+      "words": [
+        {
+          "word": "Warning.",
+          "start": 0.1,
+          "end": 0.603
+        },
+        {
+          "word": "Bunker",
+          "start": 0.603,
+          "end": 1.058
+        },
+        {
+          "word": "doors",
+          "start": 1.058,
+          "end": 1.32
+        },
+        {
+          "word": "closing",
+          "start": 1.32,
+          "end": 1.775
+        },
+        {
+          "word": "in",
+          "start": 1.775,
+          "end": 2.036
+        },
+        {
+          "word": "ten",
+          "start": 2.036,
+          "end": 2.297
+        },
+        {
+          "word": "seconds.",
+          "start": 2.297,
+          "end": 2.801
+        }
+      ],
+      "speaker": "pa"
+    },
+    {
+      "index": 1,
+      "text": "The world is ending. You can take one thing inside.",
+      "start": 3.001,
+      "end": 6.267,
+      "emphasis": [
+        "one"
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 3.001,
+          "end": 3.233
+        },
+        {
+          "word": "world",
+          "start": 3.233,
+          "end": 3.465
+        },
+        {
+          "word": "is",
+          "start": 3.465,
+          "end": 3.697
+        },
+        {
+          "word": "ending.",
+          "start": 3.697,
+          "end": 4.144
+        },
+        {
+          "word": "You",
+          "start": 4.144,
+          "end": 4.376
+        },
+        {
+          "word": "can",
+          "start": 4.376,
+          "end": 4.608
+        },
+        {
+          "word": "take",
+          "start": 4.608,
+          "end": 5.012
+        },
+        {
+          "word": "one",
+          "start": 5.012,
+          "end": 5.416
+        },
+        {
+          "word": "thing",
+          "start": 5.416,
+          "end": 5.648
+        },
+        {
+          "word": "inside.",
+          "start": 5.648,
+          "end": 6.267
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 2,
+      "text": "A, a first-aid kit. B, food and water. C, a radio. D, a photo of someone you love.",
+      "start": 6.517,
+      "end": 12.655,
+      "emphasis": [
+        "A,",
+        "B,",
+        "C,",
+        "D,"
+      ],
+      "words": [
+        {
+          "word": "A,",
+          "start": 6.517,
+          "end": 6.812
+        },
+        {
+          "word": "a",
+          "start": 6.812,
+          "end": 7.061
+        },
+        {
+          "word": "first-aid",
+          "start": 7.061,
+          "end": 7.494
+        },
+        {
+          "word": "kit.",
+          "start": 7.494,
+          "end": 7.789
+        },
+        {
+          "word": "B,",
+          "start": 7.789,
+          "end": 8.084
+        },
+        {
+          "word": "food",
+          "start": 8.084,
+          "end": 8.333
+        },
+        {
+          "word": "and",
+          "start": 8.333,
+          "end": 8.582
+        },
+        {
+          "word": "water.",
+          "start": 8.582,
+          "end": 9.061
+        },
+        {
+          "word": "C,",
+          "start": 9.061,
+          "end": 9.356
+        },
+        {
+          "word": "a",
+          "start": 9.356,
+          "end": 9.605
+        },
+        {
+          "word": "radio.",
+          "start": 9.605,
+          "end": 10.084
+        },
+        {
+          "word": "D,",
+          "start": 10.084,
+          "end": 10.379
+        },
+        {
+          "word": "a",
+          "start": 10.379,
+          "end": 10.628
+        },
+        {
+          "word": "photo",
+          "start": 10.628,
+          "end": 11.061
+        },
+        {
+          "word": "of",
+          "start": 11.061,
+          "end": 11.31
+        },
+        {
+          "word": "someone",
+          "start": 11.31,
+          "end": 11.927
+        },
+        {
+          "word": "you",
+          "start": 11.927,
+          "end": 12.176
+        },
+        {
+          "word": "love.",
+          "start": 12.176,
+          "end": 12.655
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 3,
+      "text": "Don't think. Pick.",
+      "start": 12.955,
+      "end": 14.159,
+      "emphasis": [
+        "Pick."
+      ],
+      "words": [
+        {
+          "word": "Don't",
+          "start": 12.955,
+          "end": 13.312
+        },
+        {
+          "word": "think.",
+          "start": 13.312,
+          "end": 13.736
+        },
+        {
+          "word": "Pick.",
+          "start": 13.736,
+          "end": 14.159
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 4,
+      "text": "Three. Two. One.",
+      "start": 14.459,
+      "end": 15.584,
+      "emphasis": [
+        "One."
+      ],
+      "words": [
+        {
+          "word": "Three.",
+          "start": 14.459,
+          "end": 14.769
+        },
+        {
+          "word": "Two.",
+          "start": 14.769,
+          "end": 15.079
+        },
+        {
+          "word": "One.",
+          "start": 15.079,
+          "end": 15.584
+        }
+      ],
+      "speaker": "pa"
+    },
+    {
+      "index": 5,
+      "text": "Done? Good.",
+      "start": 16.484,
+      "end": 17.478,
+      "emphasis": [
+        "Good."
+      ],
+      "words": [
+        {
+          "word": "Done?",
+          "start": 16.484,
+          "end": 17.099
+        },
+        {
+          "word": "Good.",
+          "start": 17.099,
+          "end": 17.478
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 6,
+      "text": "What you grab in a panic shows how your brain handles fear.",
+      "start": 17.828,
+      "end": 21.35,
+      "emphasis": [
+        "panic",
+        "fear."
+      ],
+      "words": [
+        {
+          "word": "What",
+          "start": 17.828,
+          "end": 18.086
+        },
+        {
+          "word": "you",
+          "start": 18.086,
+          "end": 18.343
+        },
+        {
+          "word": "grab",
+          "start": 18.343,
+          "end": 18.601
+        },
+        {
+          "word": "in",
+          "start": 18.601,
+          "end": 18.859
+        },
+        {
+          "word": "a",
+          "start": 18.859,
+          "end": 19.117
+        },
+        {
+          "word": "panic",
+          "start": 19.117,
+          "end": 19.565
+        },
+        {
+          "word": "shows",
+          "start": 19.565,
+          "end": 19.823
+        },
+        {
+          "word": "how",
+          "start": 19.823,
+          "end": 20.081
+        },
+        {
+          "word": "your",
+          "start": 20.081,
+          "end": 20.338
+        },
+        {
+          "word": "brain",
+          "start": 20.338,
+          "end": 20.596
+        },
+        {
+          "word": "handles",
+          "start": 20.596,
+          "end": 21.045
+        },
+        {
+          "word": "fear.",
+          "start": 21.045,
+          "end": 21.35
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 7,
+      "text": "Two of these protect your body. Two of them protect something else.",
+      "start": 21.6,
+      "end": 25.327,
+      "emphasis": [
+        "body.",
+        "else."
+      ],
+      "words": [
+        {
+          "word": "Two",
+          "start": 21.6,
+          "end": 21.813
+        },
+        {
+          "word": "of",
+          "start": 21.813,
+          "end": 22.025
+        },
+        {
+          "word": "these",
+          "start": 22.025,
+          "end": 22.394
+        },
+        {
+          "word": "protect",
+          "start": 22.394,
+          "end": 22.764
+        },
+        {
+          "word": "your",
+          "start": 22.764,
+          "end": 22.976
+        },
+        {
+          "word": "body.",
+          "start": 22.976,
+          "end": 23.385
+        },
+        {
+          "word": "Two",
+          "start": 23.385,
+          "end": 23.597
+        },
+        {
+          "word": "of",
+          "start": 23.597,
+          "end": 23.809
+        },
+        {
+          "word": "them",
+          "start": 23.809,
+          "end": 24.022
+        },
+        {
+          "word": "protect",
+          "start": 24.022,
+          "end": 24.391
+        },
+        {
+          "word": "something",
+          "start": 24.391,
+          "end": 24.918
+        },
+        {
+          "word": "else.",
+          "start": 24.918,
+          "end": 25.327
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 8,
+      "text": "Comment your letter. In part two, I'll read you.",
+      "start": 25.677,
+      "end": 28.65,
+      "emphasis": [
+        "letter.",
+        "two,"
+      ],
+      "words": [
+        {
+          "word": "Comment",
+          "start": 25.677,
+          "end": 26.146
+        },
+        {
+          "word": "your",
+          "start": 26.146,
+          "end": 26.415
+        },
+        {
+          "word": "letter.",
+          "start": 26.415,
+          "end": 26.934
+        },
+        {
+          "word": "In",
+          "start": 26.934,
+          "end": 27.203
+        },
+        {
+          "word": "part",
+          "start": 27.203,
+          "end": 27.473
+        },
+        {
+          "word": "two,",
+          "start": 27.473,
+          "end": 27.792
+        },
+        {
+          "word": "I'll",
+          "start": 27.792,
+          "end": 28.062
+        },
+        {
+          "word": "read",
+          "start": 28.062,
+          "end": 28.331
+        },
+        {
+          "word": "you.",
+          "start": 28.331,
+          "end": 28.65
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

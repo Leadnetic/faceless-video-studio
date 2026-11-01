@@ -1,0 +1,125 @@
+{
+  "id": "psychology-video-009",
+  "title": "Think of a number",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.06,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.6,
+  "cast": {
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.02,
+      "lang": "en-gb",
+      "gain": 1.0
+    },
+    "detective": {
+      "voice": "af_bella",
+      "speed": 1.06
+    },
+    "narrator": {
+      "voice": "af_heart",
+      "speed": 1.06
+    }
+  },
+  "lines": [
+    {
+      "speaker": "reader",
+      "text": "Think of a number between one and ten. Got it?",
+      "pause": 0.35,
+      "emphasis": [
+        "number"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Don't say it. Just hold it.",
+      "pause": 0.3,
+      "emphasis": [
+        "hold"
+      ]
+    },
+    {
+      "speaker": "detective",
+      "text": "You can't possibly know that.",
+      "pause": 0.3,
+      "emphasis": [
+        "can't"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "It's not too small. Not too big. Not the boring middle.",
+      "pause": 0.45,
+      "emphasis": [
+        "small.",
+        "big.",
+        "middle."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "It's seven.",
+      "pause": 0.7,
+      "emphasis": [
+        "seven."
+      ]
+    },
+    {
+      "speaker": "detective",
+      "text": "How?",
+      "pause": 0.35,
+      "emphasis": [
+        "How?"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "In 1976, two psychologists asked 558 people to pick a single digit.",
+      "pause": 0.25,
+      "emphasis": [
+        "558"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Seven won. By a lot. Almost three times more often than chance.",
+      "pause": 0.35,
+      "emphasis": [
+        "Seven",
+        "three"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "One and ten feel like edges. Five is the middle. Even numbers feel too neat.",
+      "pause": 0.3,
+      "emphasis": [
+        "edges.",
+        "middle.",
+        "neat."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Seven feels random. That's exactly why everyone picks it.",
+      "pause": 0.4,
+      "emphasis": [
+        "random.",
+        "everyone"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Wasn't seven? Comment your number. I'll wait.",
+      "pause": 0.2,
+      "emphasis": [
+        "Comment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "psychology-video-008",
+  "title": "Why songs get stuck in your head",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.08,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "lines": [
+    {
+      "text": "It's two in the morning, and your brain is playing the same ten seconds of a song. Again.",
+      "pause": 0.25,
+      "emphasis": [
+        "Again."
+      ]
+    },
+    {
+      "text": "You don't even like this song.",
+      "pause": 0.4,
+      "emphasis": [
+        "like"
+      ]
+    },
+    {
+      "text": "Scientists call it an earworm, and most people get one at least once a week.",
+      "pause": 0.3,
+      "emphasis": [
+        "earworm,"
+      ]
+    },
+    {
+      "text": "Ever noticed it's always just a tiny piece of the song?",
+      "pause": 0.3,
+      "emphasis": [
+        "tiny"
+      ]
+    },
+    {
+      "text": "Your brain hates unfinished business.",
+      "pause": 0.3,
+      "emphasis": [
+        "unfinished"
+      ]
+    },
+    {
+      "text": "Psychologists call it the Zeigarnik effect. You remember interrupted things better than finished ones.",
+      "pause": 0.2,
+      "emphasis": [
+        "interrupted"
+      ]
+    },
+    {
+      "text": "So when you only catch part of a chorus, your brain keeps it open, like a browser tab you can't close.",
+      "pause": 0.3,
+      "emphasis": [
+        "tab"
+      ]
+    },
+    {
+      "text": "Catchy songs make it worse. Simple melody, lots of repetition, and one surprising jump.",
+      "pause": 0.4,
+      "emphasis": [
+        "Catchy"
+      ]
+    },
+    {
+      "text": "The good news? Science found a few fixes.",
+      "pause": 0.3,
+      "emphasis": [
+        "fixes."
+      ]
+    },
+    {
+      "text": "One. Chew gum. A study at the University of Reading found it cut down earworms, because it keeps the muscles you'd sing with busy.",
+      "pause": 0.25,
+      "emphasis": [
+        "gum."
+      ]
+    },
+    {
+      "text": "Two. Listen to the whole song, so your brain gets its ending.",
+      "pause": 0.25,
+      "emphasis": [
+        "whole"
+      ]
+    },
+    {
+      "text": "Three. Give your brain a puzzle. Not too easy, not too hard.",
+      "pause": 0.25,
+      "emphasis": [
+        "puzzle."
+      ]
+    },
+    {
+      "text": "And don't try to block it. Fighting a thought makes it come back stronger.",
+      "pause": 0.4,
+      "emphasis": [
+        "block"
+      ]
+    },
+    {
+      "text": "Anyway. Good luck getting this one out of your head.",
+      "pause": 0,
+      "emphasis": [
+        "luck"
+      ]
+    }
+  ]
+}

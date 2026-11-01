@@ -1,0 +1,114 @@
+{
+  "id": "psychology-video-017",
+  "title": "The experiment that lied",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.02,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 2.0,
+  "lines": [
+    {
+      "text": "In 1971, two dozen students were locked in a basement at Stanford. It became the most famous experiment in psychology.",
+      "pause": 0.45,
+      "emphasis": [
+        "1971,",
+        "famous"
+      ],
+      "say": "In nineteen seventy-one, two dozen students were locked in a basement at Stanford. It became the most famous experiment in psychology."
+    },
+    {
+      "text": "You know the ending. Within days, ordinary students playing guards turned cruel. The study was shut down after six days.",
+      "pause": 0.35,
+      "emphasis": [
+        "cruel.",
+        "six"
+      ]
+    },
+    {
+      "text": "The lesson seemed obvious. Put good people in a bad system, and they become monsters.",
+      "pause": 0.4,
+      "emphasis": [
+        "monsters."
+      ]
+    },
+    {
+      "text": "For almost fifty years, textbooks taught exactly that.",
+      "pause": 0.6,
+      "emphasis": [
+        "fifty"
+      ]
+    },
+    {
+      "text": "But in 2018, a French researcher went back into the archives. The tapes. The notes. The interviews.",
+      "pause": 0.35,
+      "emphasis": [
+        "But",
+        "archives."
+      ],
+      "say": "But in twenty eighteen, a French researcher went back into the archives. The tapes. The notes. The interviews."
+    },
+    {
+      "text": "And the story started to crack.",
+      "pause": 0.7,
+      "emphasis": [
+        "crack."
+      ]
+    },
+    {
+      "text": "On one recording, a staff member pushes a guard to be tougher. The guards weren't left alone. They were coached.",
+      "pause": 0.45,
+      "emphasis": [
+        "coached."
+      ]
+    },
+    {
+      "text": "Then the prisoner whose breakdown made the study famous said something nobody expected.",
+      "pause": 0.4,
+      "emphasis": [
+        "breakdown"
+      ]
+    },
+    {
+      "text": "He said he was faking. He wanted out, so he could study for his exams.",
+      "pause": 0.7,
+      "emphasis": [
+        "faking."
+      ]
+    },
+    {
+      "text": "So was it all fake? Not quite. Some guards really did turn harsh. And the man who ran it defended it until he died.",
+      "pause": 0.4,
+      "emphasis": [
+        "Not",
+        "harsh."
+      ]
+    },
+    {
+      "text": "The real lesson might be darker. People don't just become cruel on their own. They do it when someone in charge makes it clear that's what is expected.",
+      "pause": 0.45,
+      "emphasis": [
+        "darker.",
+        "expected."
+      ]
+    },
+    {
+      "text": "Which raises a question about every famous experiment you were ever taught.",
+      "pause": 0.4,
+      "emphasis": [
+        "every"
+      ]
+    },
+    {
+      "text": "Next file: thirty-eight witnesses watched a crime and did nothing. That story isn't true either.",
+      "pause": 0.2,
+      "emphasis": [
+        "thirty-eight",
+        "either."
+      ]
+    }
+  ]
+}

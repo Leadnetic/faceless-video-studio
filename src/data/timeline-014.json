@@ -1,0 +1,777 @@
+{
+  "id": "psychology-video-014",
+  "title": "The Bunker (Part 2)",
+  "duration": 49.089,
+  "lines": [
+    {
+      "index": 0,
+      "text": "You picked one thing. Let me read you.",
+      "start": 0.1,
+      "end": 2.307,
+      "emphasis": [
+        "read"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 0.1,
+          "end": 0.324
+        },
+        {
+          "word": "picked",
+          "start": 0.324,
+          "end": 0.714
+        },
+        {
+          "word": "one",
+          "start": 0.714,
+          "end": 1.104
+        },
+        {
+          "word": "thing.",
+          "start": 1.104,
+          "end": 1.37
+        },
+        {
+          "word": "Let",
+          "start": 1.37,
+          "end": 1.594
+        },
+        {
+          "word": "me",
+          "start": 1.594,
+          "end": 1.818
+        },
+        {
+          "word": "read",
+          "start": 1.818,
+          "end": 2.042
+        },
+        {
+          "word": "you.",
+          "start": 2.042,
+          "end": 2.307
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 1,
+      "text": "A. The first-aid kit. You plan for damage before it happens.",
+      "start": 2.657,
+      "end": 6.529,
+      "emphasis": [
+        "A.",
+        "damage"
+      ],
+      "words": [
+        {
+          "word": "A.",
+          "start": 2.657,
+          "end": 2.944
+        },
+        {
+          "word": "The",
+          "start": 2.944,
+          "end": 3.186
+        },
+        {
+          "word": "first-aid",
+          "start": 3.186,
+          "end": 3.607
+        },
+        {
+          "word": "kit.",
+          "start": 3.607,
+          "end": 3.894
+        },
+        {
+          "word": "You",
+          "start": 3.894,
+          "end": 4.136
+        },
+        {
+          "word": "plan",
+          "start": 4.136,
+          "end": 4.378
+        },
+        {
+          "word": "for",
+          "start": 4.378,
+          "end": 4.62
+        },
+        {
+          "word": "damage",
+          "start": 4.62,
+          "end": 5.22
+        },
+        {
+          "word": "before",
+          "start": 5.22,
+          "end": 5.821
+        },
+        {
+          "word": "it",
+          "start": 5.821,
+          "end": 6.063
+        },
+        {
+          "word": "happens.",
+          "start": 6.063,
+          "end": 6.529
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 2,
+      "text": "Under stress, you go protector mode. Fix it first. Feel it later.",
+      "start": 6.729,
+      "end": 11.28,
+      "emphasis": [
+        "protector",
+        "later."
+      ],
+      "words": [
+        {
+          "word": "Under",
+          "start": 6.729,
+          "end": 7.211
+        },
+        {
+          "word": "stress,",
+          "start": 7.211,
+          "end": 7.539
+        },
+        {
+          "word": "you",
+          "start": 7.539,
+          "end": 7.815
+        },
+        {
+          "word": "go",
+          "start": 7.815,
+          "end": 8.092
+        },
+        {
+          "word": "protector",
+          "start": 8.092,
+          "end": 8.779
+        },
+        {
+          "word": "mode.",
+          "start": 8.779,
+          "end": 9.312
+        },
+        {
+          "word": "Fix",
+          "start": 9.312,
+          "end": 9.588
+        },
+        {
+          "word": "it",
+          "start": 9.588,
+          "end": 9.865
+        },
+        {
+          "word": "first.",
+          "start": 9.865,
+          "end": 10.193
+        },
+        {
+          "word": "Feel",
+          "start": 10.193,
+          "end": 10.47
+        },
+        {
+          "word": "it",
+          "start": 10.47,
+          "end": 10.747
+        },
+        {
+          "word": "later.",
+          "start": 10.747,
+          "end": 11.28
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 3,
+      "text": "B. Food and water. Pure problem-solver. Your brain turns fear into a checklist.",
+      "start": 11.63,
+      "end": 16.908,
+      "emphasis": [
+        "B.",
+        "checklist."
+      ],
+      "words": [
+        {
+          "word": "B.",
+          "start": 11.63,
+          "end": 11.96
+        },
+        {
+          "word": "Food",
+          "start": 11.96,
+          "end": 12.239
+        },
+        {
+          "word": "and",
+          "start": 12.239,
+          "end": 12.518
+        },
+        {
+          "word": "water.",
+          "start": 12.518,
+          "end": 13.055
+        },
+        {
+          "word": "Pure",
+          "start": 13.055,
+          "end": 13.54
+        },
+        {
+          "word": "problem-solver.",
+          "start": 13.54,
+          "end": 14.491
+        },
+        {
+          "word": "Your",
+          "start": 14.491,
+          "end": 14.77
+        },
+        {
+          "word": "brain",
+          "start": 14.77,
+          "end": 15.049
+        },
+        {
+          "word": "turns",
+          "start": 15.049,
+          "end": 15.327
+        },
+        {
+          "word": "fear",
+          "start": 15.327,
+          "end": 15.606
+        },
+        {
+          "word": "into",
+          "start": 15.606,
+          "end": 16.092
+        },
+        {
+          "word": "a",
+          "start": 16.092,
+          "end": 16.371
+        },
+        {
+          "word": "checklist.",
+          "start": 16.371,
+          "end": 16.908
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 4,
+      "text": "C. The radio. You don't survive alone. When you're scared, you reach for people.",
+      "start": 17.258,
+      "end": 22.007,
+      "emphasis": [
+        "C.",
+        "people."
+      ],
+      "words": [
+        {
+          "word": "C.",
+          "start": 17.258,
+          "end": 17.528
+        },
+        {
+          "word": "The",
+          "start": 17.528,
+          "end": 17.755
+        },
+        {
+          "word": "radio.",
+          "start": 17.755,
+          "end": 18.194
+        },
+        {
+          "word": "You",
+          "start": 18.194,
+          "end": 18.422
+        },
+        {
+          "word": "don't",
+          "start": 18.422,
+          "end": 18.65
+        },
+        {
+          "word": "survive",
+          "start": 18.65,
+          "end": 19.215
+        },
+        {
+          "word": "alone.",
+          "start": 19.215,
+          "end": 19.822
+        },
+        {
+          "word": "When",
+          "start": 19.822,
+          "end": 20.05
+        },
+        {
+          "word": "you're",
+          "start": 20.05,
+          "end": 20.446
+        },
+        {
+          "word": "scared,",
+          "start": 20.446,
+          "end": 20.885
+        },
+        {
+          "word": "you",
+          "start": 20.885,
+          "end": 21.113
+        },
+        {
+          "word": "reach",
+          "start": 21.113,
+          "end": 21.341
+        },
+        {
+          "word": "for",
+          "start": 21.341,
+          "end": 21.568
+        },
+        {
+          "word": "people.",
+          "start": 21.568,
+          "end": 22.007
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 5,
+      "text": "Psychologists call it tend and befriend. Under stress, many of us look for connection, not escape.",
+      "start": 22.257,
+      "end": 27.978,
+      "emphasis": [
+        "befriend.",
+        "connection,"
+      ],
+      "words": [
+        {
+          "word": "Psychologists",
+          "start": 22.257,
+          "end": 23.02
+        },
+        {
+          "word": "call",
+          "start": 23.02,
+          "end": 23.257
+        },
+        {
+          "word": "it",
+          "start": 23.257,
+          "end": 23.494
+        },
+        {
+          "word": "tend",
+          "start": 23.494,
+          "end": 23.731
+        },
+        {
+          "word": "and",
+          "start": 23.731,
+          "end": 23.968
+        },
+        {
+          "word": "befriend.",
+          "start": 23.968,
+          "end": 24.424
+        },
+        {
+          "word": "Under",
+          "start": 24.424,
+          "end": 24.837
+        },
+        {
+          "word": "stress,",
+          "start": 24.837,
+          "end": 25.118
+        },
+        {
+          "word": "many",
+          "start": 25.118,
+          "end": 25.53
+        },
+        {
+          "word": "of",
+          "start": 25.53,
+          "end": 25.767
+        },
+        {
+          "word": "us",
+          "start": 25.767,
+          "end": 26.004
+        },
+        {
+          "word": "look",
+          "start": 26.004,
+          "end": 26.241
+        },
+        {
+          "word": "for",
+          "start": 26.241,
+          "end": 26.478
+        },
+        {
+          "word": "connection,",
+          "start": 26.478,
+          "end": 27.11
+        },
+        {
+          "word": "not",
+          "start": 27.11,
+          "end": 27.347
+        },
+        {
+          "word": "escape.",
+          "start": 27.347,
+          "end": 27.978
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 6,
+      "text": "D. The photo. You protect meaning. You'd rather lose comfort than lose the reason.",
+      "start": 28.328,
+      "end": 33.446,
+      "emphasis": [
+        "D.",
+        "meaning.",
+        "reason."
+      ],
+      "words": [
+        {
+          "word": "D.",
+          "start": 28.328,
+          "end": 28.622
+        },
+        {
+          "word": "The",
+          "start": 28.622,
+          "end": 28.87
+        },
+        {
+          "word": "photo.",
+          "start": 28.87,
+          "end": 29.347
+        },
+        {
+          "word": "You",
+          "start": 29.347,
+          "end": 29.594
+        },
+        {
+          "word": "protect",
+          "start": 29.594,
+          "end": 30.025
+        },
+        {
+          "word": "meaning.",
+          "start": 30.025,
+          "end": 30.502
+        },
+        {
+          "word": "You'd",
+          "start": 30.502,
+          "end": 30.75
+        },
+        {
+          "word": "rather",
+          "start": 30.75,
+          "end": 31.181
+        },
+        {
+          "word": "lose",
+          "start": 31.181,
+          "end": 31.612
+        },
+        {
+          "word": "comfort",
+          "start": 31.612,
+          "end": 32.043
+        },
+        {
+          "word": "than",
+          "start": 32.043,
+          "end": 32.291
+        },
+        {
+          "word": "lose",
+          "start": 32.291,
+          "end": 32.722
+        },
+        {
+          "word": "the",
+          "start": 32.722,
+          "end": 32.969
+        },
+        {
+          "word": "reason.",
+          "start": 32.969,
+          "end": 33.446
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 7,
+      "text": "These are coping styles. Fix the problem, or protect the feeling. Both keep people going.",
+      "start": 33.796,
+      "end": 38.827,
+      "emphasis": [
+        "problem,",
+        "feeling."
+      ],
+      "words": [
+        {
+          "word": "These",
+          "start": 33.796,
+          "end": 34.201
+        },
+        {
+          "word": "are",
+          "start": 34.201,
+          "end": 34.605
+        },
+        {
+          "word": "coping",
+          "start": 34.605,
+          "end": 35.009
+        },
+        {
+          "word": "styles.",
+          "start": 35.009,
+          "end": 35.456
+        },
+        {
+          "word": "Fix",
+          "start": 35.456,
+          "end": 35.688
+        },
+        {
+          "word": "the",
+          "start": 35.688,
+          "end": 35.92
+        },
+        {
+          "word": "problem,",
+          "start": 35.92,
+          "end": 36.367
+        },
+        {
+          "word": "or",
+          "start": 36.367,
+          "end": 36.6
+        },
+        {
+          "word": "protect",
+          "start": 36.6,
+          "end": 37.004
+        },
+        {
+          "word": "the",
+          "start": 37.004,
+          "end": 37.236
+        },
+        {
+          "word": "feeling.",
+          "start": 37.236,
+          "end": 37.683
+        },
+        {
+          "word": "Both",
+          "start": 37.683,
+          "end": 37.915
+        },
+        {
+          "word": "keep",
+          "start": 37.915,
+          "end": 38.147
+        },
+        {
+          "word": "people",
+          "start": 38.147,
+          "end": 38.552
+        },
+        {
+          "word": "going.",
+          "start": 38.552,
+          "end": 38.827
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "None of them is wrong. It's just your first instinct.",
+      "start": 39.127,
+      "end": 42.316,
+      "emphasis": [
+        "wrong."
+      ],
+      "words": [
+        {
+          "word": "None",
+          "start": 39.127,
+          "end": 39.595
+        },
+        {
+          "word": "of",
+          "start": 39.595,
+          "end": 39.864
+        },
+        {
+          "word": "them",
+          "start": 39.864,
+          "end": 40.133
+        },
+        {
+          "word": "is",
+          "start": 40.133,
+          "end": 40.403
+        },
+        {
+          "word": "wrong.",
+          "start": 40.403,
+          "end": 40.722
+        },
+        {
+          "word": "It's",
+          "start": 40.722,
+          "end": 40.991
+        },
+        {
+          "word": "just",
+          "start": 40.991,
+          "end": 41.26
+        },
+        {
+          "word": "your",
+          "start": 41.26,
+          "end": 41.529
+        },
+        {
+          "word": "first",
+          "start": 41.529,
+          "end": 41.798
+        },
+        {
+          "word": "instinct.",
+          "start": 41.798,
+          "end": 42.316
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 9,
+      "text": "But some of you didn't pick at all. You froze.",
+      "start": 42.666,
+      "end": 45.301,
+      "emphasis": [
+        "froze."
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 42.666,
+          "end": 42.889
+        },
+        {
+          "word": "some",
+          "start": 42.889,
+          "end": 43.276
+        },
+        {
+          "word": "of",
+          "start": 43.276,
+          "end": 43.498
+        },
+        {
+          "word": "you",
+          "start": 43.498,
+          "end": 43.72
+        },
+        {
+          "word": "didn't",
+          "start": 43.72,
+          "end": 43.943
+        },
+        {
+          "word": "pick",
+          "start": 43.943,
+          "end": 44.165
+        },
+        {
+          "word": "at",
+          "start": 44.165,
+          "end": 44.387
+        },
+        {
+          "word": "all.",
+          "start": 44.387,
+          "end": 44.651
+        },
+        {
+          "word": "You",
+          "start": 44.651,
+          "end": 44.873
+        },
+        {
+          "word": "froze.",
+          "start": 44.873,
+          "end": 45.301
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 10,
+      "text": "That's part three.",
+      "start": 45.901,
+      "end": 47.089,
+      "emphasis": [
+        "three."
+      ],
+      "words": [
+        {
+          "word": "That's",
+          "start": 45.901,
+          "end": 46.274
+        },
+        {
+          "word": "part",
+          "start": 46.274,
+          "end": 46.647
+        },
+        {
+          "word": "three.",
+          "start": 46.647,
+          "end": 47.089
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

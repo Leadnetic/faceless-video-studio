@@ -1,0 +1,127 @@
+{
+  "id": "psychology-video-006",
+  "title": "Why you check your phone for no reason",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.08,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "lines": [
+    {
+      "text": "You pick up your phone. Check it. Put it down.",
+      "pause": 0.3,
+      "emphasis": [
+        "Check"
+      ]
+    },
+    {
+      "text": "Ten seconds later, you pick it up again.",
+      "pause": 0.25,
+      "emphasis": [
+        "again."
+      ]
+    },
+    {
+      "text": "Nothing changed. So why do you keep doing it?",
+      "pause": 0.4,
+      "emphasis": [
+        "why"
+      ]
+    },
+    {
+      "text": "Blame a pigeon.",
+      "pause": 0.35,
+      "emphasis": [
+        "pigeon."
+      ]
+    },
+    {
+      "text": "In the 1950s, psychologist B. F. Skinner trained pigeons to peck a button for food.",
+      "pause": 0.2,
+      "emphasis": [
+        "pigeons"
+      ]
+    },
+    {
+      "text": "Pigeons that got food every single time pecked calmly.",
+      "pause": 0.2,
+      "emphasis": [
+        "calmly."
+      ]
+    },
+    {
+      "text": "But pigeons that got food at random, only sometimes, pecked like crazy, and kept going long after the food stopped.",
+      "pause": 0.35,
+      "emphasis": [
+        "crazy,"
+      ]
+    },
+    {
+      "text": "Unpredictable rewards are the hardest to quit.",
+      "pause": 0.3,
+      "emphasis": [
+        "hardest"
+      ]
+    },
+    {
+      "text": "Now look at your phone.",
+      "pause": 0.2,
+      "emphasis": [
+        "phone."
+      ]
+    },
+    {
+      "text": "Sometimes there's a message. Sometimes a like. Most of the time, nothing.",
+      "pause": 0.2,
+      "emphasis": [
+        "nothing."
+      ]
+    },
+    {
+      "text": "Your brain can't predict which one you'll get, so it keeps pulling the lever.",
+      "pause": 0.25,
+      "emphasis": [
+        "lever."
+      ]
+    },
+    {
+      "text": "Your phone is a slot machine in your pocket.",
+      "pause": 0.35,
+      "emphasis": [
+        "slot"
+      ]
+    },
+    {
+      "text": "Want to break the loop? Make the lever harder to pull.",
+      "pause": 0.2,
+      "emphasis": [
+        "harder"
+      ]
+    },
+    {
+      "text": "Turn off notifications you don't need. Charge your phone in another room. Try grayscale mode, so the screen looks boring.",
+      "pause": 0.3,
+      "emphasis": [
+        "boring."
+      ]
+    },
+    {
+      "text": "Boring slot machines lose.",
+      "pause": 0.4,
+      "emphasis": [
+        "lose."
+      ]
+    },
+    {
+      "text": "Be honest. Did you check your phone while watching this?",
+      "pause": 0,
+      "emphasis": [
+        "honest."
+      ]
+    }
+  ]
+}

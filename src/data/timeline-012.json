@@ -1,0 +1,623 @@
+{
+  "id": "psychology-video-012",
+  "title": "I read your pen",
+  "duration": 35.41,
+  "lines": [
+    {
+      "index": 0,
+      "text": "Write a name. Any name. I won't look at the paper.",
+      "start": 0.1,
+      "end": 3.152,
+      "emphasis": [
+        "name."
+      ],
+      "words": [
+        {
+          "word": "Write",
+          "start": 0.1,
+          "end": 0.448
+        },
+        {
+          "word": "a",
+          "start": 0.448,
+          "end": 0.648
+        },
+        {
+          "word": "name.",
+          "start": 0.648,
+          "end": 1.033
+        },
+        {
+          "word": "Any",
+          "start": 1.033,
+          "end": 1.382
+        },
+        {
+          "word": "name.",
+          "start": 1.382,
+          "end": 1.767
+        },
+        {
+          "word": "I",
+          "start": 1.767,
+          "end": 1.967
+        },
+        {
+          "word": "won't",
+          "start": 1.967,
+          "end": 2.167
+        },
+        {
+          "word": "look",
+          "start": 2.167,
+          "end": 2.367
+        },
+        {
+          "word": "at",
+          "start": 2.367,
+          "end": 2.567
+        },
+        {
+          "word": "the",
+          "start": 2.567,
+          "end": 2.767
+        },
+        {
+          "word": "paper.",
+          "start": 2.767,
+          "end": 3.152
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 1,
+      "text": "Fine. Done.",
+      "start": 3.452,
+      "end": 4.425,
+      "emphasis": [
+        "Done."
+      ],
+      "words": [
+        {
+          "word": "Fine.",
+          "start": 3.452,
+          "end": 3.939
+        },
+        {
+          "word": "Done.",
+          "start": 3.939,
+          "end": 4.425
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 2,
+      "text": "Short name. Three letters.",
+      "start": 4.825,
+      "end": 6.569,
+      "emphasis": [
+        "Three"
+      ],
+      "words": [
+        {
+          "word": "Short",
+          "start": 4.825,
+          "end": 5.123
+        },
+        {
+          "word": "name.",
+          "start": 5.123,
+          "end": 5.697
+        },
+        {
+          "word": "Three",
+          "start": 5.697,
+          "end": 5.995
+        },
+        {
+          "word": "letters.",
+          "start": 5.995,
+          "end": 6.569
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 3,
+      "text": "Starts with two mountains. Then a peak. Then a cross.",
+      "start": 6.869,
+      "end": 10.239,
+      "emphasis": [
+        "mountains.",
+        "peak.",
+        "cross."
+      ],
+      "words": [
+        {
+          "word": "Starts",
+          "start": 6.869,
+          "end": 7.167
+        },
+        {
+          "word": "with",
+          "start": 7.167,
+          "end": 7.466
+        },
+        {
+          "word": "two",
+          "start": 7.466,
+          "end": 7.764
+        },
+        {
+          "word": "mountains.",
+          "start": 7.764,
+          "end": 8.339
+        },
+        {
+          "word": "Then",
+          "start": 8.339,
+          "end": 8.637
+        },
+        {
+          "word": "a",
+          "start": 8.637,
+          "end": 8.935
+        },
+        {
+          "word": "peak.",
+          "start": 8.935,
+          "end": 9.289
+        },
+        {
+          "word": "Then",
+          "start": 9.289,
+          "end": 9.587
+        },
+        {
+          "word": "a",
+          "start": 9.587,
+          "end": 9.886
+        },
+        {
+          "word": "cross.",
+          "start": 9.886,
+          "end": 10.239
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 4,
+      "text": "Max.",
+      "start": 10.739,
+      "end": 11.425,
+      "emphasis": [
+        "Max."
+      ],
+      "words": [
+        {
+          "word": "Max.",
+          "start": 10.739,
+          "end": 11.425
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 5,
+      "text": "You looked!",
+      "start": 12.125,
+      "end": 12.688,
+      "emphasis": [
+        "looked!"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 12.125,
+          "end": 12.318
+        },
+        {
+          "word": "looked!",
+          "start": 12.318,
+          "end": 12.688
+        }
+      ],
+      "speaker": "detective"
+    },
+    {
+      "index": 6,
+      "text": "I watched the pen. Not the paper.",
+      "start": 12.988,
+      "end": 15.097,
+      "emphasis": [
+        "pen."
+      ],
+      "words": [
+        {
+          "word": "I",
+          "start": 12.988,
+          "end": 13.227
+        },
+        {
+          "word": "watched",
+          "start": 13.227,
+          "end": 13.641
+        },
+        {
+          "word": "the",
+          "start": 13.641,
+          "end": 13.88
+        },
+        {
+          "word": "pen.",
+          "start": 13.88,
+          "end": 14.162
+        },
+        {
+          "word": "Not",
+          "start": 14.162,
+          "end": 14.4
+        },
+        {
+          "word": "the",
+          "start": 14.4,
+          "end": 14.639
+        },
+        {
+          "word": "paper.",
+          "start": 14.639,
+          "end": 15.097
+        }
+      ],
+      "speaker": "reader"
+    },
+    {
+      "index": 7,
+      "text": "The top of a pen moves more than the tip. Every capital letter has its own shape in the air.",
+      "start": 15.497,
+      "end": 20.521,
+      "emphasis": [
+        "shape"
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 15.497,
+          "end": 15.688
+        },
+        {
+          "word": "top",
+          "start": 15.688,
+          "end": 15.879
+        },
+        {
+          "word": "of",
+          "start": 15.879,
+          "end": 16.07
+        },
+        {
+          "word": "a",
+          "start": 16.07,
+          "end": 16.262
+        },
+        {
+          "word": "pen",
+          "start": 16.262,
+          "end": 16.453
+        },
+        {
+          "word": "moves",
+          "start": 16.453,
+          "end": 16.785
+        },
+        {
+          "word": "more",
+          "start": 16.785,
+          "end": 17.118
+        },
+        {
+          "word": "than",
+          "start": 17.118,
+          "end": 17.309
+        },
+        {
+          "word": "the",
+          "start": 17.309,
+          "end": 17.5
+        },
+        {
+          "word": "tip.",
+          "start": 17.5,
+          "end": 17.726
+        },
+        {
+          "word": "Every",
+          "start": 17.726,
+          "end": 18.2
+        },
+        {
+          "word": "capital",
+          "start": 18.2,
+          "end": 18.674
+        },
+        {
+          "word": "letter",
+          "start": 18.674,
+          "end": 19.007
+        },
+        {
+          "word": "has",
+          "start": 19.007,
+          "end": 19.198
+        },
+        {
+          "word": "its",
+          "start": 19.198,
+          "end": 19.389
+        },
+        {
+          "word": "own",
+          "start": 19.389,
+          "end": 19.58
+        },
+        {
+          "word": "shape",
+          "start": 19.58,
+          "end": 19.912
+        },
+        {
+          "word": "in",
+          "start": 19.912,
+          "end": 20.103
+        },
+        {
+          "word": "the",
+          "start": 20.103,
+          "end": 20.294
+        },
+        {
+          "word": "air.",
+          "start": 20.294,
+          "end": 20.521
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 8,
+      "text": "An M goes up, down, up, down. An A is one sharp peak. An X is two slashes that cross.",
+      "start": 20.771,
+      "end": 26.321,
+      "emphasis": [
+        "M",
+        "A",
+        "X"
+      ],
+      "words": [
+        {
+          "word": "An",
+          "start": 20.771,
+          "end": 21.017
+        },
+        {
+          "word": "M",
+          "start": 21.017,
+          "end": 21.262
+        },
+        {
+          "word": "goes",
+          "start": 21.262,
+          "end": 21.508
+        },
+        {
+          "word": "up,",
+          "start": 21.508,
+          "end": 21.799
+        },
+        {
+          "word": "down,",
+          "start": 21.799,
+          "end": 22.09
+        },
+        {
+          "word": "up,",
+          "start": 22.09,
+          "end": 22.381
+        },
+        {
+          "word": "down.",
+          "start": 22.381,
+          "end": 22.672
+        },
+        {
+          "word": "An",
+          "start": 22.672,
+          "end": 22.918
+        },
+        {
+          "word": "A",
+          "start": 22.918,
+          "end": 23.164
+        },
+        {
+          "word": "is",
+          "start": 23.164,
+          "end": 23.409
+        },
+        {
+          "word": "one",
+          "start": 23.409,
+          "end": 23.837
+        },
+        {
+          "word": "sharp",
+          "start": 23.837,
+          "end": 24.083
+        },
+        {
+          "word": "peak.",
+          "start": 24.083,
+          "end": 24.374
+        },
+        {
+          "word": "An",
+          "start": 24.374,
+          "end": 24.619
+        },
+        {
+          "word": "X",
+          "start": 24.619,
+          "end": 24.865
+        },
+        {
+          "word": "is",
+          "start": 24.865,
+          "end": 25.111
+        },
+        {
+          "word": "two",
+          "start": 25.111,
+          "end": 25.356
+        },
+        {
+          "word": "slashes",
+          "start": 25.356,
+          "end": 25.784
+        },
+        {
+          "word": "that",
+          "start": 25.784,
+          "end": 26.03
+        },
+        {
+          "word": "cross.",
+          "start": 26.03,
+          "end": 26.321
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 9,
+      "text": "Mentalists call it pencil reading. It's practice, not magic.",
+      "start": 26.621,
+      "end": 30.216,
+      "emphasis": [
+        "practice,"
+      ],
+      "words": [
+        {
+          "word": "Mentalists",
+          "start": 26.621,
+          "end": 27.226
+        },
+        {
+          "word": "call",
+          "start": 27.226,
+          "end": 27.47
+        },
+        {
+          "word": "it",
+          "start": 27.47,
+          "end": 27.714
+        },
+        {
+          "word": "pencil",
+          "start": 27.714,
+          "end": 28.138
+        },
+        {
+          "word": "reading.",
+          "start": 28.138,
+          "end": 28.608
+        },
+        {
+          "word": "It's",
+          "start": 28.608,
+          "end": 28.852
+        },
+        {
+          "word": "practice,",
+          "start": 28.852,
+          "end": 29.503
+        },
+        {
+          "word": "not",
+          "start": 29.503,
+          "end": 29.746
+        },
+        {
+          "word": "magic.",
+          "start": 29.746,
+          "end": 30.216
+        }
+      ],
+      "speaker": "narrator"
+    },
+    {
+      "index": 10,
+      "text": "Try it on a friend. Make them write in capitals.",
+      "start": 30.566,
+      "end": 33.61,
+      "emphasis": [
+        "capitals."
+      ],
+      "words": [
+        {
+          "word": "Try",
+          "start": 30.566,
+          "end": 30.794
+        },
+        {
+          "word": "it",
+          "start": 30.794,
+          "end": 31.023
+        },
+        {
+          "word": "on",
+          "start": 31.023,
+          "end": 31.251
+        },
+        {
+          "word": "a",
+          "start": 31.251,
+          "end": 31.479
+        },
+        {
+          "word": "friend.",
+          "start": 31.479,
+          "end": 31.75
+        },
+        {
+          "word": "Make",
+          "start": 31.75,
+          "end": 32.147
+        },
+        {
+          "word": "them",
+          "start": 32.147,
+          "end": 32.375
+        },
+        {
+          "word": "write",
+          "start": 32.375,
+          "end": 32.773
+        },
+        {
+          "word": "in",
+          "start": 32.773,
+          "end": 33.001
+        },
+        {
+          "word": "capitals.",
+          "start": 33.001,
+          "end": 33.61
+        }
+      ],
+      "speaker": "reader"
+    }
+  ]
+}

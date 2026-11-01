@@ -1,0 +1,475 @@
+{
+  "id": "psychology-video-003",
+  "title": "Narcissism doesn't always look confident.",
+  "duration": 31.885,
+  "lines": [
+    {
+      "index": 0,
+      "text": "Narcissism doesn't always look like confidence.",
+      "start": 0.1,
+      "end": 2.843,
+      "emphasis": [
+        "confidence."
+      ],
+      "words": [
+        {
+          "word": "Narcissism",
+          "start": 0.1,
+          "end": 0.699
+        },
+        {
+          "word": "doesn't",
+          "start": 0.699,
+          "end": 0.94
+        },
+        {
+          "word": "always",
+          "start": 0.94,
+          "end": 1.36
+        },
+        {
+          "word": "look",
+          "start": 1.36,
+          "end": 1.601
+        },
+        {
+          "word": "like",
+          "start": 1.601,
+          "end": 2.021
+        },
+        {
+          "word": "confidence.",
+          "start": 2.021,
+          "end": 2.843
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "Sometimes it looks charming, calm\u2026 even insecure.",
+      "start": 3.043,
+      "end": 5.655,
+      "emphasis": [
+        "insecure."
+      ],
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 3.043,
+          "end": 3.676
+        },
+        {
+          "word": "it",
+          "start": 3.676,
+          "end": 3.872
+        },
+        {
+          "word": "looks",
+          "start": 3.872,
+          "end": 4.069
+        },
+        {
+          "word": "charming,",
+          "start": 4.069,
+          "end": 4.447
+        },
+        {
+          "word": "calm\u2026",
+          "start": 4.447,
+          "end": 4.643
+        },
+        {
+          "word": "even",
+          "start": 4.643,
+          "end": 4.985
+        },
+        {
+          "word": "insecure.",
+          "start": 4.985,
+          "end": 5.655
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "The clue is what happens when their self-image gets threatened.",
+      "start": 5.905,
+      "end": 8.967,
+      "emphasis": [
+        "threatened."
+      ],
+      "words": [
+        {
+          "word": "The",
+          "start": 5.905,
+          "end": 6.114
+        },
+        {
+          "word": "clue",
+          "start": 6.114,
+          "end": 6.323
+        },
+        {
+          "word": "is",
+          "start": 6.323,
+          "end": 6.533
+        },
+        {
+          "word": "what",
+          "start": 6.533,
+          "end": 6.742
+        },
+        {
+          "word": "happens",
+          "start": 6.742,
+          "end": 7.106
+        },
+        {
+          "word": "when",
+          "start": 7.106,
+          "end": 7.316
+        },
+        {
+          "word": "their",
+          "start": 7.316,
+          "end": 7.525
+        },
+        {
+          "word": "self-image",
+          "start": 7.525,
+          "end": 8.2
+        },
+        {
+          "word": "gets",
+          "start": 8.2,
+          "end": 8.409
+        },
+        {
+          "word": "threatened.",
+          "start": 8.409,
+          "end": 8.967
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Criticism, rejection, or someone else getting attention can suddenly feel much bigger than the situation itself.",
+      "start": 9.167,
+      "end": 15.671,
+      "emphasis": [
+        "bigger"
+      ],
+      "words": [
+        {
+          "word": "Criticism,",
+          "start": 9.167,
+          "end": 9.778
+        },
+        {
+          "word": "rejection,",
+          "start": 9.778,
+          "end": 10.388
+        },
+        {
+          "word": "or",
+          "start": 10.388,
+          "end": 10.617
+        },
+        {
+          "word": "someone",
+          "start": 10.617,
+          "end": 11.185
+        },
+        {
+          "word": "else",
+          "start": 11.185,
+          "end": 11.584
+        },
+        {
+          "word": "getting",
+          "start": 11.584,
+          "end": 11.982
+        },
+        {
+          "word": "attention",
+          "start": 11.982,
+          "end": 12.55
+        },
+        {
+          "word": "can",
+          "start": 12.55,
+          "end": 12.779
+        },
+        {
+          "word": "suddenly",
+          "start": 12.779,
+          "end": 13.347
+        },
+        {
+          "word": "feel",
+          "start": 13.347,
+          "end": 13.576
+        },
+        {
+          "word": "much",
+          "start": 13.576,
+          "end": 13.805
+        },
+        {
+          "word": "bigger",
+          "start": 13.805,
+          "end": 14.204
+        },
+        {
+          "word": "than",
+          "start": 14.204,
+          "end": 14.433
+        },
+        {
+          "word": "the",
+          "start": 14.433,
+          "end": 14.662
+        },
+        {
+          "word": "situation",
+          "start": 14.662,
+          "end": 15.23
+        },
+        {
+          "word": "itself.",
+          "start": 15.23,
+          "end": 15.671
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Because narcissism can be less about having a huge ego\u2026",
+      "start": 15.921,
+      "end": 19.251,
+      "emphasis": [
+        "huge"
+      ],
+      "words": [
+        {
+          "word": "Because",
+          "start": 15.921,
+          "end": 16.439
+        },
+        {
+          "word": "narcissism",
+          "start": 16.439,
+          "end": 16.958
+        },
+        {
+          "word": "can",
+          "start": 16.958,
+          "end": 17.167
+        },
+        {
+          "word": "be",
+          "start": 17.167,
+          "end": 17.376
+        },
+        {
+          "word": "less",
+          "start": 17.376,
+          "end": 17.586
+        },
+        {
+          "word": "about",
+          "start": 17.586,
+          "end": 17.95
+        },
+        {
+          "word": "having",
+          "start": 17.95,
+          "end": 18.313
+        },
+        {
+          "word": "a",
+          "start": 18.313,
+          "end": 18.523
+        },
+        {
+          "word": "huge",
+          "start": 18.523,
+          "end": 18.887
+        },
+        {
+          "word": "ego\u2026",
+          "start": 18.887,
+          "end": 19.251
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "and more about constantly protecting a fragile one.",
+      "start": 19.401,
+      "end": 21.844,
+      "emphasis": [
+        "fragile"
+      ],
+      "words": [
+        {
+          "word": "and",
+          "start": 19.401,
+          "end": 19.565
+        },
+        {
+          "word": "more",
+          "start": 19.565,
+          "end": 19.851
+        },
+        {
+          "word": "about",
+          "start": 19.851,
+          "end": 20.138
+        },
+        {
+          "word": "constantly",
+          "start": 20.138,
+          "end": 20.546
+        },
+        {
+          "word": "protecting",
+          "start": 20.546,
+          "end": 20.954
+        },
+        {
+          "word": "a",
+          "start": 20.954,
+          "end": 21.119
+        },
+        {
+          "word": "fragile",
+          "start": 21.119,
+          "end": 21.527
+        },
+        {
+          "word": "one.",
+          "start": 21.527,
+          "end": 21.844
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "And that's why you can't diagnose narcissism from confidence, insecurity, or one bad reaction.",
+      "start": 22.244,
+      "end": 28.082,
+      "emphasis": [
+        "diagnose"
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 22.244,
+          "end": 22.485
+        },
+        {
+          "word": "that's",
+          "start": 22.485,
+          "end": 22.726
+        },
+        {
+          "word": "why",
+          "start": 22.726,
+          "end": 22.968
+        },
+        {
+          "word": "you",
+          "start": 22.968,
+          "end": 23.209
+        },
+        {
+          "word": "can't",
+          "start": 23.209,
+          "end": 23.451
+        },
+        {
+          "word": "diagnose",
+          "start": 23.451,
+          "end": 24.05
+        },
+        {
+          "word": "narcissism",
+          "start": 24.05,
+          "end": 24.649
+        },
+        {
+          "word": "from",
+          "start": 24.649,
+          "end": 24.89
+        },
+        {
+          "word": "confidence,",
+          "start": 24.89,
+          "end": 25.713
+        },
+        {
+          "word": "insecurity,",
+          "start": 25.713,
+          "end": 26.714
+        },
+        {
+          "word": "or",
+          "start": 26.714,
+          "end": 26.955
+        },
+        {
+          "word": "one",
+          "start": 26.955,
+          "end": 27.376
+        },
+        {
+          "word": "bad",
+          "start": 27.376,
+          "end": 27.617
+        },
+        {
+          "word": "reaction.",
+          "start": 27.617,
+          "end": 28.082
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Look for patterns, not labels.",
+      "start": 28.332,
+      "end": 29.885,
+      "emphasis": [
+        "patterns,"
+      ],
+      "words": [
+        {
+          "word": "Look",
+          "start": 28.332,
+          "end": 28.559
+        },
+        {
+          "word": "for",
+          "start": 28.559,
+          "end": 28.785
+        },
+        {
+          "word": "patterns,",
+          "start": 28.785,
+          "end": 29.222
+        },
+        {
+          "word": "not",
+          "start": 29.222,
+          "end": 29.448
+        },
+        {
+          "word": "labels.",
+          "start": 29.448,
+          "end": 29.885
+        }
+      ]
+    }
+  ]
+}

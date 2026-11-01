@@ -1,0 +1,20 @@
+{
+  "id": "psychology-video-004",
+  "title": "Why your brain replays that embarrassing moment at 3AM",
+  "voice": { "engine": "kokoro-onnx v1.0 (local)", "voice": "af_heart", "speed": 1.1, "pitchShift": 1.0, "dry": true },
+  "leadIn": 0.1,
+  "tail": 1.2,
+  "lines": [
+    { "text": "You're just about to fall asleep…", "pause": 0.15, "emphasis": ["asleep…"] },
+    { "text": "and your brain goes: hey, remember when the waiter said enjoy your meal…", "pause": 0.2, "emphasis": ["waiter"] },
+    { "text": "and you said: you too?", "pause": 0.55, "emphasis": ["too?"] },
+    { "text": "That's not random.", "pause": 0.12, "emphasis": ["random."] },
+    { "text": "Your brain files embarrassing moments as social danger.", "pause": 0.2, "emphasis": ["danger."] },
+    { "text": "For our ancestors, getting kicked out of the group was a real threat.", "pause": 0.2, "emphasis": ["threat."] },
+    { "text": "So your brain hits replay, to make sure you never do it again.", "pause": 0.35, "emphasis": ["replay,"] },
+    { "text": "But here's the twist.", "pause": 0.15, "emphasis": ["twist."] },
+    { "text": "The waiter forgot about it the same day.", "pause": 0.25, "emphasis": ["forgot"] },
+    { "text": "It's called the spotlight effect: people notice your mistakes way less than you think,", "pause": 0.1, "emphasis": ["spotlight"] },
+    { "text": "because they're too busy replaying their own.", "pause": 0, "emphasis": ["own."] }
+  ]
+}

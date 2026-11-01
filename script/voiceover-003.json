@@ -1,0 +1,70 @@
+{
+  "id": "psychology-video-003",
+  "title": "Narcissism doesn't always look confident.",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "am_michael",
+    "speed": 1.18,
+    "pitchShift": 0.96
+  },
+  "leadIn": 0.1,
+  "tail": 2.0,
+  "lines": [
+    {
+      "text": "Narcissism doesn't always look like confidence.",
+      "pause": 0.2,
+      "emphasis": [
+        "confidence."
+      ]
+    },
+    {
+      "text": "Sometimes it looks charming, calm\u2026 even insecure.",
+      "pause": 0.25,
+      "emphasis": [
+        "insecure."
+      ]
+    },
+    {
+      "text": "The clue is what happens when their self-image gets threatened.",
+      "pause": 0.2,
+      "emphasis": [
+        "threatened."
+      ]
+    },
+    {
+      "text": "Criticism, rejection, or someone else getting attention can suddenly feel much bigger than the situation itself.",
+      "pause": 0.25,
+      "emphasis": [
+        "bigger"
+      ]
+    },
+    {
+      "text": "Because narcissism can be less about having a huge ego\u2026",
+      "pause": 0.15,
+      "emphasis": [
+        "huge"
+      ]
+    },
+    {
+      "text": "and more about constantly protecting a fragile one.",
+      "pause": 0.4,
+      "emphasis": [
+        "fragile"
+      ]
+    },
+    {
+      "text": "And that's why you can't diagnose narcissism from confidence, insecurity, or one bad reaction.",
+      "pause": 0.25,
+      "emphasis": [
+        "diagnose"
+      ]
+    },
+    {
+      "text": "Look for patterns, not labels.",
+      "pause": 0,
+      "emphasis": [
+        "patterns,"
+      ]
+    }
+  ]
+}

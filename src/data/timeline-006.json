@@ -1,0 +1,1013 @@
+{
+  "id": "psychology-video-006",
+  "title": "Why you check your phone for no reason",
+  "duration": 55.355,
+  "lines": [
+    {
+      "index": 0,
+      "text": "You pick up your phone. Check it. Put it down.",
+      "start": 0.1,
+      "end": 2.283,
+      "emphasis": [
+        "Check"
+      ],
+      "words": [
+        {
+          "word": "You",
+          "start": 0.1,
+          "end": 0.293
+        },
+        {
+          "word": "pick",
+          "start": 0.293,
+          "end": 0.486
+        },
+        {
+          "word": "up",
+          "start": 0.486,
+          "end": 0.68
+        },
+        {
+          "word": "your",
+          "start": 0.68,
+          "end": 0.873
+        },
+        {
+          "word": "phone.",
+          "start": 0.873,
+          "end": 1.245
+        },
+        {
+          "word": "Check",
+          "start": 1.245,
+          "end": 1.438
+        },
+        {
+          "word": "it.",
+          "start": 1.438,
+          "end": 1.667
+        },
+        {
+          "word": "Put",
+          "start": 1.667,
+          "end": 1.861
+        },
+        {
+          "word": "it",
+          "start": 1.861,
+          "end": 2.054
+        },
+        {
+          "word": "down.",
+          "start": 2.054,
+          "end": 2.283
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "Ten seconds later, you pick it up again.",
+      "start": 2.583,
+      "end": 4.521,
+      "emphasis": [
+        "again."
+      ],
+      "words": [
+        {
+          "word": "Ten",
+          "start": 2.583,
+          "end": 2.766
+        },
+        {
+          "word": "seconds",
+          "start": 2.766,
+          "end": 3.084
+        },
+        {
+          "word": "later,",
+          "start": 3.084,
+          "end": 3.437
+        },
+        {
+          "word": "you",
+          "start": 3.437,
+          "end": 3.62
+        },
+        {
+          "word": "pick",
+          "start": 3.62,
+          "end": 3.803
+        },
+        {
+          "word": "it",
+          "start": 3.803,
+          "end": 3.986
+        },
+        {
+          "word": "up",
+          "start": 3.986,
+          "end": 4.169
+        },
+        {
+          "word": "again.",
+          "start": 4.169,
+          "end": 4.521
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "Nothing changed. So why do you keep doing it?",
+      "start": 4.771,
+      "end": 7.088,
+      "emphasis": [
+        "why"
+      ],
+      "words": [
+        {
+          "word": "Nothing",
+          "start": 4.771,
+          "end": 5.143
+        },
+        {
+          "word": "changed.",
+          "start": 5.143,
+          "end": 5.554
+        },
+        {
+          "word": "So",
+          "start": 5.554,
+          "end": 5.768
+        },
+        {
+          "word": "why",
+          "start": 5.768,
+          "end": 5.981
+        },
+        {
+          "word": "do",
+          "start": 5.981,
+          "end": 6.195
+        },
+        {
+          "word": "you",
+          "start": 6.195,
+          "end": 6.408
+        },
+        {
+          "word": "keep",
+          "start": 6.408,
+          "end": 6.622
+        },
+        {
+          "word": "doing",
+          "start": 6.622,
+          "end": 6.835
+        },
+        {
+          "word": "it?",
+          "start": 6.835,
+          "end": 7.088
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Blame a pigeon.",
+      "start": 7.489,
+      "end": 8.336,
+      "emphasis": [
+        "pigeon."
+      ],
+      "words": [
+        {
+          "word": "Blame",
+          "start": 7.489,
+          "end": 7.805
+        },
+        {
+          "word": "a",
+          "start": 7.805,
+          "end": 7.986
+        },
+        {
+          "word": "pigeon.",
+          "start": 7.986,
+          "end": 8.336
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "In the 1950s, psychologist B. F. Skinner trained pigeons to peck a button for food.",
+      "start": 8.686,
+      "end": 14.657,
+      "emphasis": [
+        "pigeons"
+      ],
+      "words": [
+        {
+          "word": "In",
+          "start": 8.686,
+          "end": 8.972
+        },
+        {
+          "word": "the",
+          "start": 8.972,
+          "end": 9.257
+        },
+        {
+          "word": "1950s,",
+          "start": 9.257,
+          "end": 9.595
+        },
+        {
+          "word": "psychologist",
+          "start": 9.595,
+          "end": 10.514
+        },
+        {
+          "word": "B.",
+          "start": 10.514,
+          "end": 10.853
+        },
+        {
+          "word": "F.",
+          "start": 10.853,
+          "end": 11.191
+        },
+        {
+          "word": "Skinner",
+          "start": 11.191,
+          "end": 11.687
+        },
+        {
+          "word": "trained",
+          "start": 11.687,
+          "end": 12.184
+        },
+        {
+          "word": "pigeons",
+          "start": 12.184,
+          "end": 12.681
+        },
+        {
+          "word": "to",
+          "start": 12.681,
+          "end": 12.966
+        },
+        {
+          "word": "peck",
+          "start": 12.966,
+          "end": 13.251
+        },
+        {
+          "word": "a",
+          "start": 13.251,
+          "end": 13.537
+        },
+        {
+          "word": "button",
+          "start": 13.537,
+          "end": 14.033
+        },
+        {
+          "word": "for",
+          "start": 14.033,
+          "end": 14.319
+        },
+        {
+          "word": "food.",
+          "start": 14.319,
+          "end": 14.657
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Pigeons that got food every single time pecked calmly.",
+      "start": 14.857,
+      "end": 17.825,
+      "emphasis": [
+        "calmly."
+      ],
+      "words": [
+        {
+          "word": "Pigeons",
+          "start": 14.857,
+          "end": 15.216
+        },
+        {
+          "word": "that",
+          "start": 15.216,
+          "end": 15.423
+        },
+        {
+          "word": "got",
+          "start": 15.423,
+          "end": 15.629
+        },
+        {
+          "word": "food",
+          "start": 15.629,
+          "end": 15.836
+        },
+        {
+          "word": "every",
+          "start": 15.836,
+          "end": 16.348
+        },
+        {
+          "word": "single",
+          "start": 16.348,
+          "end": 16.708
+        },
+        {
+          "word": "time",
+          "start": 16.708,
+          "end": 17.067
+        },
+        {
+          "word": "pecked",
+          "start": 17.067,
+          "end": 17.427
+        },
+        {
+          "word": "calmly.",
+          "start": 17.427,
+          "end": 17.825
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "But pigeons that got food at random, only sometimes, pecked like crazy, and kept going long after the food stopped.",
+      "start": 18.025,
+      "end": 24.798,
+      "emphasis": [
+        "crazy,"
+      ],
+      "words": [
+        {
+          "word": "But",
+          "start": 18.025,
+          "end": 18.259
+        },
+        {
+          "word": "pigeons",
+          "start": 18.259,
+          "end": 18.667
+        },
+        {
+          "word": "that",
+          "start": 18.667,
+          "end": 18.902
+        },
+        {
+          "word": "got",
+          "start": 18.902,
+          "end": 19.136
+        },
+        {
+          "word": "food",
+          "start": 19.136,
+          "end": 19.371
+        },
+        {
+          "word": "at",
+          "start": 19.371,
+          "end": 19.605
+        },
+        {
+          "word": "random,",
+          "start": 19.605,
+          "end": 20.057
+        },
+        {
+          "word": "only",
+          "start": 20.057,
+          "end": 20.465
+        },
+        {
+          "word": "sometimes,",
+          "start": 20.465,
+          "end": 21.264
+        },
+        {
+          "word": "pecked",
+          "start": 21.264,
+          "end": 21.672
+        },
+        {
+          "word": "like",
+          "start": 21.672,
+          "end": 22.08
+        },
+        {
+          "word": "crazy,",
+          "start": 22.08,
+          "end": 22.531
+        },
+        {
+          "word": "and",
+          "start": 22.531,
+          "end": 22.766
+        },
+        {
+          "word": "kept",
+          "start": 22.766,
+          "end": 23.0
+        },
+        {
+          "word": "going",
+          "start": 23.0,
+          "end": 23.235
+        },
+        {
+          "word": "long",
+          "start": 23.235,
+          "end": 23.469
+        },
+        {
+          "word": "after",
+          "start": 23.469,
+          "end": 23.878
+        },
+        {
+          "word": "the",
+          "start": 23.878,
+          "end": 24.112
+        },
+        {
+          "word": "food",
+          "start": 24.112,
+          "end": 24.346
+        },
+        {
+          "word": "stopped.",
+          "start": 24.346,
+          "end": 24.798
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "Unpredictable rewards are the hardest to quit.",
+      "start": 25.148,
+      "end": 27.705,
+      "emphasis": [
+        "hardest"
+      ],
+      "words": [
+        {
+          "word": "Unpredictable",
+          "start": 25.148,
+          "end": 25.967
+        },
+        {
+          "word": "rewards",
+          "start": 25.967,
+          "end": 26.327
+        },
+        {
+          "word": "are",
+          "start": 26.327,
+          "end": 26.687
+        },
+        {
+          "word": "the",
+          "start": 26.687,
+          "end": 26.893
+        },
+        {
+          "word": "hardest",
+          "start": 26.893,
+          "end": 27.253
+        },
+        {
+          "word": "to",
+          "start": 27.253,
+          "end": 27.46
+        },
+        {
+          "word": "quit.",
+          "start": 27.46,
+          "end": 27.705
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Now look at your phone.",
+      "start": 28.005,
+      "end": 29.06,
+      "emphasis": [
+        "phone."
+      ],
+      "words": [
+        {
+          "word": "Now",
+          "start": 28.005,
+          "end": 28.183
+        },
+        {
+          "word": "look",
+          "start": 28.183,
+          "end": 28.361
+        },
+        {
+          "word": "at",
+          "start": 28.361,
+          "end": 28.539
+        },
+        {
+          "word": "your",
+          "start": 28.539,
+          "end": 28.717
+        },
+        {
+          "word": "phone.",
+          "start": 28.717,
+          "end": 29.06
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "Sometimes there's a message. Sometimes a like. Most of the time, nothing.",
+      "start": 29.26,
+      "end": 33.181,
+      "emphasis": [
+        "nothing."
+      ],
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 29.26,
+          "end": 29.844
+        },
+        {
+          "word": "there's",
+          "start": 29.844,
+          "end": 30.159
+        },
+        {
+          "word": "a",
+          "start": 30.159,
+          "end": 30.341
+        },
+        {
+          "word": "message.",
+          "start": 30.341,
+          "end": 30.824
+        },
+        {
+          "word": "Sometimes",
+          "start": 30.824,
+          "end": 31.408
+        },
+        {
+          "word": "a",
+          "start": 31.408,
+          "end": 31.589
+        },
+        {
+          "word": "like.",
+          "start": 31.589,
+          "end": 31.939
+        },
+        {
+          "word": "Most",
+          "start": 31.939,
+          "end": 32.12
+        },
+        {
+          "word": "of",
+          "start": 32.12,
+          "end": 32.301
+        },
+        {
+          "word": "the",
+          "start": 32.301,
+          "end": 32.482
+        },
+        {
+          "word": "time,",
+          "start": 32.482,
+          "end": 32.831
+        },
+        {
+          "word": "nothing.",
+          "start": 32.831,
+          "end": 33.181
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Your brain can't predict which one you'll get, so it keeps pulling the lever.",
+      "start": 33.381,
+      "end": 36.775,
+      "emphasis": [
+        "lever."
+      ],
+      "words": [
+        {
+          "word": "Your",
+          "start": 33.381,
+          "end": 33.576
+        },
+        {
+          "word": "brain",
+          "start": 33.576,
+          "end": 33.772
+        },
+        {
+          "word": "can't",
+          "start": 33.772,
+          "end": 33.968
+        },
+        {
+          "word": "predict",
+          "start": 33.968,
+          "end": 34.309
+        },
+        {
+          "word": "which",
+          "start": 34.309,
+          "end": 34.505
+        },
+        {
+          "word": "one",
+          "start": 34.505,
+          "end": 34.846
+        },
+        {
+          "word": "you'll",
+          "start": 34.846,
+          "end": 35.041
+        },
+        {
+          "word": "get,",
+          "start": 35.041,
+          "end": 35.273
+        },
+        {
+          "word": "so",
+          "start": 35.273,
+          "end": 35.469
+        },
+        {
+          "word": "it",
+          "start": 35.469,
+          "end": 35.665
+        },
+        {
+          "word": "keeps",
+          "start": 35.665,
+          "end": 35.861
+        },
+        {
+          "word": "pulling",
+          "start": 35.861,
+          "end": 36.202
+        },
+        {
+          "word": "the",
+          "start": 36.202,
+          "end": 36.397
+        },
+        {
+          "word": "lever.",
+          "start": 36.397,
+          "end": 36.775
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "Your phone is a slot machine in your pocket.",
+      "start": 37.025,
+      "end": 39.065,
+      "emphasis": [
+        "slot"
+      ],
+      "words": [
+        {
+          "word": "Your",
+          "start": 37.025,
+          "end": 37.193
+        },
+        {
+          "word": "phone",
+          "start": 37.193,
+          "end": 37.485
+        },
+        {
+          "word": "is",
+          "start": 37.485,
+          "end": 37.653
+        },
+        {
+          "word": "a",
+          "start": 37.653,
+          "end": 37.821
+        },
+        {
+          "word": "slot",
+          "start": 37.821,
+          "end": 37.989
+        },
+        {
+          "word": "machine",
+          "start": 37.989,
+          "end": 38.405
+        },
+        {
+          "word": "in",
+          "start": 38.405,
+          "end": 38.573
+        },
+        {
+          "word": "your",
+          "start": 38.573,
+          "end": 38.741
+        },
+        {
+          "word": "pocket.",
+          "start": 38.741,
+          "end": 39.065
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "Want to break the loop? Make the lever harder to pull.",
+      "start": 39.415,
+      "end": 41.843,
+      "emphasis": [
+        "harder"
+      ],
+      "words": [
+        {
+          "word": "Want",
+          "start": 39.415,
+          "end": 39.593
+        },
+        {
+          "word": "to",
+          "start": 39.593,
+          "end": 39.772
+        },
+        {
+          "word": "break",
+          "start": 39.772,
+          "end": 39.951
+        },
+        {
+          "word": "the",
+          "start": 39.951,
+          "end": 40.129
+        },
+        {
+          "word": "loop?",
+          "start": 40.129,
+          "end": 40.341
+        },
+        {
+          "word": "Make",
+          "start": 40.341,
+          "end": 40.652
+        },
+        {
+          "word": "the",
+          "start": 40.652,
+          "end": 40.831
+        },
+        {
+          "word": "lever",
+          "start": 40.831,
+          "end": 41.142
+        },
+        {
+          "word": "harder",
+          "start": 41.142,
+          "end": 41.453
+        },
+        {
+          "word": "to",
+          "start": 41.453,
+          "end": 41.631
+        },
+        {
+          "word": "pull.",
+          "start": 41.631,
+          "end": 41.843
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "Turn off notifications you don't need. Charge your phone in another room. Try grayscale mode, so the screen looks boring.",
+      "start": 42.043,
+      "end": 48.868,
+      "emphasis": [
+        "boring."
+      ],
+      "words": [
+        {
+          "word": "Turn",
+          "start": 42.043,
+          "end": 42.274
+        },
+        {
+          "word": "off",
+          "start": 42.274,
+          "end": 42.504
+        },
+        {
+          "word": "notifications",
+          "start": 42.504,
+          "end": 43.417
+        },
+        {
+          "word": "you",
+          "start": 43.417,
+          "end": 43.647
+        },
+        {
+          "word": "don't",
+          "start": 43.647,
+          "end": 43.877
+        },
+        {
+          "word": "need.",
+          "start": 43.877,
+          "end": 44.15
+        },
+        {
+          "word": "Charge",
+          "start": 44.15,
+          "end": 44.551
+        },
+        {
+          "word": "your",
+          "start": 44.551,
+          "end": 44.782
+        },
+        {
+          "word": "phone",
+          "start": 44.782,
+          "end": 45.183
+        },
+        {
+          "word": "in",
+          "start": 45.183,
+          "end": 45.413
+        },
+        {
+          "word": "another",
+          "start": 45.413,
+          "end": 45.985
+        },
+        {
+          "word": "room.",
+          "start": 45.985,
+          "end": 46.258
+        },
+        {
+          "word": "Try",
+          "start": 46.258,
+          "end": 46.488
+        },
+        {
+          "word": "grayscale",
+          "start": 46.488,
+          "end": 47.06
+        },
+        {
+          "word": "mode,",
+          "start": 47.06,
+          "end": 47.503
+        },
+        {
+          "word": "so",
+          "start": 47.503,
+          "end": 47.734
+        },
+        {
+          "word": "the",
+          "start": 47.734,
+          "end": 47.964
+        },
+        {
+          "word": "screen",
+          "start": 47.964,
+          "end": 48.194
+        },
+        {
+          "word": "looks",
+          "start": 48.194,
+          "end": 48.425
+        },
+        {
+          "word": "boring.",
+          "start": 48.425,
+          "end": 48.868
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "text": "Boring slot machines lose.",
+      "start": 49.168,
+      "end": 50.621,
+      "emphasis": [
+        "lose."
+      ],
+      "words": [
+        {
+          "word": "Boring",
+          "start": 49.168,
+          "end": 49.522
+        },
+        {
+          "word": "slot",
+          "start": 49.522,
+          "end": 49.725
+        },
+        {
+          "word": "machines",
+          "start": 49.725,
+          "end": 50.23
+        },
+        {
+          "word": "lose.",
+          "start": 50.23,
+          "end": 50.621
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "text": "Be honest. Did you check your phone while watching this?",
+      "start": 51.021,
+      "end": 53.555,
+      "emphasis": [
+        "honest."
+      ],
+      "words": [
+        {
+          "word": "Be",
+          "start": 51.021,
+          "end": 51.211
+        },
+        {
+          "word": "honest.",
+          "start": 51.211,
+          "end": 51.577
+        },
+        {
+          "word": "Did",
+          "start": 51.577,
+          "end": 51.767
+        },
+        {
+          "word": "you",
+          "start": 51.767,
+          "end": 51.957
+        },
+        {
+          "word": "check",
+          "start": 51.957,
+          "end": 52.147
+        },
+        {
+          "word": "your",
+          "start": 52.147,
+          "end": 52.337
+        },
+        {
+          "word": "phone",
+          "start": 52.337,
+          "end": 52.668
+        },
+        {
+          "word": "while",
+          "start": 52.668,
+          "end": 52.999
+        },
+        {
+          "word": "watching",
+          "start": 52.999,
+          "end": 53.33
+        },
+        {
+          "word": "this?",
+          "start": 53.33,
+          "end": 53.555
+        }
+      ]
+    }
+  ]
+}

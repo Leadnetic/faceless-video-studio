@@ -1,0 +1,106 @@
+{
+  "id": "psychology-video-013",
+  "title": "The Bunker (Part 1)",
+  "voice": {
+    "engine": "kokoro-onnx v1.0 (local)",
+    "voice": "af_heart",
+    "speed": 1.04,
+    "pitchShift": 1.0,
+    "dry": true
+  },
+  "leadIn": 0.1,
+  "tail": 1.8,
+  "cast": {
+    "reader": {
+      "voice": "bm_george",
+      "speed": 1.04,
+      "lang": "en-gb"
+    },
+    "pa": {
+      "voice": "af_sarah",
+      "speed": 0.98,
+      "gain": 0.9
+    }
+  },
+  "lines": [
+    {
+      "speaker": "pa",
+      "text": "Warning. Bunker doors closing in ten seconds.",
+      "pause": 0.2,
+      "emphasis": [
+        "ten"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "The world is ending. You can take one thing inside.",
+      "pause": 0.25,
+      "emphasis": [
+        "one"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "A, a first-aid kit. B, food and water. C, a radio. D, a photo of someone you love.",
+      "pause": 0.3,
+      "emphasis": [
+        "A,",
+        "B,",
+        "C,",
+        "D,"
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Don't think. Pick.",
+      "pause": 0.3,
+      "emphasis": [
+        "Pick."
+      ]
+    },
+    {
+      "speaker": "pa",
+      "text": "Three. Two. One.",
+      "say": "Three... Two... One.",
+      "pause": 0.9,
+      "emphasis": [
+        "One."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Done? Good.",
+      "pause": 0.35,
+      "emphasis": [
+        "Good."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "What you grab in a panic shows how your brain handles fear.",
+      "pause": 0.25,
+      "emphasis": [
+        "panic",
+        "fear."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Two of these protect your body. Two of them protect something else.",
+      "pause": 0.35,
+      "emphasis": [
+        "body.",
+        "else."
+      ]
+    },
+    {
+      "speaker": "reader",
+      "text": "Comment your letter. In part two, I'll read you.",
+      "pause": 0.2,
+      "emphasis": [
+        "letter.",
+        "two,"
+      ]
+    }
+  ]
+}
