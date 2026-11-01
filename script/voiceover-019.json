@@ -1,0 +1,128 @@
+{
+  "id": "psychology-video-019",
+  "title": "The obedience experiment",
+  "voice": {
+    "engine": "kokoro (fallback)",
+    "voice": "af_heart",
+    "speed": 1.02,
+    "dry": true
+  },
+  "eleven": {
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "model": "eleven_v3",
+    "stability": 0.35,
+    "similarity": 0.8,
+    "style": 0.5
+  },
+  "leadIn": 0.1,
+  "tail": 2.0,
+  "lines": [
+    {
+      "text": "In 1961, a Yale psychologist asked ordinary people to give electric shocks to a stranger. Up to 450 volts.",
+      "pause": 0.3,
+      "emphasis": [
+        "450"
+      ],
+      "say11": "[serious] In 1961, a Yale psychologist asked ordinary people to give electric shocks to a stranger. [pause] Up to four hundred and fifty volts."
+    },
+    {
+      "text": "Two out of three went all the way.",
+      "pause": 0.4,
+      "emphasis": [
+        "Two",
+        "three"
+      ],
+      "say11": "[low, grave] Two out of three... went all the way."
+    },
+    {
+      "text": "The conclusion became famous. Under orders, almost anyone will hurt someone.",
+      "pause": 0.3,
+      "emphasis": [
+        "anyone"
+      ]
+    },
+    {
+      "text": "But the shocks were fake. The victim was an actor. And that's where it gets complicated.",
+      "pause": 0.35,
+      "emphasis": [
+        "fake.",
+        "complicated."
+      ],
+      "say11": "[beat] But the shocks were fake. The victim was an actor. [pause] And that's where it gets complicated."
+    },
+    {
+      "text": "Decades later, a researcher listened to the original tapes.",
+      "pause": 0.25,
+      "emphasis": [
+        "tapes."
+      ]
+    },
+    {
+      "text": "Many participants said they had doubts the shocks were even real.",
+      "pause": 0.3,
+      "emphasis": [
+        "doubts"
+      ],
+      "say11": "[curious] Many participants said they had doubts the shocks were even real."
+    },
+    {
+      "text": "And the man giving orders often went off script, pushing much harder than the official rules.",
+      "pause": 0.35,
+      "emphasis": [
+        "off",
+        "harder"
+      ]
+    },
+    {
+      "text": "Then there are the versions you never hear about. When the orders came by phone, obedience dropped to about one in five.",
+      "pause": 0.3,
+      "emphasis": [
+        "phone,",
+        "five."
+      ]
+    },
+    {
+      "text": "When two scientists disagreed, nobody went to the end.",
+      "pause": 0.4,
+      "emphasis": [
+        "nobody"
+      ],
+      "say11": "When two scientists disagreed... [pause] nobody went to the end."
+    },
+    {
+      "text": "And when a later study used the harshest order, you have no other choice, people stopped.",
+      "pause": 0.45,
+      "emphasis": [
+        "choice,",
+        "stopped."
+      ],
+      "say11": "And when a later study used the harshest order... [dramatic] \"you have no other choice\"... [beat] people stopped."
+    },
+    {
+      "text": "So the lesson isn't that we blindly obey. People kept going when they believed in the cause. When they were simply commanded, they refused.",
+      "pause": 0.4,
+      "emphasis": [
+        "believed",
+        "refused."
+      ],
+      "say11": "[thoughtful] So the lesson isn't that we blindly obey. People kept going when they believed in the cause. When they were simply commanded... they refused."
+    },
+    {
+      "text": "So the real question isn't, would I obey? It's, what do I believe in enough to go too far?",
+      "pause": 0.45,
+      "emphasis": [
+        "believe",
+        "far?"
+      ],
+      "say11": "[warm, intimate] So the real question isn't... would I obey? [pause] It's... what do I believe in enough to go too far?"
+    },
+    {
+      "text": "Next file: a test that was supposed to predict your whole future, with one marshmallow.",
+      "pause": 0.2,
+      "emphasis": [
+        "marshmallow."
+      ],
+      "say11": "[mysterious] Next file: a test that was supposed to predict your whole future... [whispers] with one marshmallow."
+    }
+  ]
+}

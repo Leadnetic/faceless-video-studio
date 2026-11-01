@@ -14,7 +14,17 @@ const w = n.word;
 const CRACK = w(4, 6);
 const PREV_X = -4300; // file 017 hangs to the left on the same wall
 
-const CAM: CamKey[] = [
+/** Times below were authored on the first narration take; R() maps them onto whatever take is current. */
+const OLD = [0.10, 8.35, 12.21, 19.04, 28.60, 32.30, 37.27, 44.51, 49.53, 54.01, 61.50, 68.60, 76.16, 79.01, 87.39];
+const NEW = [...tl.lines.map((l) => l.start), tl.duration];
+const R = (x: number) => {
+	for (let i = 0; i < OLD.length - 1; i++) {
+		if (x <= OLD[i + 1]) return NEW[i] + ((x - OLD[i]) / (OLD[i + 1] - OLD[i])) * (NEW[i + 1] - NEW[i]);
+	}
+	return NEW[NEW.length - 1] + (x - OLD[OLD.length - 1]);
+};
+
+const CAM0: CamKey[] = [
 	[0, 540, 640, 1.3, -2],
 	[5.5, 560, 700, 1.0, 0],
 	[7.4, 1000, 700, 0.62, 0],
@@ -46,6 +56,7 @@ const CAM: CamKey[] = [
 	[81.6, 1000, 6520, 1.0, 0],
 	[87.4, 1000, 6520, 1.25, 0],
 ];
+const CAM: CamKey[] = CAM0.map(([t, ...rest]) => [R(t), ...rest] as CamKey);
 
 const Bars: React.FC<{t: number; items: [string, number, number, string][]}> = ({t, items}) => (
 	<div style={{position: 'absolute', left: 50, right: 50, top: 150, height: 330, display: 'flex', alignItems: 'flex-end', gap: 60}}>
@@ -63,9 +74,11 @@ const World: React.FC<{t: number}> = ({t}) => (
 	<>
 		<Cork x0={-8000} w={13500} />
 		{/* the previous file stays pinned to the wall (series continuity) */}
-		<div style={{position: 'absolute', left: PREV_X, top: 0}}>
-			<episode017.World t={999} />
-		</div>
+		{t > R(78.6) && t < R(81.6) ? (
+			<div style={{position: 'absolute', left: PREV_X, top: 0}}>
+				<episode017.World t={999} />
+			</div>
+		) : null}
 		<div style={{position: 'absolute', left: PREV_X - 600, top: -1800, fontFamily: fonts.punch, fontWeight: 900, fontSize: 520, color: B.paper, opacity: 0.85}}>FILE 017</div>
 		<div style={{position: 'absolute', left: -300, top: -1800, fontFamily: fonts.punch, fontWeight: 900, fontSize: 520, color: B.mustard}}>FILE 018</div>
 		{/* ---- A: the 1964 report ---- */}
@@ -257,35 +270,35 @@ export const episode018: BoardEpisodeDef = {
 		['stamp', w(0, 1), 0.5],
 		['shutter', w(0, 6) - 0.2, 0.4],
 		['twang', w(0, 6), 0.3],
-		['whoosh', 8.3, 0.3],
+		['whoosh', R(8.3), 0.3],
 		['shutter', w(1, 0) - 0.3, 0.35],
-		['whoosh', 12.3, 0.3],
+		['whoosh', R(12.3), 0.3],
 		['paper', w(2, 0) - 0.2, 0.35],
-		['whoosh', 19.0, 0.3],
+		['whoosh', R(19.0), 0.3],
 		['pin', w(3, 12), 0.35],
 		['pin', w(3, 23), 0.35],
-		['whoosh', 28.6, 0.4],
+		['whoosh', R(28.6), 0.4],
 		['stamp', w(4, 2), 0.5],
 		['crack', CRACK - 0.02, 0.8],
 		['paper', w(5, 3), 0.3],
-		['whoosh', 37.3, 0.3],
+		['whoosh', R(37.3), 0.3],
 		['pin', w(6, 4), 0.35],
 		['shutter', w(6, 8) - 0.2, 0.35],
-		['whoosh', 44.6, 0.3],
+		['whoosh', R(44.6), 0.3],
 		['type', w(7, 3), 0.3],
 		['stamp', w(7, 10), 0.55],
-		['whoosh', 49.6, 0.3],
+		['whoosh', R(49.6), 0.3],
 		['pin', w(8, 5), 0.35],
 		['pin', w(8, 12), 0.35],
-		['whoosh', 54.1, 0.4],
+		['whoosh', R(54.1), 0.4],
 		['stamp', w(9, 2), 0.5],
 		['shutter', w(9, 5), 0.3],
 		['twang', w(10, 1), 0.3],
-		['whoosh', 68.6, 0.3],
+		['whoosh', R(68.6), 0.3],
 		['heart', w(11, 10), 0.4],
 		['pin', w(12, 3), 0.4],
-		['whoosh', 78.9, 0.45],
-		['whoosh', 81.3, 0.4],
+		['whoosh', R(78.9), 0.45],
+		['whoosh', R(81.3), 0.4],
 		['stamp', w(13, 17), 0.55],
 	],
 	music: 0.3,

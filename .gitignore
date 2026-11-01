@@ -11,5 +11,6 @@ tools/__pycache__/
 public/audio/*
 !public/audio/v017/
 !public/audio/v018/
+!public/audio/v019/
 *.log
 .DS_Store
