@@ -12,6 +12,8 @@ import {ToonLab} from './lab/ToonLab';
 import {NoirLab} from './lab/NoirLab';
 import {NoirEpisode} from './NoirEpisode';
 import {BoardEpisode} from './BoardEpisode';
+import {TierEpisode} from './TierEpisode';
+import {TIER_EPISODES} from './videos/tier';
 import {BOARD_EPISODES} from './videos/board';
 import {NOIR_EPISODES} from './videos/noir';
 import {VIDEO} from './theme';
@@ -103,6 +105,9 @@ export const RemotionRoot: React.FC = () => (
 				height={VIDEO.height}
 				defaultProps={{epId, guides: false}}
 			/>
+		))}
+		{Object.entries(TIER_EPISODES).map(([epId, ep]) => (
+			<Composition key={epId} id={`Episode${epId}`} component={TierEpisode} durationInFrames={Math.ceil(ep.timeline.duration * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{epId, guides: false}} />
 		))}
 		<Still id="NoirLab" component={NoirLab} width={1080} height={1920} />
 		<Still id="ToonLab" component={ToonLab} width={1080} height={1920} />

@@ -1,0 +1,110 @@
+{
+  "id": "psychology-video-020",
+  "title": "Anxious attachment tierlist",
+  "voice": {
+    "engine": "kokoro (fallback)",
+    "voice": "af_heart",
+    "speed": 1.02,
+    "dry": true
+  },
+  "eleven": {
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "model": "eleven_v3",
+    "stability": 0.4,
+    "similarity": 0.8,
+    "style": 0.45
+  },
+  "leadIn": 0.1,
+  "tail": 1.6,
+  "lines": [
+    {
+      "text": "If you have an anxious attachment style, you know this feeling. They take too long to text back, and your brain starts writing the worst story.",
+      "pause": 0.35,
+      "emphasis": [
+        "anxious",
+        "worst"
+      ],
+      "say11": "[tense, quiet] If you have an anxious attachment style, you know this feeling. [pause] They take too long to text back... and your brain starts writing the worst story."
+    },
+    {
+      "text": "Here's every coping move, ranked from what makes it worse to what actually works. And the S tier is the one almost nobody does.",
+      "pause": 0.4,
+      "emphasis": [
+        "S",
+        "nobody"
+      ],
+      "say11": "Here's every coping move, ranked... from what makes it worse, to what actually works. [pause] And the S tier is the one almost nobody does."
+    },
+    {
+      "text": "F tier. Checking if they're online. It feels like relief, but every check teaches your brain the danger is real.",
+      "pause": 0.35,
+      "emphasis": [
+        "F",
+        "danger"
+      ],
+      "say11": "F tier. [beat] Checking if they're online. It feels like relief... but every check teaches your brain the danger is real."
+    },
+    {
+      "text": "D tier. The double text. Attachment experts call it protest behavior. A bid for closeness that usually pushes people away.",
+      "pause": 0.35,
+      "emphasis": [
+        "D",
+        "protest"
+      ],
+      "say11": "D tier. The double text. [knowing] Attachment experts call it protest behavior. A bid for closeness that usually pushes people away."
+    },
+    {
+      "text": "C tier. Distracting yourself. It works, for about twenty minutes. Then the feeling comes back louder.",
+      "pause": 0.35,
+      "emphasis": [
+        "C",
+        "louder."
+      ],
+      "say11": "C tier. Distracting yourself. It works... for about twenty minutes. [pause] Then the feeling comes back louder."
+    },
+    {
+      "text": "B tier. Naming the feeling. In brain scans, putting an emotion into words calmed the amygdala, your alarm system. So say it. I feel abandoned right now.",
+      "pause": 0.35,
+      "emphasis": [
+        "B",
+        "amygdala,"
+      ],
+      "say11": "B tier. Naming the feeling. In brain scans, putting an emotion into words calmed the amygdala, your brain's alarm system. [softly] So say it. I feel abandoned right now."
+    },
+    {
+      "text": "A tier. The physiological sigh. Two breaths in through the nose, one long breath out. In a Stanford study, five minutes a day lifted mood more than meditation.",
+      "pause": 0.35,
+      "emphasis": [
+        "A",
+        "sigh."
+      ],
+      "say11": "A tier. The physiological sigh. [slowly] Two breaths in through the nose... one long breath out. [normal] In a Stanford study, five minutes a day lifted mood more than meditation."
+    },
+    {
+      "text": "And S tier. Asking for what you need, before the panic starts. Not, why are you ignoring me. But, I feel calmer when we check in at night. Can we do that?",
+      "pause": 0.35,
+      "emphasis": [
+        "S",
+        "before"
+      ],
+      "say11": "[warm] And S tier. Asking for what you need... before the panic starts. Not, [annoyed] why are you ignoring me? [warm, gentle] But, I feel calmer when we check in at night. Can we do that?"
+    },
+    {
+      "text": "Studies show that with a responsive partner, anxious attachment can become more secure over time. It's not a life sentence.",
+      "pause": 0.4,
+      "emphasis": [
+        "secure",
+        "sentence."
+      ],
+      "say11": "[reassuring] Studies show that with a responsive partner, anxious attachment can become more secure over time. It's not a life sentence."
+    },
+    {
+      "text": "So which tier are you stuck in right now? Comment F to S.",
+      "pause": 0.2,
+      "emphasis": [
+        "Comment"
+      ],
+      "say11": "[curious] So which tier are you stuck in right now? Comment... F to S."
+    }
+  ]
+}

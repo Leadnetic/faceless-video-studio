@@ -1,0 +1,1256 @@
+{
+  "id": "psychology-video-020",
+  "title": "Anxious attachment tierlist",
+  "duration": 103.79,
+  "lines": [
+    {
+      "index": 0,
+      "text": "If you have an anxious attachment style, you know this feeling. They take too long to text back, and your brain starts writing the worst story.",
+      "start": 0.367,
+      "end": 10.42,
+      "emphasis": [
+        "anxious",
+        "worst"
+      ],
+      "words": [
+        {
+          "word": "If",
+          "start": 0.367,
+          "end": 0.42
+        },
+        {
+          "word": "you",
+          "start": 0.46,
+          "end": 0.58
+        },
+        {
+          "word": "have",
+          "start": 0.612,
+          "end": 0.74
+        },
+        {
+          "word": "an",
+          "start": 0.767,
+          "end": 0.82
+        },
+        {
+          "word": "anxious",
+          "start": 0.89,
+          "end": 1.38
+        },
+        {
+          "word": "attachment",
+          "start": 1.424,
+          "end": 1.86
+        },
+        {
+          "word": "style,",
+          "start": 1.94,
+          "end": 2.82
+        },
+        {
+          "word": "you",
+          "start": 2.88,
+          "end": 3.06
+        },
+        {
+          "word": "know",
+          "start": 3.108,
+          "end": 3.3
+        },
+        {
+          "word": "this",
+          "start": 3.348,
+          "end": 3.54
+        },
+        {
+          "word": "feeling.",
+          "start": 3.61,
+          "end": 4.101
+        },
+        {
+          "word": "They",
+          "start": 5.556,
+          "end": 5.62
+        },
+        {
+          "word": "take",
+          "start": 5.652,
+          "end": 5.78
+        },
+        {
+          "word": "too",
+          "start": 5.84,
+          "end": 6.02
+        },
+        {
+          "word": "long",
+          "start": 6.052,
+          "end": 6.18
+        },
+        {
+          "word": "to",
+          "start": 6.233,
+          "end": 6.34
+        },
+        {
+          "word": "text",
+          "start": 6.404,
+          "end": 6.66
+        },
+        {
+          "word": "back,",
+          "start": 6.74,
+          "end": 7.62
+        },
+        {
+          "word": "and",
+          "start": 7.68,
+          "end": 7.86
+        },
+        {
+          "word": "your",
+          "start": 7.892,
+          "end": 8.02
+        },
+        {
+          "word": "brain",
+          "start": 8.073,
+          "end": 8.34
+        },
+        {
+          "word": "starts",
+          "start": 8.386,
+          "end": 8.66
+        },
+        {
+          "word": "writing",
+          "start": 8.7,
+          "end": 8.98
+        },
+        {
+          "word": "the",
+          "start": 9.02,
+          "end": 9.14
+        },
+        {
+          "word": "worst",
+          "start": 9.233,
+          "end": 9.7
+        },
+        {
+          "word": "story.",
+          "start": 9.807,
+          "end": 10.42
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "Here's every coping move, ranked from what makes it worse to what actually works. And the S tier is the one almost nobody does.",
+      "start": 10.77,
+      "end": 20.61,
+      "emphasis": [
+        "S",
+        "nobody"
+      ],
+      "words": [
+        {
+          "word": "Here's",
+          "start": 10.77,
+          "end": 11.09
+        },
+        {
+          "word": "every",
+          "start": 11.143,
+          "end": 11.41
+        },
+        {
+          "word": "coping",
+          "start": 11.467,
+          "end": 11.81
+        },
+        {
+          "word": "move,",
+          "start": 11.89,
+          "end": 12.37
+        },
+        {
+          "word": "ranked",
+          "start": 12.427,
+          "end": 13.17
+        },
+        {
+          "word": "from",
+          "start": 13.202,
+          "end": 13.33
+        },
+        {
+          "word": "what",
+          "start": 13.362,
+          "end": 13.49
+        },
+        {
+          "word": "makes",
+          "start": 13.53,
+          "end": 13.73
+        },
+        {
+          "word": "it",
+          "start": 13.783,
+          "end": 13.89
+        },
+        {
+          "word": "worse",
+          "start": 13.943,
+          "end": 14.29
+        },
+        {
+          "word": "to",
+          "start": 14.423,
+          "end": 14.69
+        },
+        {
+          "word": "what",
+          "start": 14.722,
+          "end": 14.85
+        },
+        {
+          "word": "actually",
+          "start": 14.894,
+          "end": 15.25
+        },
+        {
+          "word": "works.",
+          "start": 15.343,
+          "end": 15.89
+        },
+        {
+          "word": "And",
+          "start": 17.255,
+          "end": 17.57
+        },
+        {
+          "word": "the",
+          "start": 17.61,
+          "end": 17.73
+        },
+        {
+          "word": "S",
+          "start": 17.85,
+          "end": 17.97
+        },
+        {
+          "word": "tier",
+          "start": 18.034,
+          "end": 18.29
+        },
+        {
+          "word": "is",
+          "start": 18.343,
+          "end": 18.45
+        },
+        {
+          "word": "the",
+          "start": 18.49,
+          "end": 18.61
+        },
+        {
+          "word": "one",
+          "start": 18.67,
+          "end": 18.85
+        },
+        {
+          "word": "almost",
+          "start": 18.93,
+          "end": 19.41
+        },
+        {
+          "word": "nobody",
+          "start": 19.479,
+          "end": 19.89
+        },
+        {
+          "word": "does.",
+          "start": 19.97,
+          "end": 20.61
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "F tier. Checking if they're online. It feels like relief, but every check teaches your brain the danger is real.",
+      "start": 21.01,
+      "end": 29.33,
+      "emphasis": [
+        "F",
+        "danger"
+      ],
+      "words": [
+        {
+          "word": "F",
+          "start": 21.01,
+          "end": 21.25
+        },
+        {
+          "word": "tier.",
+          "start": 21.33,
+          "end": 21.73
+        },
+        {
+          "word": "Checking",
+          "start": 22.779,
+          "end": 22.85
+        },
+        {
+          "word": "if",
+          "start": 22.903,
+          "end": 23.01
+        },
+        {
+          "word": "they're",
+          "start": 23.026,
+          "end": 23.17
+        },
+        {
+          "word": "online.",
+          "start": 23.25,
+          "end": 23.81
+        },
+        {
+          "word": "It",
+          "start": 23.997,
+          "end": 24.37
+        },
+        {
+          "word": "feels",
+          "start": 24.437,
+          "end": 24.77
+        },
+        {
+          "word": "like",
+          "start": 24.818,
+          "end": 25.01
+        },
+        {
+          "word": "relief,",
+          "start": 25.09,
+          "end": 25.81
+        },
+        {
+          "word": "but",
+          "start": 25.85,
+          "end": 25.97
+        },
+        {
+          "word": "every",
+          "start": 26.037,
+          "end": 26.37
+        },
+        {
+          "word": "check",
+          "start": 26.437,
+          "end": 26.77
+        },
+        {
+          "word": "teaches",
+          "start": 26.81,
+          "end": 27.09
+        },
+        {
+          "word": "your",
+          "start": 27.122,
+          "end": 27.25
+        },
+        {
+          "word": "brain",
+          "start": 27.303,
+          "end": 27.57
+        },
+        {
+          "word": "the",
+          "start": 27.63,
+          "end": 27.81
+        },
+        {
+          "word": "danger",
+          "start": 27.879,
+          "end": 28.29
+        },
+        {
+          "word": "is",
+          "start": 28.37,
+          "end": 28.53
+        },
+        {
+          "word": "real.",
+          "start": 28.626,
+          "end": 29.33
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "D tier. The double text. Attachment experts call it protest behavior. A bid for closeness that usually pushes people away.",
+      "start": 29.68,
+      "end": 39.123,
+      "emphasis": [
+        "D",
+        "protest"
+      ],
+      "words": [
+        {
+          "word": "D",
+          "start": 29.68,
+          "end": 29.84
+        },
+        {
+          "word": "tier.",
+          "start": 29.936,
+          "end": 30.4
+        },
+        {
+          "word": "The",
+          "start": 30.58,
+          "end": 31.12
+        },
+        {
+          "word": "double",
+          "start": 31.166,
+          "end": 31.44
+        },
+        {
+          "word": "text.",
+          "start": 31.552,
+          "end": 32.08
+        },
+        {
+          "word": "Attachment",
+          "start": 33.058,
+          "end": 33.203
+        },
+        {
+          "word": "experts",
+          "start": 33.273,
+          "end": 33.763
+        },
+        {
+          "word": "call",
+          "start": 33.795,
+          "end": 33.923
+        },
+        {
+          "word": "it",
+          "start": 33.976,
+          "end": 34.083
+        },
+        {
+          "word": "protest",
+          "start": 34.183,
+          "end": 34.883
+        },
+        {
+          "word": "behavior.",
+          "start": 34.954,
+          "end": 35.524
+        },
+        {
+          "word": "A",
+          "start": 35.763,
+          "end": 36.003
+        },
+        {
+          "word": "bid",
+          "start": 36.063,
+          "end": 36.243
+        },
+        {
+          "word": "for",
+          "start": 36.283,
+          "end": 36.403
+        },
+        {
+          "word": "closeness",
+          "start": 36.451,
+          "end": 37.043
+        },
+        {
+          "word": "that",
+          "start": 37.075,
+          "end": 37.203
+        },
+        {
+          "word": "usually",
+          "start": 37.253,
+          "end": 37.603
+        },
+        {
+          "word": "pushes",
+          "start": 37.66,
+          "end": 38.003
+        },
+        {
+          "word": "people",
+          "start": 38.049,
+          "end": 38.323
+        },
+        {
+          "word": "away.",
+          "start": 38.419,
+          "end": 39.123
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "C tier. Distracting yourself. It works, for about twenty minutes. Then the feeling comes back louder.",
+      "start": 39.47,
+      "end": 48.513,
+      "emphasis": [
+        "C",
+        "louder."
+      ],
+      "words": [
+        {
+          "word": "C",
+          "start": 39.47,
+          "end": 39.63
+        },
+        {
+          "word": "tier.",
+          "start": 39.71,
+          "end": 40.11
+        },
+        {
+          "word": "Distracting",
+          "start": 40.55,
+          "end": 41.47
+        },
+        {
+          "word": "yourself.",
+          "start": 41.541,
+          "end": 42.27
+        },
+        {
+          "word": "It",
+          "start": 42.403,
+          "end": 42.67
+        },
+        {
+          "word": "works,",
+          "start": 42.763,
+          "end": 43.63
+        },
+        {
+          "word": "for",
+          "start": 43.65,
+          "end": 43.71
+        },
+        {
+          "word": "about",
+          "start": 43.763,
+          "end": 44.03
+        },
+        {
+          "word": "twenty",
+          "start": 44.076,
+          "end": 44.35
+        },
+        {
+          "word": "minutes.",
+          "start": 44.41,
+          "end": 45.15
+        },
+        {
+          "word": "Then",
+          "start": 46.769,
+          "end": 46.833
+        },
+        {
+          "word": "the",
+          "start": 46.853,
+          "end": 46.913
+        },
+        {
+          "word": "feeling",
+          "start": 46.963,
+          "end": 47.313
+        },
+        {
+          "word": "comes",
+          "start": 47.366,
+          "end": 47.633
+        },
+        {
+          "word": "back",
+          "start": 47.681,
+          "end": 47.873
+        },
+        {
+          "word": "louder.",
+          "start": 47.942,
+          "end": 48.513
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "B tier. Naming the feeling. In brain scans, putting an emotion into words calmed the amygdala, your alarm system. So say it. I feel abandoned right now.",
+      "start": 49.26,
+      "end": 61.66,
+      "emphasis": [
+        "B",
+        "amygdala,"
+      ],
+      "words": [
+        {
+          "word": "B",
+          "start": 49.26,
+          "end": 49.719
+        },
+        {
+          "word": "tier.",
+          "start": 49.719,
+          "end": 50.179
+        },
+        {
+          "word": "Naming",
+          "start": 50.179,
+          "end": 50.638
+        },
+        {
+          "word": "the",
+          "start": 50.638,
+          "end": 51.097
+        },
+        {
+          "word": "feeling.",
+          "start": 51.097,
+          "end": 51.556
+        },
+        {
+          "word": "In",
+          "start": 51.556,
+          "end": 52.016
+        },
+        {
+          "word": "brain",
+          "start": 52.016,
+          "end": 52.475
+        },
+        {
+          "word": "scans,",
+          "start": 52.475,
+          "end": 52.934
+        },
+        {
+          "word": "putting",
+          "start": 52.934,
+          "end": 53.393
+        },
+        {
+          "word": "an",
+          "start": 53.393,
+          "end": 53.853
+        },
+        {
+          "word": "emotion",
+          "start": 53.853,
+          "end": 54.312
+        },
+        {
+          "word": "into",
+          "start": 54.312,
+          "end": 54.771
+        },
+        {
+          "word": "words",
+          "start": 54.771,
+          "end": 55.23
+        },
+        {
+          "word": "calmed",
+          "start": 55.23,
+          "end": 55.69
+        },
+        {
+          "word": "the",
+          "start": 55.69,
+          "end": 56.149
+        },
+        {
+          "word": "amygdala,",
+          "start": 56.149,
+          "end": 56.608
+        },
+        {
+          "word": "your",
+          "start": 56.608,
+          "end": 57.067
+        },
+        {
+          "word": "alarm",
+          "start": 57.067,
+          "end": 57.527
+        },
+        {
+          "word": "system.",
+          "start": 57.527,
+          "end": 57.986
+        },
+        {
+          "word": "So",
+          "start": 57.986,
+          "end": 58.445
+        },
+        {
+          "word": "say",
+          "start": 58.445,
+          "end": 58.904
+        },
+        {
+          "word": "it.",
+          "start": 58.904,
+          "end": 59.364
+        },
+        {
+          "word": "I",
+          "start": 59.364,
+          "end": 59.823
+        },
+        {
+          "word": "feel",
+          "start": 59.823,
+          "end": 60.282
+        },
+        {
+          "word": "abandoned",
+          "start": 60.282,
+          "end": 60.741
+        },
+        {
+          "word": "right",
+          "start": 60.741,
+          "end": 61.201
+        },
+        {
+          "word": "now.",
+          "start": 61.201,
+          "end": 61.66
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "A tier. The physiological sigh. Two breaths in through the nose, one long breath out. In a Stanford study, five minutes a day lifted mood more than meditation.",
+      "start": 62.01,
+      "end": 76.577,
+      "emphasis": [
+        "A",
+        "sigh."
+      ],
+      "words": [
+        {
+          "word": "A",
+          "start": 62.01,
+          "end": 62.17
+        },
+        {
+          "word": "tier.",
+          "start": 62.25,
+          "end": 62.65
+        },
+        {
+          "word": "The",
+          "start": 62.75,
+          "end": 63.05
+        },
+        {
+          "word": "physiological",
+          "start": 63.107,
+          "end": 63.85
+        },
+        {
+          "word": "sigh.",
+          "start": 63.946,
+          "end": 64.41
+        },
+        {
+          "word": "Two",
+          "start": 65.972,
+          "end": 66.012
+        },
+        {
+          "word": "breaths",
+          "start": 66.069,
+          "end": 66.492
+        },
+        {
+          "word": "in",
+          "start": 66.599,
+          "end": 66.812
+        },
+        {
+          "word": "through",
+          "start": 66.842,
+          "end": 67.052
+        },
+        {
+          "word": "the",
+          "start": 67.072,
+          "end": 67.132
+        },
+        {
+          "word": "nose,",
+          "start": 67.26,
+          "end": 68.972
+        },
+        {
+          "word": "one",
+          "start": 69.072,
+          "end": 69.372
+        },
+        {
+          "word": "long",
+          "start": 69.532,
+          "end": 70.172
+        },
+        {
+          "word": "breath",
+          "start": 70.218,
+          "end": 70.492
+        },
+        {
+          "word": "out.",
+          "start": 70.652,
+          "end": 71.212
+        },
+        {
+          "word": "In",
+          "start": 72.364,
+          "end": 72.417
+        },
+        {
+          "word": "a",
+          "start": 72.457,
+          "end": 72.497
+        },
+        {
+          "word": "Stanford",
+          "start": 72.55,
+          "end": 72.977
+        },
+        {
+          "word": "study,",
+          "start": 73.03,
+          "end": 73.697
+        },
+        {
+          "word": "five",
+          "start": 73.761,
+          "end": 74.017
+        },
+        {
+          "word": "minutes",
+          "start": 74.057,
+          "end": 74.337
+        },
+        {
+          "word": "a",
+          "start": 74.417,
+          "end": 74.497
+        },
+        {
+          "word": "day",
+          "start": 74.537,
+          "end": 74.657
+        },
+        {
+          "word": "lifted",
+          "start": 74.714,
+          "end": 75.057
+        },
+        {
+          "word": "mood",
+          "start": 75.121,
+          "end": 75.377
+        },
+        {
+          "word": "more",
+          "start": 75.425,
+          "end": 75.617
+        },
+        {
+          "word": "than",
+          "start": 75.649,
+          "end": 75.777
+        },
+        {
+          "word": "meditation.",
+          "start": 75.85,
+          "end": 76.577
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "And S tier. Asking for what you need, before the panic starts. Not, why are you ignoring me. But, I feel calmer when we check in at night. Can we do that?",
+      "start": 77.12,
+      "end": 88.843,
+      "emphasis": [
+        "S",
+        "before"
+      ],
+      "words": [
+        {
+          "word": "And",
+          "start": 77.12,
+          "end": 77.48
+        },
+        {
+          "word": "S",
+          "start": 77.68,
+          "end": 77.88
+        },
+        {
+          "word": "tier.",
+          "start": 77.976,
+          "end": 78.44
+        },
+        {
+          "word": "Asking",
+          "start": 78.566,
+          "end": 79.32
+        },
+        {
+          "word": "for",
+          "start": 79.36,
+          "end": 79.48
+        },
+        {
+          "word": "what",
+          "start": 79.528,
+          "end": 79.72
+        },
+        {
+          "word": "you",
+          "start": 79.74,
+          "end": 79.8
+        },
+        {
+          "word": "need,",
+          "start": 79.896,
+          "end": 80.76
+        },
+        {
+          "word": "before",
+          "start": 80.806,
+          "end": 81.08
+        },
+        {
+          "word": "the",
+          "start": 81.12,
+          "end": 81.24
+        },
+        {
+          "word": "panic",
+          "start": 81.307,
+          "end": 81.64
+        },
+        {
+          "word": "starts.",
+          "start": 81.709,
+          "end": 82.2
+        },
+        {
+          "word": "Not,",
+          "start": 82.38,
+          "end": 83.0
+        },
+        {
+          "word": "why",
+          "start": 83.531,
+          "end": 83.561
+        },
+        {
+          "word": "are",
+          "start": 83.621,
+          "end": 83.801
+        },
+        {
+          "word": "you",
+          "start": 83.821,
+          "end": 83.881
+        },
+        {
+          "word": "ignoring",
+          "start": 83.943,
+          "end": 84.441
+        },
+        {
+          "word": "me.",
+          "start": 84.548,
+          "end": 84.841
+        },
+        {
+          "word": "But,",
+          "start": 85.533,
+          "end": 85.803
+        },
+        {
+          "word": "I",
+          "start": 85.923,
+          "end": 86.043
+        },
+        {
+          "word": "feel",
+          "start": 86.075,
+          "end": 86.203
+        },
+        {
+          "word": "calmer",
+          "start": 86.283,
+          "end": 86.683
+        },
+        {
+          "word": "when",
+          "start": 86.715,
+          "end": 86.843
+        },
+        {
+          "word": "we",
+          "start": 86.896,
+          "end": 87.003
+        },
+        {
+          "word": "check",
+          "start": 87.043,
+          "end": 87.243
+        },
+        {
+          "word": "in",
+          "start": 87.27,
+          "end": 87.323
+        },
+        {
+          "word": "at",
+          "start": 87.376,
+          "end": 87.483
+        },
+        {
+          "word": "night.",
+          "start": 87.536,
+          "end": 87.883
+        },
+        {
+          "word": "Can",
+          "start": 87.943,
+          "end": 88.123
+        },
+        {
+          "word": "we",
+          "start": 88.176,
+          "end": 88.283
+        },
+        {
+          "word": "do",
+          "start": 88.336,
+          "end": 88.443
+        },
+        {
+          "word": "that?",
+          "start": 88.507,
+          "end": 88.843
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Studies show that with a responsive partner, anxious attachment can become more secure over time. It's not a life sentence.",
+      "start": 89.532,
+      "end": 96.87,
+      "emphasis": [
+        "secure",
+        "sentence."
+      ],
+      "words": [
+        {
+          "word": "Studies",
+          "start": 89.532,
+          "end": 89.59
+        },
+        {
+          "word": "show",
+          "start": 89.654,
+          "end": 89.91
+        },
+        {
+          "word": "that",
+          "start": 89.942,
+          "end": 90.07
+        },
+        {
+          "word": "with",
+          "start": 90.102,
+          "end": 90.23
+        },
+        {
+          "word": "a",
+          "start": 90.27,
+          "end": 90.31
+        },
+        {
+          "word": "responsive",
+          "start": 90.361,
+          "end": 90.87
+        },
+        {
+          "word": "partner,",
+          "start": 90.93,
+          "end": 91.67
+        },
+        {
+          "word": "anxious",
+          "start": 91.72,
+          "end": 92.07
+        },
+        {
+          "word": "attachment",
+          "start": 92.121,
+          "end": 92.63
+        },
+        {
+          "word": "can",
+          "start": 92.67,
+          "end": 92.79
+        },
+        {
+          "word": "become",
+          "start": 92.847,
+          "end": 93.19
+        },
+        {
+          "word": "more",
+          "start": 93.238,
+          "end": 93.43
+        },
+        {
+          "word": "secure",
+          "start": 93.487,
+          "end": 93.83
+        },
+        {
+          "word": "over",
+          "start": 93.894,
+          "end": 94.15
+        },
+        {
+          "word": "time.",
+          "start": 94.23,
+          "end": 94.63
+        },
+        {
+          "word": "It's",
+          "start": 94.79,
+          "end": 95.19
+        },
+        {
+          "word": "not",
+          "start": 95.23,
+          "end": 95.35
+        },
+        {
+          "word": "a",
+          "start": 95.39,
+          "end": 95.43
+        },
+        {
+          "word": "life",
+          "start": 95.478,
+          "end": 95.67
+        },
+        {
+          "word": "sentence.",
+          "start": 95.732,
+          "end": 96.87
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "So which tier are you stuck in right now? Comment F to S.",
+      "start": 97.474,
+      "end": 101.99,
+      "emphasis": [
+        "Comment"
+      ],
+      "words": [
+        {
+          "word": "So",
+          "start": 97.474,
+          "end": 97.51
+        },
+        {
+          "word": "which",
+          "start": 97.563,
+          "end": 97.83
+        },
+        {
+          "word": "tier",
+          "start": 97.894,
+          "end": 98.15
+        },
+        {
+          "word": "are",
+          "start": 98.19,
+          "end": 98.31
+        },
+        {
+          "word": "you",
+          "start": 98.35,
+          "end": 98.47
+        },
+        {
+          "word": "stuck",
+          "start": 98.523,
+          "end": 98.79
+        },
+        {
+          "word": "in",
+          "start": 98.843,
+          "end": 98.95
+        },
+        {
+          "word": "right",
+          "start": 98.977,
+          "end": 99.11
+        },
+        {
+          "word": "now?",
+          "start": 99.19,
+          "end": 99.51
+        },
+        {
+          "word": "Comment",
+          "start": 99.63,
+          "end": 101.03
+        },
+        {
+          "word": "F",
+          "start": 101.15,
+          "end": 101.27
+        },
+        {
+          "word": "to",
+          "start": 101.323,
+          "end": 101.43
+        },
+        {
+          "word": "S.",
+          "start": 101.63,
+          "end": 101.99
+        }
+      ]
+    }
+  ]
+}

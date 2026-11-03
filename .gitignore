@@ -12,5 +12,6 @@ public/audio/*
 !public/audio/v017/
 !public/audio/v018/
 !public/audio/v019/
+!public/audio/v020/
 *.log
 .DS_Store
